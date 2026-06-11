@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Contato"
+  description="Entre em contato com a equipe do Hotmoney para parcerias, sugestões de pauta ou correções de conteúdo."
+>
+  <section class="page container">
+    <h1 class="page__title">Contato</h1>
+    <div class="page__content prose">
+      <p>
+        Quer sugerir um tema, reportar um erro ou propor uma parceria? Adoraríamos ouvir você.
+      </p>
+      <h2>E-mail</h2>
+      <p>
+        Envie sua mensagem para
+        <a href="mailto:contato@hotmoney.blog.br">contato@hotmoney.blog.br</a>
+        e responderemos em até três dias úteis.
+      </p>
+      <h2>Antes de escrever</h2>
+      <ul>
+        <li>Parcerias comerciais devem incluir proposta objetiva</li>
+        <li>Sugestões de pauta são bem-vindas com contexto e público-alvo</li>
+        <li>Não oferecemos consultoria individual por este canal</li>
+      </ul>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: var(--space-8);
+  }
+
+  .page__title {
+    margin-bottom: var(--space-6);
+    font-size: var(--text-3xl);
+    text-align: center;
+  }
+
+  .page__content {
+    margin-inline: auto;
+  }
+</style>

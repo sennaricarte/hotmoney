@@ -1,0 +1,48 @@
+---
+description: Padrões de performance, acessibilidade e arquitetura estática para o blog Astro
+alwaysApply: true
+---
+
+# Astro Performance — hotmoney.blog.br
+
+## Arquitetura estática
+
+- Este é um projeto **Astro 5** 100% estático (`output: 'static'`).
+- **Nunca** sugerir SSR, hybrid ou adapters de servidor (Node, Vercel, Netlify adapter, etc.).
+
+## JavaScript no cliente
+
+- **Zero JavaScript no cliente por padrão.**
+- Interatividade apenas com HTML/CSS nativo: `details`/`summary`, Popover API, `scroll-snap`, `:has()`.
+- Se JS for inevitável, usar **vanilla JS mínimo** com `<script>` do Astro (sem frameworks).
+
+## Dependências
+
+- **Nunca** instalar React, Vue, Svelte, jQuery ou bibliotecas de UI sem autorização explícita do usuário.
+
+## Imagens
+
+- Sempre usar `<Image />` ou `<Picture />` de `astro:assets`, com `width` e `height` definidos.
+- Imagem LCP: `loading="eager"` + `fetchpriority="high"`.
+- Demais imagens: `loading="lazy"`.
+
+## Fontes
+
+- Apenas **self-hosted woff2** com `font-display: swap`.
+- **Nunca** Google Fonts via CDN.
+
+## Conteúdo
+
+- Conteúdo via **Content Collections** (Markdown/JSON locais).
+- **Nunca** propor banco de dados ou CMS com runtime.
+
+## CSS
+
+- Scoped styles do Astro + design tokens em `src/styles/global.css`.
+- Abordagem **mobile-first**.
+
+## HTML, acessibilidade e SEO
+
+- Todo HTML deve ser **semântico** (`header`, `nav`, `main`, `article`, `section`, `footer`, etc.).
+- Incluir atributos de **acessibilidade** (`alt`, `aria-*`, labels, foco visível).
+- Cada página deve ter **meta tags SEO e Open Graph** completas (title, description, canonical, og:*, twitter:*).

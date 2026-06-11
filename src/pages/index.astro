@@ -1,0 +1,136 @@
+---
+import { getCollection } from 'astro:content';
+import CategoryNav from '../components/CategoryNav.astro';
+import PostCard from '../components/PostCard.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+
+const [featuredPost, ...otherPosts] = posts;
+---
+
+<BaseLayout
+  title="Hotmoney"
+  description="Dicas práticas de renda extra: serviços, internet, IA e investimentos para quem quer ganhar mais no Brasil."
+>
+  <section class="hero" aria-labelledby="hero-heading">
+    <div class="container hero__inner">
+      <p class="hero__eyebrow">Renda extra no Brasil</p>
+      <h1 id="hero-heading" class="hero__title">
+        Ganhe mais com ideias de <strong>renda extra</strong> que cabem na sua rotina
+      </h1>
+      <p class="hero__description">
+        O Hotmoney reúne estratégias reais para transformar habilidades, tempo livre e
+        ferramentas digitais em dinheiro — sem promessas milagrosas.
+      </p>
+      <a href="#posts" class="hero__cta">Ver últimos artigos</a>
+    </div>
+  </section>
+
+  <CategoryNav />
+
+  <section id="posts" class="posts container" aria-labelledby="posts-heading">
+    <h2 id="posts-heading" class="posts__title">Últimos artigos</h2>
+    <div class="post-grid">
+      {
+        featuredPost && (
+          <PostCard
+            post={featuredPost}
+            featured
+            eager
+            headingLevel="h3"
+          />
+        )
+      }
+      {
+        otherPosts.map((post) => (
+          <PostCard post={post} headingLevel="h3" />
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-block: var(--space-8) var(--space-7);
+    background: linear-gradient(
+      165deg,
+      var(--color-bg) 0%,
+      #fff0eb 45%,
+      rgb(255 250 247 / 0.6) 100%
+    );
+  }
+
+  .hero__inner {
+    max-width: 40rem;
+    margin-inline: auto;
+    text-align: center;
+  }
+
+  .hero__eyebrow {
+    color: var(--color-brand-text);
+    font-size: var(--text-sm);
+    font-weight: 700;
+    line-height: 1.6;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .hero__title {
+    margin-top: var(--space-4);
+    font-size: var(--text-3xl);
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+  }
+
+  .hero__title strong {
+    color: var(--color-brand);
+    font-weight: 800;
+  }
+
+  .hero__description {
+    max-width: 55ch;
+    margin-top: var(--space-5);
+    margin-inline: auto;
+    color: var(--color-text-muted);
+    font-size: var(--text-lg);
+    line-height: 1.6;
+  }
+
+  .hero__cta {
+    display: inline-block;
+    margin-top: var(--space-6);
+    padding: var(--space-3) var(--space-6);
+    border-radius: var(--radius);
+    background: var(--color-brand-text);
+    color: #ffffff;
+    font-size: var(--text-base);
+    font-weight: 600;
+    line-height: 1.6;
+    text-decoration: none;
+  }
+
+  .hero__cta:hover {
+    background: var(--color-brand-dark);
+  }
+
+  .hero__cta:focus-visible {
+    outline: none;
+    box-shadow: var(--focus-ring);
+  }
+
+  .posts {
+    padding-block: var(--space-7) var(--space-8);
+    scroll-margin-top: var(--space-6);
+  }
+
+  .posts__title {
+    margin-bottom: var(--space-6);
+    font-size: var(--text-2xl);
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+  }
+</style>

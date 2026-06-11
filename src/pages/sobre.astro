@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Sobre"
+  description="Conheça o Hotmoney, blog brasileiro sobre renda extra com foco em performance, clareza e conteúdo prático."
+>
+  <section class="page container">
+    <h1 class="page__title">Sobre o Hotmoney</h1>
+    <div class="page__content prose">
+      <p>
+        O Hotmoney nasceu para ajudar brasileiros a encontrar caminhos reais de renda extra —
+        sem fórmulas mágicas e sem jargão financeiro desnecessário.
+      </p>
+      <p>
+        Publicamos guias práticos sobre serviços locais, oportunidades na internet, uso
+        responsável de inteligência artificial e educação financeira para quem está começando.
+      </p>
+      <h2>Nossa missão</h2>
+      <p>
+        Democratizar informação de qualidade para quem precisa complementar a renda, trocar de
+        carreira ou testar um negócio paralelo com baixo risco.
+      </p>
+      <h2>Como trabalhamos</h2>
+      <ul>
+        <li>Conteúdo revisado e escrito em português brasileiro</li>
+        <li>Foco em ações concretas que você pode executar esta semana</li>
+        <li>Site rápido, acessível e otimizado para leitura em qualquer dispositivo</li>
+      </ul>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .page {
+    padding-block: var(--space-8);
+  }
+
+  .page__title {
+    margin-bottom: var(--space-6);
+    font-size: var(--text-3xl);
+    text-align: center;
+  }
+
+  .page__content {
+    margin-inline: auto;
+  }
+</style>

@@ -1,0 +1,121 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import { getCategoryHref, getCategoryName } from '../data/categories';
+import { formatDate } from '../utils/date';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+}
+
+const { post } = Astro.props;
+const { title, description, pubDate, updatedDate, cover, coverAlt, category } = post.data;
+const canonical = new URL(`/blog/${post.id}/`, Astro.site).href;
+const isSvg = cover.format === 'svg';
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  type="article"
+  ogImage={cover}
+  article={{ pubDate, updatedDate }}
+>
+  <article class="post container">
+    <header class="post__header">
+      <a href={getCategoryHref(category)} class="badge">{getCategoryName(category)}</a>
+      <h1 class="post__title">{title}</h1>
+      <div class="post__meta">
+        <time datetime={pubDate.toISOString()}>
+          Publicado em {formatDate(pubDate)}
+        </time>
+        {
+          updatedDate && (
+            <time datetime={updatedDate.toISOString()}>
+              Atualizado em {formatDate(updatedDate)}
+            </time>
+          )
+        }
+      </div>
+    </header>
+
+    <figure class="post__cover">
+      {
+        isSvg ? (
+          <img
+            src={cover.src}
+            alt={coverAlt}
+            width={1200}
+            height={630}
+            loading="eager"
+            fetchpriority="high"
+          />
+        ) : (
+          <Image
+            src={cover}
+            alt={coverAlt}
+            width={1200}
+            height={630}
+            widths={[600, 900, 1200]}
+            formats={['avif', 'webp']}
+            loading="eager"
+            fetchpriority="high"
+          />
+        )
+      }
+    </figure>
+
+    <div class="post__content prose">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .post {
+    padding-block: var(--space-7);
+  }
+
+  .post__header {
+    max-width: var(--measure);
+    margin-inline: auto;
+    text-align: center;
+  }
+
+  .post__title {
+    margin-top: var(--space-4);
+    font-size: var(--text-3xl);
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+
+  .post__meta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--space-3) var(--space-5);
+    margin-top: var(--space-4);
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+  }
+
+  .post__cover {
+    margin-block: var(--space-6);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+  }
+
+  .post__cover :global(img) {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1200 / 630;
+    object-fit: cover;
+  }
+
+  .post__content {
+    margin-inline: auto;
+  }
+</style>

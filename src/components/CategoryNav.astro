@@ -1,0 +1,87 @@
+---
+import { categories, type CategorySlug } from '../data/categories';
+
+interface Props {
+  activeSlug?: CategorySlug;
+}
+
+const { activeSlug } = Astro.props;
+---
+
+<nav class="category-nav container" aria-label="Categorias do blog">
+  <ul class="category-nav__list">
+    {
+      categories.map((cat) => (
+        <li class="category-nav__item">
+          <a
+            href={`/categoria/${cat.slug}/`}
+            class="category-nav__link"
+            aria-current={activeSlug === cat.slug ? 'page' : undefined}
+          >
+            {cat.name}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</nav>
+
+<style>
+  .category-nav {
+    padding-block: var(--space-4) var(--space-5);
+  }
+
+  .category-nav__list {
+    display: flex;
+    gap: var(--space-3);
+    margin: 0;
+    padding: 0 var(--space-1) var(--space-2);
+    list-style: none;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+
+  .category-nav__item {
+    flex-shrink: 0;
+    scroll-snap-align: start;
+  }
+
+  .category-nav__link {
+    display: inline-block;
+    padding: var(--space-2) var(--space-4);
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    background: var(--color-surface);
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    text-decoration: none;
+    white-space: nowrap;
+    transition:
+      color 0.15s ease,
+      border-color 0.15s ease,
+      background 0.15s ease;
+  }
+
+  .category-nav__link:hover {
+    color: var(--color-brand-text);
+    border-color: rgb(189 50 30 / 0.35);
+  }
+
+  .category-nav__link[aria-current='page'] {
+    border-color: var(--color-brand-text);
+    background: rgb(189 50 30 / 0.1);
+    color: var(--color-brand-text);
+  }
+
+  @media (min-width: 768px) {
+    .category-nav__list {
+      flex-wrap: wrap;
+      justify-content: center;
+      overflow-x: visible;
+      padding-bottom: 0;
+    }
+  }
+</style>

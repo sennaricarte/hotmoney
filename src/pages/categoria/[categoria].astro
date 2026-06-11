@@ -1,0 +1,87 @@
+---
+import { getCollection } from 'astro:content';
+import CategoryNav from '../../components/CategoryNav.astro';
+import PostCard from '../../components/PostCard.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { categories, type CategorySlug } from '../../data/categories';
+
+export function getStaticPaths() {
+  return categories.map((category) => ({
+    params: { categoria: category.slug },
+    props: { category },
+  }));
+}
+
+const { category } = Astro.props;
+const slug = category.slug as CategorySlug;
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft && data.category === slug)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+
+const pageTitle = `Renda extra com ${category.name}`;
+const canonical = new URL(`/categoria/${slug}/`, Astro.site).href;
+---
+
+<BaseLayout title={pageTitle} description={category.description} canonical={canonical}>
+  <CategoryNav activeSlug={slug} />
+
+  <section class="category-page container">
+    <header class="category-page__header">
+      <h1 class="category-page__title">{category.name}</h1>
+      <p class="category-page__description">{category.description}</p>
+    </header>
+
+    {
+      posts.length === 0 ? (
+        <p class="category-page__empty" role="status">
+          Ainda não há artigos em <strong>{category.name}</strong>. Explore outras categorias ou
+          volte em breve — publicamos novidades com frequência.
+        </p>
+      ) : (
+        <div class="post-grid">
+          {posts.map((post, index) => (
+            <PostCard post={post} eager={index === 0} headingLevel="h2" />
+          ))}
+        </div>
+      )
+    }
+  </section>
+</BaseLayout>
+
+<style>
+  .category-page {
+    padding-block: var(--space-5) var(--space-8);
+  }
+
+  .category-page__header {
+    max-width: 40rem;
+    margin-bottom: var(--space-7);
+    text-align: center;
+    margin-inline: auto;
+  }
+
+  .category-page__title {
+    font-size: var(--text-3xl);
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+
+  .category-page__description {
+    margin-top: var(--space-4);
+    color: var(--color-text-muted);
+    font-size: var(--text-lg);
+  }
+
+  .category-page__empty {
+    max-width: var(--measure);
+    margin-inline: auto;
+    padding: var(--space-7);
+    border: 1px dashed var(--color-border);
+    border-radius: var(--radius);
+    background: var(--color-surface);
+    color: var(--color-text-muted);
+    text-align: center;
+    font-size: var(--text-lg);
+  }
+</style>

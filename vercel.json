@@ -3,7 +3,7 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/blog/:slug((?!$).*)",
+      "source": "/blog/:slug((?![0-9]+$)(?!$).*)",
       "destination": "/:slug",
       "permanent": true
     },

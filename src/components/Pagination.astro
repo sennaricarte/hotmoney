@@ -1,0 +1,122 @@
+---
+import type { Page } from 'astro';
+
+interface Props {
+  page: Page<unknown>;
+}
+
+const { page } = Astro.props;
+
+function pageHref(pageNum: number): string {
+  return pageNum === 1 ? '/blog' : `/blog/${pageNum}`;
+}
+---
+
+<nav class="pagination" aria-label="Paginação">
+  {
+    page.url.prev ? (
+      <a class="pagination__nav" href={page.url.prev} rel="prev">
+        Anterior
+      </a>
+    ) : (
+      <span class="pagination__nav pagination__nav--disabled" aria-disabled="true">
+        Anterior
+      </span>
+    )
+  }
+
+  <ol class="pagination__list">
+    {
+      Array.from({ length: page.lastPage }, (_, index) => index + 1).map((pageNum) => (
+        <li class="pagination__item">
+          {
+            pageNum === page.currentPage ? (
+              <span class="pagination__link pagination__link--current" aria-current="page">
+                {pageNum}
+              </span>
+            ) : (
+              <a class="pagination__link" href={pageHref(pageNum)}>
+                {pageNum}
+              </a>
+            )
+          }
+        </li>
+      ))
+    }
+  </ol>
+
+  {
+    page.url.next ? (
+      <a class="pagination__nav" href={page.url.next} rel="next">
+        Próxima
+      </a>
+    ) : (
+      <span class="pagination__nav pagination__nav--disabled" aria-disabled="true">
+        Próxima
+      </span>
+    )
+  }
+</nav>
+
+<style>
+  .pagination {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-4) var(--space-5);
+    margin-top: var(--space-7);
+  }
+
+  .pagination__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--space-2);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .pagination__nav,
+  .pagination__link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.5rem;
+    min-height: 2.5rem;
+    padding: var(--space-2) var(--space-3);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    background: var(--color-surface);
+    color: var(--color-text);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    line-height: 1.4;
+    text-decoration: none;
+  }
+
+  .pagination__nav:hover,
+  .pagination__link:hover {
+    border-color: #bd321e59;
+    color: var(--color-brand-text);
+  }
+
+  .pagination__nav:focus-visible,
+  .pagination__link:focus-visible {
+    outline: none;
+    box-shadow: var(--focus-ring);
+  }
+
+  .pagination__nav--disabled,
+  .pagination__link--current {
+    border-color: var(--color-brand-text);
+    background: #bd321e1a;
+    color: var(--color-brand-text);
+  }
+
+  .pagination__nav--disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+</style>

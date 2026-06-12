@@ -11,6 +11,15 @@ export default defineConfig({
   output: 'static',
   site: 'https://hotmoney.blog.br',
   trailingSlash: 'never',
+  build: {
+    inlineStylesheets: 'auto',
+  },
+  vite: {
+    build: {
+      // global.css via BaseLayout (~7.5 KiB) fica acima do limite padrão de 4 KiB
+      assetsInlineLimit: 8192,
+    },
+  },
   markdown: {
     processor: unified({
       rehypePlugins: [rehypeSlug, rehypeExternalDofollow],

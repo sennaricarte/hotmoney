@@ -12,7 +12,13 @@ interface Props {
 }
 
 const { post, eager = false, featured = false, headingLevel = 'h2' } = Astro.props;
-const imageWidths = featured ? [600, 900, 1200] : [400, 600, 800, 1200];
+
+/** Container max 1100px; grid 1→2 cols @768px →3 cols @1024px; gap 2rem. */
+const cardImageSizes = featured
+  ? '(min-width: 1024px) 590px, (min-width: 768px) 52vw, calc(100vw - 2rem)'
+  : '(min-width: 1024px) 340px, (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 2rem)';
+
+const imageWidths = featured ? [480, 600, 720, 960] : [320, 340, 480, 680];
 const { title, description, pubDate, cover, coverAlt, category } = post.data;
 const Heading = headingLevel;
 const postUrl = `/${post.id}`;
@@ -39,6 +45,7 @@ const isSvg = cover.format === 'svg';
           width={1200}
           height={630}
           widths={imageWidths}
+          sizes={cardImageSizes}
           formats={['avif', 'webp']}
           loading={eager ? 'eager' : 'lazy'}
           fetchpriority={eager ? 'high' : undefined}

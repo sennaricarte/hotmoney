@@ -1,4 +1,10 @@
-import { SITE_DESCRIPTION, SITE_LOGO_PATH, SITE_NAME } from '../data/site';
+import {
+  SITE_AUTHOR_NAME,
+  SITE_AUTHOR_PATH,
+  SITE_DESCRIPTION,
+  SITE_LOGO_PATH,
+  SITE_NAME,
+} from '../data/site';
 
 export interface BreadcrumbItem {
   name: string;
@@ -63,9 +69,9 @@ export function getBlogPostingSchema(options: {
     dateModified: (updatedDate ?? pubDate).toISOString(),
     inLanguage: 'pt-BR',
     author: {
-      '@type': 'Organization',
-      name: SITE_NAME,
-      url: new URL('/', site).href,
+      '@type': 'Person',
+      name: SITE_AUTHOR_NAME,
+      url: new URL(SITE_AUTHOR_PATH, site).href,
     },
     publisher,
     mainEntityOfPage: {

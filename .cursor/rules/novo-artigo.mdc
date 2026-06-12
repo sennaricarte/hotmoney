@@ -1,0 +1,47 @@
+---
+description: Workflow para criação de novo artigo SEO do Hotmoney — invocar manualmente com a palavra-chave
+alwaysApply: false
+---
+
+# Novo artigo SEO — Hotmoney
+
+Quando eu invocar esta regra com uma palavra-chave, siga este workflow completo:
+
+## FASE 1 — PESQUISA
+
+- Pesquise o tema na web em fontes confiáveis (priorize fontes primárias, dados oficiais, valores em R$ atualizados). Cite dados com a fonte no corpo do texto.
+- Mapeie a intenção de busca da palavra-chave (informacional/transacional/navegacional) e liste os subtópicos e perguntas que as pessoas realmente fazem sobre o tema (use variações "como", "quanto ganha", "vale a pena", "para iniciantes").
+- Me apresente ANTES de escrever: a estrutura proposta (H1, H2s, H3s), a palavra-chave principal, 3-5 secundárias e a meta description. Aguarde minha aprovação.
+
+## FASE 2 — REDAÇÃO (após aprovação)
+
+Persona: redator do Hotmoney escrevendo em nome de Julio Mesquita — tom amigável, direto, por vezes descontraído, sempre honesto. Nunca prometa enriquecimento fácil; sempre contextualize esforço e riscos.
+
+Estrutura obrigatória (formato que LLMs e featured snippets citam):
+
+- Resposta direta à intenção de busca nos 2-3 primeiros parágrafos (conclusão primeiro, desenvolvimento depois)
+- H2/H3 formulados como perguntas reais quando fizer sentido, com resposta objetiva logo abaixo
+- Definição clara em 1 frase ao introduzir qualquer termo técnico
+- Números concretos, listas e, quando couber, tabela comparativa em Markdown
+- Parágrafos de no máximo 3-4 linhas, negrito em frases-chave com moderação
+- 2-3 links internos para outros posts existentes da collection (verifique os slugs reais em `src/content/posts/`)
+- Seção final de FAQ do tema com 3-4 perguntas (H2 "Perguntas frequentes sobre [tema]" + H3s)
+- 1200-2000 palavras conforme a profundidade que o tema exige, sem encher linguiça
+
+INTEGRIDADE (inegociável):
+
+- NUNCA invente experiências pessoais, testes ou ganhos do autor. Onde experiência de primeira mão fortaleceria o texto, insira o marcador: `[EXPERIÊNCIA-JULIO: sugestão do que relatar aqui]`
+- NUNCA invente estatísticas, nomes de plataformas ou valores. Tudo verificado na pesquisa da Fase 1 ou omitido.
+
+## FASE 3 — ARQUIVO
+
+- Crie `src/content/posts/<slug>.md` com slug curto e descritivo derivado da palavra-chave (sem stopwords desnecessárias). Confirme que o slug não colide com rotas estáticas existentes (sobre, contato, busca, blog, politica-*).
+- Frontmatter completo conforme o schema: `title` (até 60 chars, com a palavra-chave), `description` (até 155 chars, com a palavra-chave, terminando em frase completa), `pubDate` (hoje), `cover`, `coverAlt`, `category` (escolha do enum existente), `draft: true`.
+- **Imagem de capa (Pexels):**
+  - A partir do tema do artigo, defina uma query de busca em português (2-4 palavras, concreta e visual — ex.: post sobre marido de aluguel → `"ferramentas reparos casa"`).
+  - Rode: `node scripts/fetch-cover.mjs --slug=<slug> --query="<query>"`
+  - Se o comando tiver sucesso: aponte `cover` para `../../assets/posts/<slug>/cover.jpg`, defina `coverAlt` descritivo em pt-BR (relacionado ao artigo, não genérico).
+  - Se falhar (sem `PEXELS_API_KEY`, sem resultados ou erro de download): avise no relatório, mantenha `cover: ../../assets/posts/<slug>/cover.jpg` no frontmatter como placeholder de caminho e siga com o artigo — **não interrompa** o fluxo. Se o `npm run build` falhar por capa ausente, reporte isso e indique o comando para eu rodar depois.
+  - No relatório final, sempre informe: query usada, crédito do fotógrafo (nome + URL Pexels da foto) e se a imagem baixada é apropriada ao tema ou se sugere trocar a query.
+- SEMPRE criar com `draft: true` — eu reviso, insiro as experiências reais nos marcadores e mudo para `false` manualmente.
+- Rode `npm run build` ao final e me entregue: caminho do arquivo, contagem de palavras, lista de marcadores `[EXPERIÊNCIA-JULIO]` pendentes e resumo da capa (query, crédito Pexels, adequação da imagem).

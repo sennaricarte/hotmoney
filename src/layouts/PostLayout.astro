@@ -6,6 +6,7 @@ import Breadcrumb from '../components/Breadcrumb.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import BaseLayout from './BaseLayout.astro';
 import { getCategoryHref, getCategoryName } from '../data/categories';
+import { SITE_AUTHOR_NAME, SITE_AUTHOR_PATH } from '../data/site';
 import { formatDate } from '../utils/date';
 import type { BreadcrumbItem } from '../utils/json-ld';
 
@@ -90,6 +91,12 @@ const breadcrumbs: BreadcrumbItem[] = [
     <div class="post__content prose">
       <slot />
     </div>
+
+    <footer class="post__author">
+      <p>
+        Escrito por <a href={SITE_AUTHOR_PATH}>{SITE_AUTHOR_NAME}</a>
+      </p>
+    </footer>
   </article>
 
   <RelatedPosts post={post} posts={allPosts} />
@@ -131,13 +138,47 @@ const breadcrumbs: BreadcrumbItem[] = [
   }
 
   .post__cover :global(img) {
+    display: block;
     width: 100%;
     height: auto;
-    aspect-ratio: 1200 / 630;
+    aspect-ratio: 16 / 9;
     object-fit: cover;
   }
 
   .post__content {
     margin-inline: auto;
+  }
+
+  .post__content.prose :global(img) {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 70vh;
+    object-fit: contain;
+    margin-inline: auto;
+    margin-block: var(--space-5);
+    border-radius: var(--radius);
+  }
+
+  .post__author {
+    max-width: var(--measure);
+    margin-inline: auto;
+    margin-top: var(--space-6);
+    padding-top: var(--space-5);
+    border-top: 1px solid var(--color-border);
+    text-align: center;
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+  }
+
+  .post__author a {
+    color: var(--color-brand-text);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .post__author a:hover {
+    color: var(--color-brand-dark);
+    text-decoration: underline;
   }
 </style>

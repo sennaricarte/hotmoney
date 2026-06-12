@@ -1,6 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
-import { SITE_DESCRIPTION, SITE_NAME, SITE_PURPOSE } from '../data/site';
+import { SITE_AUTHOR_NAME, SITE_DESCRIPTION, SITE_NAME, SITE_PURPOSE } from '../data/site';
 
 export const prerender = true;
 
@@ -19,7 +19,7 @@ export const GET: APIRoute = async ({ site }) => {
     {
       title: 'Sobre',
       url: `${baseUrl}/sobre`,
-      description: 'Conheça a missão do Hotmoney e como ajudamos leitores a explorar renda extra com responsabilidade.',
+      description: `Conheça ${SITE_AUTHOR_NAME}, criador do Hotmoney, e a missão do blog sobre renda extra com responsabilidade.`,
     },
     {
       title: 'Perguntas frequentes',
@@ -38,7 +38,7 @@ export const GET: APIRoute = async ({ site }) => {
   const body = [
     `# ${SITE_NAME}`,
     '',
-    `> ${SITE_DESCRIPTION}`,
+    `> ${SITE_DESCRIPTION} Autor: ${SITE_AUTHOR_NAME}.`,
     '',
     SITE_PURPOSE,
     '',

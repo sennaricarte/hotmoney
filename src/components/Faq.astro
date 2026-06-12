@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
+import { stripMarkdown } from '../utils/strip-markdown';
 
 interface Props {
   entries?: CollectionEntry<'faq'>[];
@@ -12,17 +13,23 @@ const entries = (
   entriesProp ?? (await getCollection('faq'))
 ).sort((a, b) => a.data.order - b.data.order);
 
+const faqItems = entries.map((entry) => ({
+  id: entry.id,
+  question: stripMarkdown(entry.data.question),
+  answer: stripMarkdown(entry.data.answer),
+}));
+
 const faqSchema =
-  entries.length > 0
+  faqItems.length > 0
     ? {
         '@context': 'https://schema.org',
         '@type': 'FAQPage',
-        mainEntity: entries.map((entry) => ({
+        mainEntity: faqItems.map((item) => ({
           '@type': 'Question',
-          name: entry.data.question,
+          name: item.question,
           acceptedAnswer: {
             '@type': 'Answer',
-            text: entry.data.answer,
+            text: item.answer,
           },
         })),
       }
@@ -30,19 +37,19 @@ const faqSchema =
 ---
 
 {
-  entries.length > 0 && (
+  faqItems.length > 0 && (
     <>
       <section class="faq container" aria-labelledby="faq-heading">
         <h2 id="faq-heading" class="faq__title">Perguntas frequentes</h2>
         <ul class="faq__list">
-          {entries.map((entry) => (
+          {faqItems.map((item) => (
             <li class="faq__item">
               <details class="faq__details">
                 <summary class="faq__summary">
-                  <h3 class="faq__question">{entry.data.question}</h3>
+                  <h3 class="faq__question">{item.question}</h3>
                 </summary>
                 <div class="faq__answer">
-                  <p>{entry.data.answer}</p>
+                  <p>{item.answer}</p>
                 </div>
               </details>
             </li>

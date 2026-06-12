@@ -1,6 +1,7 @@
 ---
 import type { ImageMetadata } from 'astro';
 import { getImage } from 'astro:assets';
+import ogDefault from '../assets/og-default.png';
 import type { BreadcrumbItem } from '../utils/json-ld';
 import { getBlogPostingSchema, getBreadcrumbSchema } from '../utils/json-ld';
 
@@ -30,7 +31,15 @@ const {
 const siteName = 'Hotmoney';
 const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
 
-let ogImageUrl = new URL('/favicon.svg', Astro.site).href;
+const defaultOg = await getImage({
+  src: ogDefault,
+  width: 1200,
+  height: 630,
+  format: 'jpg',
+  quality: 85,
+});
+
+let ogImageUrl = new URL(defaultOg.src, Astro.site).href;
 
 if (typeof ogImage === 'string') {
   ogImageUrl = ogImage.startsWith('http') ? ogImage : new URL(ogImage, Astro.site).href;
@@ -38,7 +47,7 @@ if (typeof ogImage === 'string') {
   if (ogImage.format === 'svg') {
     ogImageUrl = new URL(ogImage.src, Astro.site).href;
   } else {
-    const optimized = await getImage({ src: ogImage, width: 1200, height: 630, format: 'webp' });
+    const optimized = await getImage({ src: ogImage, width: 1200, height: 630, format: 'jpg', quality: 85 });
     ogImageUrl = new URL(optimized.src, Astro.site).href;
   }
 }

@@ -2,6 +2,7 @@
 import { unified } from '@astrojs/markdown-remark';
 import { defineConfig } from 'astro/config';
 import rehypeSlug from 'rehype-slug';
+import { rehypeExternalDofollow } from './src/plugins/rehype-external-dofollow.mjs';
 
 import sitemap from '@astrojs/sitemap';
 
@@ -12,7 +13,7 @@ export default defineConfig({
   trailingSlash: 'never',
   markdown: {
     processor: unified({
-      rehypePlugins: [rehypeSlug],
+      rehypePlugins: [rehypeSlug, rehypeExternalDofollow],
       remarkRehype: true,
       gfm: true,
       smartypants: true,

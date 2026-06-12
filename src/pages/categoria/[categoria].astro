@@ -20,7 +20,7 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft && data.ca
 );
 
 const pageTitle = `Renda extra com ${category.name}`;
-const canonical = new URL(`/categoria/${slug}/`, Astro.site).href;
+const canonical = new URL(`/categoria/${slug}`, Astro.site).href;
 ---
 
 <BaseLayout title={pageTitle} description={category.description} canonical={canonical}>

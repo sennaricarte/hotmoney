@@ -1,0 +1,167 @@
+---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  entries?: CollectionEntry<'faq'>[];
+}
+
+const { entries: entriesProp } = Astro.props;
+
+const entries = (
+  entriesProp ?? (await getCollection('faq'))
+).sort((a, b) => a.data.order - b.data.order);
+
+const faqSchema =
+  entries.length > 0
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: entries.map((entry) => ({
+          '@type': 'Question',
+          name: entry.data.question,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: entry.data.answer,
+          },
+        })),
+      }
+    : null;
+---
+
+{
+  entries.length > 0 && (
+    <>
+      <section class="faq container" aria-labelledby="faq-heading">
+        <h2 id="faq-heading" class="faq__title">Perguntas frequentes</h2>
+        <ul class="faq__list">
+          {entries.map((entry) => (
+            <li class="faq__item">
+              <details class="faq__details">
+                <summary class="faq__summary">
+                  <h3 class="faq__question">{entry.data.question}</h3>
+                </summary>
+                <div class="faq__answer">
+                  <p>{entry.data.answer}</p>
+                </div>
+              </details>
+            </li>
+          ))}
+        </ul>
+      </section>
+      {faqSchema && (
+        <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+      )}
+    </>
+  )
+}
+
+<style>
+  .faq {
+    padding-block: var(--space-7) var(--space-8);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .faq__title {
+    margin-bottom: var(--space-6);
+    font-size: var(--text-2xl);
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    text-align: center;
+  }
+
+  .faq__list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+    max-width: 48rem;
+    margin-inline: auto;
+  }
+
+  .faq__details {
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    background: var(--color-surface);
+    overflow: hidden;
+  }
+
+  .faq__summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-4);
+    padding: var(--space-4) var(--space-5);
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .faq__summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .faq__summary::marker {
+    content: '';
+  }
+
+  .faq__summary::after {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    background: var(--color-bg);
+    color: var(--color-brand-text);
+    font-size: var(--text-xl);
+    font-weight: 700;
+    line-height: 1.5rem;
+    text-align: center;
+    content: '+';
+  }
+
+  .faq__details[open] .faq__summary::after {
+    content: '−';
+  }
+
+  .faq__summary:focus-visible {
+    outline: none;
+    box-shadow: var(--focus-ring);
+  }
+
+  .faq__question {
+    font-size: var(--text-base);
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  .faq__answer {
+    padding: 0 var(--space-5) var(--space-5);
+    color: var(--color-text-muted);
+    font-size: var(--text-base);
+    line-height: 1.65;
+  }
+
+  .faq__answer p + p {
+    margin-top: var(--space-3);
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .faq__summary::after {
+      transition: background-color 0.2s ease;
+    }
+
+    .faq__answer {
+      animation: faq-reveal 0.25s ease;
+    }
+  }
+
+  @keyframes faq-reveal {
+    from {
+      opacity: 0;
+      transform: translateY(-0.25rem);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>

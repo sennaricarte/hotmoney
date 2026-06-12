@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import CategoryNav from '../components/CategoryNav.astro';
+import Faq from '../components/Faq.astro';
 import PostCard from '../components/PostCard.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
@@ -25,7 +26,7 @@ const [featuredPost, ...otherPosts] = posts;
         O Hotmoney reúne estratégias reais para transformar habilidades, tempo livre e
         ferramentas digitais em dinheiro — sem promessas milagrosas.
       </p>
-      <a href="#posts" class="hero__cta">Ver últimos artigos</a>
+      <a href="/blog" class="hero__cta">Ver últimos artigos</a>
     </div>
   </section>
 
@@ -51,6 +52,8 @@ const [featuredPost, ...otherPosts] = posts;
       }
     </div>
   </section>
+
+  <Faq />
 </BaseLayout>
 
 <style>

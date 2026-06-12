@@ -1,0 +1,59 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import { formatDate } from '../utils/date';
+
+interface Props {
+  title: string;
+  description: string;
+  lastUpdated: Date;
+}
+
+const { title, description, lastUpdated } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <article class="legal container">
+    <header class="legal__header">
+      <h1 class="legal__title">{title}</h1>
+      <p class="legal__updated">
+        <time datetime={lastUpdated.toISOString()}>
+          Última atualização: {formatDate(lastUpdated)}
+        </time>
+      </p>
+    </header>
+    <div class="legal__content prose">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .legal {
+    padding-block: var(--space-8);
+  }
+
+  .legal__header {
+    max-width: var(--measure);
+    margin-inline: auto;
+    margin-bottom: var(--space-7);
+    text-align: center;
+  }
+
+  .legal__title {
+    font-size: var(--text-3xl);
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+  }
+
+  .legal__updated {
+    margin-top: var(--space-4);
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+    line-height: 1.6;
+  }
+
+  .legal__content {
+    margin-inline: auto;
+  }
+</style>

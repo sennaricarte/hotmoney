@@ -1,6 +1,8 @@
 ---
 import type { ImageMetadata } from 'astro';
 import { getImage } from 'astro:assets';
+import type { BreadcrumbItem } from '../utils/json-ld';
+import { getBlogPostingSchema, getBreadcrumbSchema } from '../utils/json-ld';
 
 interface Props {
   title: string;
@@ -11,8 +13,8 @@ interface Props {
   article?: {
     pubDate: Date;
     updatedDate?: Date;
-    author?: string;
   };
+  breadcrumbs?: BreadcrumbItem[];
 }
 
 const {
@@ -22,6 +24,7 @@ const {
   type = 'website',
   ogImage,
   article,
+  breadcrumbs,
 } = Astro.props;
 
 const siteName = 'Hotmoney';
@@ -40,31 +43,20 @@ if (typeof ogImage === 'string') {
   }
 }
 
-const jsonLd =
+const articleJsonLd =
   type === 'article' && article
-    ? {
-        '@context': 'https://schema.org',
-        '@type': 'BlogPosting',
-        headline: title,
+    ? getBlogPostingSchema({
+        site: Astro.site!,
+        title,
         description,
-        image: ogImageUrl,
-        datePublished: article.pubDate.toISOString(),
-        dateModified: (article.updatedDate ?? article.pubDate).toISOString(),
-        author: {
-          '@type': 'Organization',
-          name: article.author ?? siteName,
-        },
-        publisher: {
-          '@type': 'Organization',
-          name: siteName,
-          url: Astro.site?.href,
-        },
-        mainEntityOfPage: {
-          '@type': 'WebPage',
-          '@id': canonical,
-        },
-      }
+        canonical,
+        imageUrl: ogImageUrl,
+        pubDate: article.pubDate,
+        updatedDate: article.updatedDate,
+      })
     : null;
+
+const breadcrumbJsonLd = breadcrumbs?.length ? getBreadcrumbSchema(breadcrumbs) : null;
 ---
 
 <title>{fullTitle}</title>
@@ -84,4 +76,5 @@ const jsonLd =
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={ogImageUrl} />
 
-{jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+{articleJsonLd && <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />}
+{breadcrumbJsonLd && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />}

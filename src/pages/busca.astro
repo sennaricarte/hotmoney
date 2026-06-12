@@ -1,0 +1,187 @@
+---
+/**
+ * A busca depende do índice gerado pelo Pagefind após `npm run build`.
+ * Não funciona em `npm run dev` — use `npm run build && npm run preview`.
+ */
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = 'Buscar';
+const description =
+  'Pesquise artigos do Hotmoney sobre renda extra, serviços, internet, IA e investimentos.';
+const canonical = new URL('/busca', Astro.site).href;
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <link slot="head" rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+
+  <section class="search-page container" aria-labelledby="search-heading">
+    <h1 id="search-heading" class="search-page__title">Buscar</h1>
+    <p class="search-page__intro">
+      Encontre guias e dicas publicados no Hotmoney. Digite abaixo para pesquisar.
+    </p>
+
+    <div class="search-page__widget">
+      <label class="visually-hidden" for="search-trigger">Buscar artigos</label>
+      <input
+        id="search-trigger"
+        class="search-page__trigger"
+        type="search"
+        name="q"
+        placeholder="Buscar artigos…"
+        autocomplete="off"
+        enterkeyhint="search"
+      />
+      <div id="pagefind-container" class="search-page__results" hidden></div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .search-page {
+    padding-block: var(--space-8);
+  }
+
+  .search-page__title {
+    font-size: var(--text-3xl);
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    text-align: center;
+  }
+
+  .search-page__intro {
+    max-width: 40rem;
+    margin-top: var(--space-4);
+    margin-inline: auto;
+    color: var(--color-text-muted);
+    font-size: var(--text-lg);
+    line-height: 1.6;
+    text-align: center;
+  }
+
+  .search-page__widget {
+    max-width: 36rem;
+    margin-top: var(--space-7);
+    margin-inline: auto;
+  }
+
+  .search-page__trigger {
+    width: 100%;
+    padding: var(--space-3) var(--space-4);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    background: var(--color-surface);
+    color: var(--color-text);
+    font-size: var(--text-base);
+    line-height: 1.6;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .search-page__trigger:focus-visible {
+    outline: none;
+    box-shadow: var(--focus-ring);
+  }
+
+  .search-page__results {
+    margin-top: var(--space-5);
+  }
+
+  .search-page__results :global(.pagefind-ui) {
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: var(--color-brand-text);
+    --pagefind-ui-text: var(--color-text);
+    --pagefind-ui-background: var(--color-bg);
+    --pagefind-ui-border: var(--color-border);
+    --pagefind-ui-tag: var(--color-accent);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: var(--radius);
+    --pagefind-ui-image-border-radius: calc(var(--radius) / 2);
+    --pagefind-ui-font: var(--font-sans);
+  }
+</style>
+
+<script>
+  declare global {
+    interface Window {
+      PagefindUI?: new (options: Record<string, unknown>) => void;
+    }
+  }
+
+  function loadPagefindUi(): Promise<void> {
+    if (window.PagefindUI) {
+      return Promise.resolve();
+    }
+
+    return new Promise((resolve, reject) => {
+      const script = document.createElement('script');
+      script.src = '/pagefind/pagefind-ui.js';
+      script.async = true;
+      script.onload = () => resolve();
+      script.onerror = () => reject(new Error('Falha ao carregar o Pagefind UI.'));
+      document.head.appendChild(script);
+    });
+  }
+
+  let initStarted = false;
+
+  async function initPagefind(): Promise<void> {
+    if (initStarted) {
+      return;
+    }
+    initStarted = true;
+
+    const trigger = document.getElementById('search-trigger');
+    const container = document.getElementById('pagefind-container');
+
+    if (!trigger || !container) {
+      return;
+    }
+
+    try {
+      await loadPagefindUi();
+      const query = trigger.value;
+      trigger.remove();
+      container.hidden = false;
+
+      new window.PagefindUI!({
+        element: '#pagefind-container',
+        showSubResults: true,
+        translations: {
+          placeholder: 'Buscar artigos…',
+          clear_search: 'Limpar busca',
+          load_more: 'Carregar mais resultados',
+          search_label: 'Buscar neste site',
+          filters_label: 'Filtros',
+          zero_results: 'Nenhum resultado para [SEARCH_TERM]',
+          many_results: '[COUNT] resultados para [SEARCH_TERM]',
+          one_result: '1 resultado para [SEARCH_TERM]',
+          alt_search:
+            'Nenhum resultado para [SEARCH_TERM]. Exibindo resultados para [DIFFERENT_TERM]',
+          search_suggestion:
+            'Nenhum resultado para [SEARCH_TERM]. Tente uma das buscas sugeridas:',
+          searching: 'Buscando por [SEARCH_TERM]…',
+        },
+      });
+
+      if (query) {
+        const pagefindInput = container.querySelector<HTMLInputElement>('input[type="search"]');
+        if (pagefindInput) {
+          pagefindInput.value = query;
+          pagefindInput.dispatchEvent(new Event('input', { bubbles: true }));
+        }
+      }
+    } catch {
+      trigger.setAttribute('aria-invalid', 'true');
+      trigger.placeholder = 'Busca indisponível. Execute npm run build && npm run preview.';
+    }
+  }
+
+  const trigger = document.getElementById('search-trigger');
+
+  trigger?.addEventListener('focus', () => {
+    void initPagefind();
+  }, { once: true });
+
+  trigger?.addEventListener('click', () => {
+    void initPagefind();
+  }, { once: true });
+</script>

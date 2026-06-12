@@ -4,6 +4,8 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import SEO from '../components/SEO.astro';
 import type { ImageMetadata } from 'astro';
+import type { BreadcrumbItem } from '../utils/json-ld';
+import { getOrganizationJsonLd, getWebSiteSchema } from '../utils/json-ld';
 
 interface Props {
   title: string;
@@ -15,6 +17,9 @@ interface Props {
     pubDate: Date;
     updatedDate?: Date;
   };
+  breadcrumbs?: BreadcrumbItem[];
+  /** Quando true, o conteúdo pode ser indexado pelo Pagefind (posts). */
+  searchIndex?: boolean;
 }
 
 const {
@@ -24,7 +29,12 @@ const {
   type = 'website',
   ogImage,
   article,
+  breadcrumbs,
+  searchIndex = false,
 } = Astro.props;
+
+const websiteJsonLd = getWebSiteSchema(Astro.site!);
+const organizationJsonLd = getOrganizationJsonLd(Astro.site!);
 ---
 
 <!doctype html>
@@ -48,6 +58,8 @@ const {
       type="font/woff2"
       crossorigin
     />
+    <script type="application/ld+json" set:html={JSON.stringify(websiteJsonLd)} />
+    <script type="application/ld+json" set:html={JSON.stringify(organizationJsonLd)} />
     <SEO
       title={title}
       description={description}
@@ -55,12 +67,14 @@ const {
       type={type}
       ogImage={ogImage}
       article={article}
+      breadcrumbs={breadcrumbs}
     />
+    <slot name="head" />
   </head>
   <body>
     <a href="#conteudo" class="skip-link">Pular para o conteúdo</a>
     <Header />
-    <main id="conteudo">
+    <main id="conteudo" {...(!searchIndex && { 'data-pagefind-ignore': true })}>
       <slot />
     </main>
     <Footer />

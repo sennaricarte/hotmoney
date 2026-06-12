@@ -1,18 +1,35 @@
 ---
 import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
 import BaseLayout from './BaseLayout.astro';
 import { getCategoryHref, getCategoryName } from '../data/categories';
 import { formatDate } from '../utils/date';
+import type { BreadcrumbItem } from '../utils/json-ld';
 
 interface Props {
   post: CollectionEntry<'posts'>;
 }
 
 const { post } = Astro.props;
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 const { title, description, pubDate, updatedDate, cover, coverAlt, category } = post.data;
-const canonical = new URL(`/blog/${post.id}/`, Astro.site).href;
+const canonical = new URL(`/${post.id}`, Astro.site).href;
 const isSvg = cover.format === 'svg';
+
+const breadcrumbNav = [
+  { name: 'Home', href: '/' },
+  { name: 'Blog', href: '/blog' },
+  { name: title },
+];
+
+const breadcrumbs: BreadcrumbItem[] = [
+  { name: 'Home', url: new URL('/', Astro.site).href },
+  { name: 'Blog', url: new URL('/blog', Astro.site).href },
+  { name: title, url: canonical },
+];
 ---
 
 <BaseLayout
@@ -22,9 +39,12 @@ const isSvg = cover.format === 'svg';
   type="article"
   ogImage={cover}
   article={{ pubDate, updatedDate }}
+  breadcrumbs={breadcrumbs}
+  searchIndex
 >
-  <article class="post container">
+  <article class="post container" data-pagefind-body>
     <header class="post__header">
+      <Breadcrumb items={breadcrumbNav} />
       <a href={getCategoryHref(category)} class="badge">{getCategoryName(category)}</a>
       <h1 class="post__title">{title}</h1>
       <div class="post__meta">
@@ -71,6 +91,8 @@ const isSvg = cover.format === 'svg';
       <slot />
     </div>
   </article>
+
+  <RelatedPosts post={post} posts={allPosts} />
 </BaseLayout>
 
 <style>

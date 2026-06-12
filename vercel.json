@@ -1,5 +1,18 @@
 {
   "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/blog/:slug((?!$).*)",
+      "destination": "/:slug",
+      "permanent": true
+    },
+    {
+      "source": "/posts/:slug*",
+      "destination": "/:slug*",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/_astro/(.*)",

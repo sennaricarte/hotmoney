@@ -14,7 +14,7 @@ const { activeSlug } = Astro.props;
       categories.map((cat) => (
         <li class="category-nav__item">
           <a
-            href={`/categoria/${cat.slug}/`}
+            href={`/categoria/${cat.slug}`}
             class="category-nav__link"
             aria-current={activeSlug === cat.slug ? 'page' : undefined}
           >

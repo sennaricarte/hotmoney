@@ -38,5 +38,5 @@ export function getCategoryName(slug: CategorySlug): string {
 }
 
 export function getCategoryHref(slug: CategorySlug): string {
-  return `/categoria/${slug}/`;
+  return `/categoria/${slug}`;
 }

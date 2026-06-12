@@ -3,8 +3,14 @@ const year = new Date().getFullYear();
 
 const footerNav = [
   { href: '/', label: 'Home' },
+  { href: '/blog', label: 'Blog' },
+];
+
+const institutionalNav = [
   { href: '/sobre', label: 'Sobre' },
   { href: '/contato', label: 'Contato' },
+  { href: '/politica-de-privacidade', label: 'Privacidade' },
+  { href: '/politica-de-cookies', label: 'Cookies' },
 ];
 ---
 
@@ -13,6 +19,7 @@ const footerNav = [
     <p class="footer__brand">
       <a href="/" class="footer__logo" aria-label="Hotmoney — página inicial">Hotmoney</a>
     </p>
+
     <nav aria-label="Rodapé">
       <ul class="footer__nav">
         {
@@ -24,6 +31,19 @@ const footerNav = [
         }
       </ul>
     </nav>
+
+    <nav aria-label="Links institucionais">
+      <ul class="footer__nav footer__nav--institutional">
+        {
+          institutionalNav.map((item) => (
+            <li>
+              <a href={item.href}>{item.label}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
     <p class="footer__copy">
       &copy; {year} Hotmoney. Todos os direitos reservados.
       <a href="/rss.xml" class="footer__rss">RSS</a>
@@ -59,6 +79,10 @@ const footerNav = [
     gap: var(--space-4) var(--space-6);
   }
 
+  .footer__nav--institutional {
+    font-size: var(--text-sm);
+  }
+
   .footer__nav a {
     font-weight: 600;
     text-decoration: none;
@@ -90,13 +114,34 @@ const footerNav = [
 
   @media (min-width: 768px) {
     .footer__inner {
-      grid-template-columns: 1fr auto 1fr;
-      align-items: center;
+      grid-template-columns: 1fr auto;
+      align-items: start;
       text-align: left;
     }
 
+    .footer__brand {
+      grid-column: 1;
+      grid-row: 1;
+    }
+
+    .footer__inner > nav:first-of-type {
+      grid-column: 2;
+      grid-row: 1;
+    }
+
+    .footer__inner > nav:last-of-type {
+      grid-column: 1 / -1;
+      grid-row: 2;
+    }
+
+    .footer__nav--institutional {
+      justify-content: flex-start;
+    }
+
     .footer__copy {
-      text-align: right;
+      grid-column: 1 / -1;
+      grid-row: 3;
+      text-align: center;
     }
   }
 </style>

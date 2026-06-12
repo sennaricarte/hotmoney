@@ -15,7 +15,7 @@ const { post, eager = false, featured = false, headingLevel = 'h2' } = Astro.pro
 const imageWidths = featured ? [600, 900, 1200] : [400, 600, 800, 1200];
 const { title, description, pubDate, cover, coverAlt, category } = post.data;
 const Heading = headingLevel;
-const postUrl = `/blog/${post.id}/`;
+const postUrl = `/${post.id}`;
 const isSvg = cover.format === 'svg';
 ---
 

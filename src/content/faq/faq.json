@@ -1,0 +1,38 @@
+[
+  {
+    "id": "viver-de-renda-extra",
+    "question": "É possível viver de renda extra?",
+    "answer": "Sim, mas costuma levar tempo e combinar mais de uma fonte de ganho. A maioria das pessoas começa com um complemento ao salário e só depois avalia se dá para escalar. Depende do nicho, da demanda na sua região e da consistência com que você trabalha — não é garantia de renda fixa.",
+    "order": 1
+  },
+  {
+    "id": "ganho-marido-de-aluguel",
+    "question": "Quanto dá para ganhar como marido de aluguel?",
+    "answer": "Varia muito por cidade, tipo de serviço e quantidade de clientes. Pequenos reparos podem render de R$ 80 a R$ 200 por visita; projetos maiores pagam mais, mas exigem ferramentas e experiência. Quem trabalha em tempo parcial costuma ver ganhos modestos no início, até montar carteira de clientes e reputação.",
+    "order": 2
+  },
+  {
+    "id": "cnpj-renda-extra",
+    "question": "Preciso de CNPJ para ter renda extra?",
+    "answer": "Nem sempre. Serviços ocasionais e valores baixos podem ser informados como pessoa física no Imposto de Renda. Quando o volume cresce ou você emite nota fiscal com frequência, abrir MEI ou outro regime costuma ser o caminho. Consulte um contador para o seu caso específico.",
+    "order": 3
+  },
+  {
+    "id": "plataformas-pagam-de-verdade",
+    "question": "Quais plataformas pagam de verdade?",
+    "answer": "Mercados consolidados como 99Freelas, Workana, Hotmart, Amazon Afiliados e apps de entrega costumam pagar, mas exigem cadastro, validação e tempo para gerar receita. Desconfie de promessas de ganho rápido sem esforço ou plataformas que cobram taxa alta antes de qualquer retorno.",
+    "order": 4
+  },
+  {
+    "id": "imposto-renda-extra",
+    "question": "Renda extra precisa declarar imposto de renda?",
+    "answer": "Em geral, sim: rendimentos tributáveis devem entrar na declaração anual, mesmo que venham de bicos ou freelas. Alguns ganhos pontuais podem ter retenção na fonte ou isenção conforme o valor e a natureza. Guarde comprovantes e, em caso de dúvida, procure orientação profissional.",
+    "order": 5
+  },
+  {
+    "id": "comecar-sem-investimento",
+    "question": "Dá para começar sem investimento?",
+    "answer": "Dá, principalmente em serviços com o que você já tem — celular, computador ou ferramentas básicas. Opções como revenda digital, redação freelance ou pequenos consertos exigem pouco capital inicial. Mesmo assim, reserve tempo para aprender e, quando possível, um fundo mínimo para materiais ou taxas de plataforma.",
+    "order": 6
+  }
+]

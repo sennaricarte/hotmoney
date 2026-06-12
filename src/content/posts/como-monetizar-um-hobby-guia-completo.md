@@ -1,7 +1,7 @@
 ---
 title: "Transforme seu Hobby em Renda: Guia Completo para Monetizar Paixões"
-description: "Quem nunca sonhou em ganhar dinheiro fazendo o que ama? A ideia de transformar um passatempo em uma fonte de renda, ou até mesmo em um negócio lucrativo,"
-pubDate: 2026-04-28
+description: "Quem nunca sonhou em ganhar dinheiro fazendo o que ama?"
+pubDate: 2026-05-12
 cover: ../../assets/posts/como-monetizar-um-hobby-guia-completo/cover.jpg
 coverAlt: "Ilustração sobre Transforme seu Hobby em Renda: Guia Completo para Monetizar Paixões - HotMoney"
 category: internet

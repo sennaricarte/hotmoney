@@ -1,7 +1,7 @@
 ---
 title: "Qual a Diferença Entre Educação Financeira e Matemática Financeira"
-description: "Você já parou para pensar na diferença entre educação financeira e matemática financeira? Embora esses dois conceitos estejam interligados, eles"
-pubDate: 2025-11-01
+description: "Você já parou para pensar na diferença entre educação financeira e matemática financeira?"
+pubDate: 2025-12-16
 cover: ../../assets/posts/diferenca-entre-educacao-financeira-e-matematica-financeira/cover.jpg
 coverAlt: "Ilustração sobre Qual a Diferença Entre Educação Financeira e Matemática Financeira - HotMoney"
 category: investimentos

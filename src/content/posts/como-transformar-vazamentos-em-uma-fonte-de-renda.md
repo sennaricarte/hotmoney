@@ -1,7 +1,7 @@
 ---
 title: "Encanador: Como Transformar Vazamentos em Uma Fonte de Renda Extra Sólida e Altamente Lucrativa!"
-description: "Olá, pessoal do **HotMoney**! Eu sou o Julio Mesquita, e se você está lendo este artigo, é porque tem sede de conhecimento... e talvez de uma nova fonte"
-pubDate: 2025-12-15
+description: "Olá, pessoal do HotMoney! Eu sou o Julio Mesquita, e se você está lendo este artigo, é porque tem sede de conhecimento..."
+pubDate: 2026-02-09
 cover: ../../assets/posts/como-transformar-vazamentos-em-uma-fonte-de-renda/cover.jpg
 coverAlt: "Ilustração sobre Encanador: Como Transformar Vazamentos em Uma Fonte de Renda Extra Sólida e Altamente Lucrativa! - HotMoney"
 category: servicos

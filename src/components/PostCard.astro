@@ -3,6 +3,7 @@ import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import { getCategoryHref, getCategoryName } from '../data/categories';
 import { formatDate } from '../utils/date';
+import { stripMarkdown } from '../utils/strip-markdown';
 
 interface Props {
   post: CollectionEntry<'posts'>;
@@ -19,7 +20,8 @@ const cardImageSizes = featured
   : '(min-width: 1024px) 340px, (min-width: 768px) calc((100vw - 4rem) / 2), calc(100vw - 2rem)';
 
 const imageWidths = featured ? [480, 600, 720, 960] : [320, 340, 480, 680];
-const { title, description, pubDate, cover, coverAlt, category } = post.data;
+const { title, description: rawDescription, pubDate, cover, coverAlt, category } = post.data;
+const description = stripMarkdown(rawDescription);
 const Heading = headingLevel;
 const postUrl = `/${post.id}`;
 const isSvg = cover.format === 'svg';

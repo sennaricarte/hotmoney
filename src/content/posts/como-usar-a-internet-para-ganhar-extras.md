@@ -1,7 +1,7 @@
 ---
 title: "Como Usar a Internet para Ganhar R$ 500 extras por mês"
-description: "Você já pensou em como a internet pode transformar sua vida financeira? Ganhar R$ 500 extras por mês pode parecer um desafio, mas com as oportunidades"
-pubDate: 2025-09-12
+description: "Você já pensou em como a internet pode transformar sua vida financeira?"
+pubDate: 2025-09-29
 cover: ../../assets/posts/como-usar-a-internet-para-ganhar-extras/cover.jpg
 coverAlt: "Ilustração sobre Como Usar a Internet para Ganhar R$ 500 extras por mês - HotMoney"
 category: internet

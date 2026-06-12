@@ -1,7 +1,7 @@
 ---
 title: "Melhores Aplicativos de Cashback: Guia Completo para Você Fazer Seu Dinheiro Voltar para o Bolso"
-description: "Olá, futuro detentor da sua liberdade financeira! Aqui é o Julio Mesquita, e se você está no **hotmoney.blog.br**, é porque, assim como eu, não gosta de"
-pubDate: 2025-11-28
+description: "Olá, futuro detentor da sua liberdade financeira!"
+pubDate: 2026-01-26
 cover: ../../assets/posts/melhores-aplicativos-de-cashback/cover.jpg
 coverAlt: "Ilustração sobre Melhores Aplicativos de Cashback: Guia Completo para Você Fazer Seu Dinheiro Voltar para o Bolso - HotMoney"
 category: investimentos

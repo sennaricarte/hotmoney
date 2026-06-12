@@ -1,7 +1,7 @@
 ---
 title: "Como montar um serviço de desentupimento básico e faturar R$ 3.000 extras por mês"
-description: "Você já parou para pensar que, enquanto houver pessoas morando em casas e apartamentos, haverá canos entupindo? É uma lei da natureza urbana. E sabe o que"
-pubDate: 2026-01-20
+description: "Você já parou para pensar que, enquanto houver pessoas morando em casas e apartamentos, haverá canos entupindo? É uma lei da natureza urbana."
+pubDate: 2026-03-30
 cover: ../../assets/posts/como-montar-um-servico-de-desentupimento/cover.jpg
 coverAlt: "Ilustração sobre Como montar um serviço de desentupimento básico e faturar R$ 3.000 extras por mês - HotMoney"
 category: servicos

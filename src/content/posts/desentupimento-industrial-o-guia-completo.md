@@ -1,7 +1,7 @@
 ---
 title: "Desentupimento Industrial: O Guia Completo para Economizar e Lucrar nesse Setor"
-description: "Se você acompanha o **hotmoney.blog.br**, sabe que eu sou fã de oportunidades que estão \"escondidas\" onde pouca gente quer olhar. E vamos ser sinceros:"
-pubDate: 2026-02-28
+description: "Se você acompanha o hotmoney.blog.br, sabe que eu sou fã de oportunidades que estão \"escondidas\" onde pouca gente quer olhar."
+pubDate: 2026-04-15
 cover: ../../assets/posts/desentupimento-industrial-o-guia-completo/cover.jpg
 coverAlt: "Ilustração sobre Desentupimento Industrial: O Guia Completo para Economizar e Lucrar nesse Setor - HotMoney"
 category: servicos

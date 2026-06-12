@@ -1,7 +1,7 @@
 ---
 title: "Agência de Marketing: O Guia Completo para Escalar seu Negócio ou Criar sua Fonte de Renda Extra"
-description: "Você já sentiu que o seu negócio está invisível na internet? Ou melhor: já percebeu que existem milhares de empresas precisando desesperadamente aparecer"
-pubDate: 2025-12-18
+description: "Você já sentiu que o seu negócio está invisível na internet?"
+pubDate: 2026-02-23
 cover: ../../assets/posts/agencia-de-marketing-o-guia-completo-para-escalar-seu-negocio/cover.jpg
 coverAlt: "Ilustração sobre Agência de Marketing: O Guia Completo para Escalar seu Negócio ou Criar sua Fonte de Renda Extra - HotMoney"
 category: internet

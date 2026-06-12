@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/como-monetizar-um-hobby",
+      "destination": "/como-monetizar-um-hobby-guia-completo",
+      "permanent": true
+    },
+    {
+      "source": "/aplicativos-de-renda-extra",
+      "destination": "/renda-extra-com-aplicativos-guia-completo",
+      "permanent": true
+    },
+    {
       "source": "/blog/:slug((?![0-9]+$)(?!$).*)",
       "destination": "/:slug",
       "permanent": true

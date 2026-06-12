@@ -1,7 +1,7 @@
 ---
 title: "7 Formas de Fazer Renda Extra Usando o Seu Carro"
-description: "Você já parou para pensar em como o seu carro pode ser uma fonte de renda extra? Com a rotina moderna e os altos custos, muitas pessoas estão em busca de"
-pubDate: 2025-09-12
+description: "Você já parou para pensar em como o seu carro pode ser uma fonte de renda extra?"
+pubDate: 2025-10-07
 cover: ../../assets/posts/fazer-renda-extra-usando-o-seu-carro/cover.jpg
 coverAlt: "Ilustração sobre 7 Formas de Fazer Renda Extra Usando o Seu Carro - HotMoney"
 category: servicos

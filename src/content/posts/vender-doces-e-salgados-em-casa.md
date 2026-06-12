@@ -1,7 +1,7 @@
 ---
 title: "Guia Completo para Vender Doces e Salgados em Casa"
 description: "Você já pensou em transformar sua paixão por cozinhar em uma fonte de renda? Vender doces e salgados em casa pode ser a oportunidade perfeita para você!"
-pubDate: 2025-10-07
+pubDate: 2025-11-06
 cover: ../../assets/posts/vender-doces-e-salgados-em-casa/cover.jpg
 coverAlt: "Ilustração sobre Guia Completo para Vender Doces e Salgados em Casa - HotMoney"
 category: servicos

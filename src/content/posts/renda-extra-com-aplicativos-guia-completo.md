@@ -1,7 +1,7 @@
 ---
 title: "Renda Extra com Apps: Guia Completo para Faturar no Celular"
-description: "Quem nunca sonhou em transformar o tempo gasto no celular em dinheiro? A boa notícia é que, no cenário digital atual, isso não é mais um sonho distante,"
-pubDate: 2026-04-28
+description: "Quem nunca sonhou em transformar o tempo gasto no celular em dinheiro?"
+pubDate: 2026-06-08
 cover: ../../assets/posts/renda-extra-com-aplicativos-guia-completo/cover.jpg
 coverAlt: "Ilustração sobre Renda Extra com Apps: Guia Completo para Faturar no Celular - HotMoney"
 category: internet

@@ -1,7 +1,7 @@
 ---
 title: "Marido de Aluguel 2.0: Como Ganhar R$ 3.000 ou Mais por Mês Fazendo Desentupimentos Simples em Casa"
-description: "Você já pensou em como um simples trabalho de desentupimento pode transformar sua vida financeira? Imagine ganhar R$ 3.000 ou mais por mês com serviços"
-pubDate: 2025-11-07
+description: "Você já pensou em como um simples trabalho de desentupimento pode transformar sua vida financeira?"
+pubDate: 2026-01-13
 cover: ../../assets/posts/marido-de-aluguel/cover.jpg
 coverAlt: "Ilustração sobre Marido de Aluguel 2.0: Como Ganhar R$ 3.000 ou Mais por Mês Fazendo Desentupimentos Simples em Casa - HotMoney"
 category: servicos

@@ -1,7 +1,7 @@
 ---
 title: "Serviços de Desentupimento e Controle Ambiental: Guia Essencial"
 description: "Você já se viu diante de um ralo entupido que não desce de jeito nenhum? Ou percebeu a presença incômoda de pragas em sua casa ou ambiente de trabalho?"
-pubDate: 2026-04-23
+pubDate: 2026-04-27
 cover: ../../assets/posts/servicos-desentupimento-controle-ambiental-guia-essencial/cover.jpg
 coverAlt: "Ilustração sobre Serviços de Desentupimento e Controle Ambiental: Guia Essencial - HotMoney"
 category: servicos

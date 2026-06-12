@@ -1,7 +1,7 @@
 ---
 title: "Renda Extra com Hobbies: Ganhe Dinheiro Fazendo o que Você Ama"
-description: "Você já parou para pensar que os seus hobbies podem se transformar em uma fonte de renda extra? Muitas pessoas estão descobrindo como é possível ganhar"
-pubDate: 2025-09-12
+description: "Você já parou para pensar que os seus hobbies podem se transformar em uma fonte de renda extra?"
+pubDate: 2025-10-15
 cover: ../../assets/posts/renda-extra-com-hobbies/cover.jpg
 coverAlt: "Ilustração sobre Renda Extra com Hobbies: Ganhe Dinheiro Fazendo o que Você Ama - HotMoney"
 category: servicos

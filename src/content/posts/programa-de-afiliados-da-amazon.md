@@ -1,7 +1,7 @@
 ---
 title: "Programa de Afiliados da Amazon: 5 Dicas Cruciais para Ter Sucesso"
-description: "Você já pensou em transformar suas paixões em uma fonte de renda? O programa de afiliados da Amazon pode ser a chave para isso! Com milhões de produtos à"
-pubDate: 2025-11-06
+description: "Você já pensou em transformar suas paixões em uma fonte de renda? O programa de afiliados da Amazon pode ser a chave para isso!"
+pubDate: 2025-12-31
 cover: ../../assets/posts/programa-de-afiliados-da-amazon/cover.jpg
 coverAlt: "Ilustração sobre Programa de Afiliados da Amazon: 5 Dicas Cruciais para Ter Sucesso - HotMoney"
 category: internet

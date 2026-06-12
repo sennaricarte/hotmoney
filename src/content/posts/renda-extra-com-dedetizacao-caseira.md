@@ -1,7 +1,7 @@
 ---
 title: "Renda Extra com Dedetização Caseira: O Guia para Vender Serviços de Controle de Pragas em Pequena Escala"
-description: "Você já pensou em ganhar uma renda extra com algo que pode fazer em casa? A dedetização caseira é uma excelente oportunidade! Com o aumento das"
-pubDate: 2025-10-11
+description: "Você já pensou em ganhar uma renda extra com algo que pode fazer em casa? A dedetização caseira é uma excelente oportunidade!"
+pubDate: 2025-11-11
 cover: ../../assets/posts/renda-extra-com-dedetizacao-caseira/cover.jpg
 coverAlt: "Ilustração sobre Renda Extra com Dedetização Caseira: O Guia para Vender Serviços de Controle de Pragas em Pequena Escala - HotMoney"
 category: servicos

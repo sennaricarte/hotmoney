@@ -1,7 +1,7 @@
 ---
 title: "Como Viver de Contratos de Manutenção Preventiva de Esgoto e Garantir um Salário Fixo"
-description: "Você já imaginou viver tranquilamente com um salário fixo, enquanto cuida da saúde do esgoto das empresas? Isso mesmo! A manutenção preventiva de esgoto"
-pubDate: 2025-11-15
+description: "Você já imaginou viver tranquilamente com um salário fixo, enquanto cuida da saúde do esgoto das empresas? Isso mesmo!"
+pubDate: 2026-01-19
 cover: ../../assets/posts/como-viver-de-contratos-de-manutencao-preventiva-de-esgoto/cover.jpg
 coverAlt: "Ilustração sobre Como Viver de Contratos de Manutenção Preventiva de Esgoto e Garantir um Salário Fixo - HotMoney"
 category: servicos

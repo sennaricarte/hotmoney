@@ -1,7 +1,7 @@
 ---
 title: "Mais de 7 Formas de Viajar o Mundo Ganhando Dinheiro (ou Gastando Quase Nada)"
-description: "Viajar o mundo enquanto ganha dinheiro parece um sonho distante, mas a verdade é que isso pode ser bem mais acessível do que você imagina. Com"
-pubDate: 2025-10-14
+description: "Viajar o mundo enquanto ganha dinheiro parece um sonho distante, mas a verdade é que isso pode ser bem mais acessível do que você imagina."
+pubDate: 2025-11-25
 cover: ../../assets/posts/formas-de-viajar-o-mundo-ganhando-dinheiro/cover.jpg
 coverAlt: "Ilustração sobre Mais de 7 Formas de Viajar o Mundo Ganhando Dinheiro (ou Gastando Quase Nada) - HotMoney"
 category: servicos

@@ -1,7 +1,7 @@
 ---
 title: "Minha Loja Caedu: Como Ganhar Dinheiro Promovendo Produtos!"
-description: "Você já imaginou ganhar dinheiro promovendo produtos que você ama? Com o Programa de Afiliados Caedu, essa ideia se torna realidade! A Caedu, conhecida"
-pubDate: 2025-10-21
+description: "Você já imaginou ganhar dinheiro promovendo produtos que você ama? Com o Programa de Afiliados Caedu, essa ideia se torna realidade!"
+pubDate: 2025-12-04
 cover: ../../assets/posts/minha-loja-caedu/cover.jpg
 coverAlt: "Ilustração sobre Minha Loja Caedu: Como Ganhar Dinheiro Promovendo Produtos! - HotMoney"
 category: internet

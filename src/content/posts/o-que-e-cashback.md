@@ -1,7 +1,7 @@
 ---
 title: "O Que É Cashback? Aprenda Como Ter Seu Dinheiro de Volta e Turbinar Sua Renda Extra!"
-description: "Olá! Meu nome é Julio Mesquita, e se você chegou até o **Hotmoney**, é porque está, assim como eu, na missão de fazer seu dinheiro render mais e"
-pubDate: 2025-11-28
+description: "Olá! Meu nome é Julio Mesquita, e se você chegou até o Hotmoney, é porque está, assim como eu, na missão de fazer seu dinheiro render mais e..."
+pubDate: 2026-02-03
 cover: ../../assets/posts/o-que-e-cashback/cover.jpg
 coverAlt: "Ilustração sobre O Que É Cashback? Aprenda Como Ter Seu Dinheiro de Volta e Turbinar Sua Renda Extra! - HotMoney"
 category: investimentos

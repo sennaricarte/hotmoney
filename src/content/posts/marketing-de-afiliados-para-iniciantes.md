@@ -1,7 +1,7 @@
 ---
 title: "Marketing de Afiliados para Iniciantes: Como Funciona e Por Onde Começar"
-description: "O marketing de afiliados é uma das formas mais acessíveis e eficazes para quem deseja ganhar dinheiro online. Se você está começando agora, pode se sentir"
-pubDate: 2025-09-12
+description: "O marketing de afiliados é uma das formas mais acessíveis e eficazes para quem deseja ganhar dinheiro online."
+pubDate: 2025-10-13
 cover: ../../assets/posts/marketing-de-afiliados-para-iniciantes/cover.jpg
 coverAlt: "Ilustração sobre Marketing de Afiliados para Iniciantes: Como Funciona e Por Onde Começar - HotMoney"
 category: internet

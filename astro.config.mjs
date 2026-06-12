@@ -5,6 +5,10 @@ import rehypeSlug from 'rehype-slug';
 import { rehypeExternalDofollow } from './src/plugins/rehype-external-dofollow.mjs';
 
 import sitemap from '@astrojs/sitemap';
+import { buildPostLastmodMap } from './src/plugins/sitemap-lastmod.mjs';
+
+const postLastmod = buildPostLastmodMap();
+const buildDate = new Date().toISOString();
 
 // https://astro.build/config
 export default defineConfig({
@@ -28,5 +32,13 @@ export default defineConfig({
       smartypants: true,
     }),
   },
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      serialize(item) {
+        const pathname = new URL(item.url).pathname;
+        item.lastmod = postLastmod.get(pathname) ?? buildDate;
+        return item;
+      },
+    }),
+  ],
 });

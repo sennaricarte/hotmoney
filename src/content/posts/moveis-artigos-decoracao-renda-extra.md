@@ -1,7 +1,7 @@
 ---
 title: "Móveis e Artigos de Decoração: Como Deixar sua Casa Incrível e Ainda Ganhar Dinheiro com Isso"
-description: "Se você é como eu, sabe que não existe sensação melhor do que chegar em casa e sentir que cada cantinho tem a nossa cara. Mas, vamos ser sinceros: quando"
-pubDate: 2026-01-15
+description: "Se você é como eu, sabe que não existe sensação melhor do que chegar em casa e sentir que cada cantinho tem a nossa cara."
+pubDate: 2026-03-23
 cover: ../../assets/posts/moveis-artigos-decoracao-renda-extra/cover.jpg
 coverAlt: "Ilustração sobre Móveis e Artigos de Decoração: Como Deixar sua Casa Incrível e Ainda Ganhar Dinheiro com Isso - HotMoney"
 category: servicos

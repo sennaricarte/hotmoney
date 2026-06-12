@@ -1,7 +1,7 @@
 ---
 title: "Consórcio de Carro: Saiba Como Comprar Sem Juros (e Sem Dor de Cabeça)"
-description: "**Ei, Julio Mesquita aqui.** Se você chegou até esta página, tenho certeza de que está com um pé no acelerador para realizar um sonho: ter o seu carro"
-pubDate: 2025-12-18
+description: "Ei, Julio Mesquita aqui. Se você chegou até esta página, tenho certeza de que está com um pé no acelerador para realizar um sonho: ter o seu carro..."
+pubDate: 2026-02-26
 cover: ../../assets/posts/consorcio-de-carro/cover.jpg
 coverAlt: "Ilustração sobre Consórcio de Carro: Saiba Como Comprar Sem Juros (e Sem Dor de Cabeça) - HotMoney"
 category: investimentos

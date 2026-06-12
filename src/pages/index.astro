@@ -5,7 +5,7 @@ import PostCard from '../components/PostCard.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getPublishedPosts } from '../utils/posts';
 
-const HOME_POST_LIMIT = 9;
+const HOME_POST_LIMIT = 16;
 const posts = (await getPublishedPosts()).slice(0, HOME_POST_LIMIT);
 const [featuredPost, ...otherPosts] = posts;
 ---

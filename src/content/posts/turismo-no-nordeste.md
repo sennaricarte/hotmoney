@@ -1,7 +1,7 @@
 ---
 title: "Turismo no Nordeste: Como Planejar a Viagem dos Sonhos sem Fugir do Orçamento"
 description: "Você já se pegou olhando fotos daquelas águas cristalinas de Alagoas ou das dunas do Ceará e pensou: \"Um dia eu vou, mas deve ser uma fortuna\"?"
-pubDate: 2026-01-20
+pubDate: 2026-04-01
 cover: ../../assets/posts/turismo-no-nordeste/cover.jpg
 coverAlt: "Ilustração sobre Turismo no Nordeste: Como Planejar a Viagem dos Sonhos sem Fugir do Orçamento - HotMoney"
 category: investimentos

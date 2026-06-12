@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineer Freelancer: Monetize ChatGPT no 99Freelas"
-description: "Se você chegou até aqui, provavelmente já se perguntou como a inteligência artificial, especialmente o ChatGPT, pode se encaixar na sua rotina de"
-pubDate: 2026-03-14
+description: "Se você chegou até aqui, provavelmente já se perguntou como a inteligência artificial, especialmente o ChatGPT, pode se encaixar na sua rotina de..."
+pubDate: 2026-04-22
 cover: ../../assets/posts/prompt-engineer-freelancer-chatgpt-99freelas/cover.jpg
 coverAlt: "Ilustração sobre Prompt Engineer Freelancer: Monetize ChatGPT no 99Freelas - HotMoney"
 category: ia

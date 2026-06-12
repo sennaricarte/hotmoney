@@ -1,7 +1,7 @@
 ---
 title: "Como Fazer Renda Extra Consertando MacBooks em Casa"
-description: "Você já imaginou transformar seu hobby em uma fonte de renda extra? No mundo dos consertos, há uma mina de ouro esperando por você: os MacBooks. Com a"
-pubDate: 2025-11-06
+description: "Você já imaginou transformar seu hobby em uma fonte de renda extra? No mundo dos consertos, há uma mina de ouro esperando por você: os MacBooks."
+pubDate: 2026-01-08
 cover: ../../assets/posts/renda-extra-consertando-macbooks/cover.jpg
 coverAlt: "Ilustração sobre Como Fazer Renda Extra Consertando MacBooks em Casa - HotMoney"
 category: internet

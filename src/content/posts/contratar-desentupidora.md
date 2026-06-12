@@ -1,7 +1,7 @@
 ---
 title: "Desentupidora: O Guia para não entrar pelo cano (e como esse mercado pode render!)"
-description: "Você está lá, lavando a louça do domingo ou terminando aquele banho relaxante, quando percebe: a água não desce. O desespero bate, o cheiro não ajuda e a"
-pubDate: 2026-01-09
+description: "Você está lá, lavando a louça do domingo ou terminando aquele banho relaxante, quando percebe: a água não desce."
+pubDate: 2026-03-10
 cover: ../../assets/posts/contratar-desentupidora/cover.jpg
 coverAlt: "Ilustração sobre Desentupidora: O Guia para não entrar pelo cano (e como esse mercado pode render!) - HotMoney"
 category: servicos

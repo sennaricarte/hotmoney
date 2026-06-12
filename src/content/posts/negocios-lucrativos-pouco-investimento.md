@@ -1,7 +1,7 @@
 ---
 title: "Negócios Lucrativos com Pouco Investimento: Inicie o Seu Sonho!"
-description: "Ah, o empreendedorismo! A liberdade de ser seu próprio chefe, de transformar uma paixão em lucro, de ter a flexibilidade de horários e a satisfação de"
-pubDate: 2026-04-28
+description: "Ah, o empreendedorismo! A liberdade de ser seu próprio chefe, de transformar uma paixão em lucro, de ter a flexibilidade de horários e a satisfação de..."
+pubDate: 2026-05-29
 cover: ../../assets/posts/negocios-lucrativos-pouco-investimento/cover.jpg
 coverAlt: "Ilustração sobre Negócios Lucrativos com Pouco Investimento: Inicie o Seu Sonho! - HotMoney"
 category: investimentos

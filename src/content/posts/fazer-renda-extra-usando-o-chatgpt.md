@@ -1,7 +1,7 @@
 ---
 title: "10 Formas de Fazer Renda Extra Usando o ChatGPT (e Outras IAs) em 2025"
-description: "Nos últimos anos, a tecnologia tem avançado de maneira impressionante e as inteligências artificiais estão se tornando parte do nosso cotidiano. Entre"
-pubDate: 2025-10-13
+description: "Nos últimos anos, a tecnologia tem avançado de maneira impressionante e as inteligências artificiais estão se tornando parte do nosso cotidiano."
+pubDate: 2025-11-24
 cover: ../../assets/posts/fazer-renda-extra-usando-o-chatgpt/cover.jpg
 coverAlt: "Ilustração sobre 10 Formas de Fazer Renda Extra Usando o ChatGPT (e Outras IAs) em 2025 - HotMoney"
 category: ia

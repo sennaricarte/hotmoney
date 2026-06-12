@@ -1,7 +1,7 @@
 ---
 title: "Renda Extra não é Mágica: Os 3 Maiores Erros que Você deve Evitar"
-description: "Você já ouviu falar que é possível ganhar uma renda extra e transformar sua vida financeira? A ideia de ter um dinheirinho a mais no final do mês pode"
-pubDate: 2025-09-12
+description: "Você já ouviu falar que é possível ganhar uma renda extra e transformar sua vida financeira?"
+pubDate: 2025-11-03
 cover: ../../assets/posts/renda-extra-nao-e-magica/cover.jpg
 coverAlt: "Ilustração sobre Renda Extra não é Mágica: Os 3 Maiores Erros que Você deve Evitar - HotMoney"
 category: servicos

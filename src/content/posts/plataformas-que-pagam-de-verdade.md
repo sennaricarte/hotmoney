@@ -1,7 +1,7 @@
 ---
 title: "Plataformas que Pagam de Verdade: Guia Completo para Renda Extra"
-description: "Em um mundo cada vez mais conectado, a busca por renda extra através da internet tornou-se uma realidade para muitos. A promessa de ganhos fáceis e"
-pubDate: 2026-04-28
+description: "Em um mundo cada vez mais conectado, a busca por renda extra através da internet tornou-se uma realidade para muitos."
+pubDate: 2026-06-01
 cover: ../../assets/posts/plataformas-que-pagam-de-verdade/cover.jpg
 coverAlt: "Ilustração sobre Plataformas que Pagam de Verdade: Guia Completo para Renda Extra - HotMoney"
 category: investimentos

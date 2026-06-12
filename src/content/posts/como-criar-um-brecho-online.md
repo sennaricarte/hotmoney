@@ -1,7 +1,7 @@
 ---
 title: "Como Criar um Brechó Online e Faturar com Roupas Usadas"
-description: "Você já pensou em transformar aquelas roupas que não usa mais em uma fonte de renda? Com o crescimento do consumo consciente, abrir um brechó online pode"
-pubDate: 2025-09-12
+description: "Você já pensou em transformar aquelas roupas que não usa mais em uma fonte de renda?"
+pubDate: 2025-09-22
 cover: ../../assets/posts/como-criar-um-brecho-online/cover.jpg
 coverAlt: "Ilustração sobre Como Criar um Brechó Online e Faturar com Roupas Usadas - HotMoney"
 category: internet

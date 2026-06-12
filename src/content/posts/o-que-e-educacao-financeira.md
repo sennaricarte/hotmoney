@@ -1,7 +1,7 @@
 ---
 title: "O que é educação financeira e por que você precisa dela"
-description: "Você já parou para pensar em como suas decisões financeiras afetam sua vida? A educação financeira é uma ferramenta poderosa que pode transformar a forma"
-pubDate: 2025-11-01
+description: "Você já parou para pensar em como suas decisões financeiras afetam sua vida?"
+pubDate: 2025-12-26
 cover: ../../assets/posts/o-que-e-educacao-financeira/cover.jpg
 coverAlt: "Ilustração sobre O que é educação financeira e por que você precisa dela - HotMoney"
 category: investimentos

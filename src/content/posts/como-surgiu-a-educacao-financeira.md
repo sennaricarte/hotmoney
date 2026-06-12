@@ -1,7 +1,7 @@
 ---
 title: "Como Surgiu a Educação Financeira e sua Importância na Sociedade Moderna"
-description: "Você já parou para pensar em como a educação financeira pode transformar vidas? Em um mundo onde as decisões financeiras estão cada vez mais presentes no"
-pubDate: 2025-11-01
+description: "Você já parou para pensar em como a educação financeira pode transformar vidas?"
+pubDate: 2025-12-09
 cover: ../../assets/posts/como-surgiu-a-educacao-financeira/cover.jpg
 coverAlt: "Ilustração sobre Como Surgiu a Educação Financeira e sua Importância na Sociedade Moderna - HotMoney"
 category: investimentos

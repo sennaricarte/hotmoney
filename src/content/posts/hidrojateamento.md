@@ -1,7 +1,7 @@
 ---
 title: "Hidrojateamento: Como Abrir Seu Negócio Altamente Lucrativo e de Baixo Investimento"
-description: "Olá! Meu nome é Julio Mesquita, e se você chegou até aqui, é porque, assim como eu, está na busca incessante por aquela **ideia de renda extra que"
-pubDate: 2025-12-15
+description: "Olá! Meu nome é Julio Mesquita, e se você chegou até aqui, é porque, assim como eu, está na busca incessante por aquela ideia de renda extra que..."
+pubDate: 2026-02-13
 cover: ../../assets/posts/hidrojateamento/cover.jpg
 coverAlt: "Ilustração sobre Hidrojateamento: Como Abrir Seu Negócio Altamente Lucrativo e de Baixo Investimento - HotMoney"
 category: investimentos

@@ -1,7 +1,7 @@
 ---
 title: "Limpeza de Calha: O Guia Definitivo para Economizar ou Ganhar Renda Extra"
-description: "Você já acordou com aquele barulho de \"cachoeira\" batendo no telhado, apenas para descobrir que a sua calha virou um jardim suspenso de tanta folha e"
-pubDate: 2026-01-11
+description: "Você já acordou com aquele barulho de \"cachoeira\" batendo no telhado, apenas para descobrir que a sua calha virou um jardim suspenso de tanta folha e..."
+pubDate: 2026-03-16
 cover: ../../assets/posts/ganhe-dinheiro-com-limpeza-de-calha/cover.jpg
 coverAlt: "Ilustração sobre Limpeza de Calha: O Guia Definitivo para Economizar ou Ganhar Renda Extra - HotMoney"
 category: servicos

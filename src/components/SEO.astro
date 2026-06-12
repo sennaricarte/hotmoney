@@ -4,6 +4,7 @@ import { getImage } from 'astro:assets';
 import ogDefault from '../assets/og-default.png';
 import type { BreadcrumbItem } from '../utils/json-ld';
 import { getBlogPostingSchema, getBreadcrumbSchema } from '../utils/json-ld';
+import { stripMarkdown } from '../utils/strip-markdown';
 
 interface Props {
   title: string;
@@ -30,6 +31,7 @@ const {
 
 const siteName = 'Hotmoney';
 const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
+const cleanDescription = stripMarkdown(description);
 
 const defaultOg = await getImage({
   src: ogDefault,
@@ -57,7 +59,7 @@ const articleJsonLd =
     ? getBlogPostingSchema({
         site: Astro.site!,
         title,
-        description,
+        description: cleanDescription,
         canonical,
         imageUrl: ogImageUrl,
         pubDate: article.pubDate,
@@ -69,20 +71,20 @@ const breadcrumbJsonLd = breadcrumbs?.length ? getBreadcrumbSchema(breadcrumbs) 
 ---
 
 <title>{fullTitle}</title>
-<meta name="description" content={description} />
+<meta name="description" content={cleanDescription} />
 <link rel="canonical" href={canonical} />
 
 <meta property="og:type" content={type} />
 <meta property="og:site_name" content={siteName} />
 <meta property="og:title" content={fullTitle} />
-<meta property="og:description" content={description} />
+<meta property="og:description" content={cleanDescription} />
 <meta property="og:url" content={canonical} />
 <meta property="og:image" content={ogImageUrl} />
 <meta property="og:locale" content="pt_BR" />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={fullTitle} />
-<meta name="twitter:description" content={description} />
+<meta name="twitter:description" content={cleanDescription} />
 <meta name="twitter:image" content={ogImageUrl} />
 
 {articleJsonLd && <script type="application/ld+json" set:html={JSON.stringify(articleJsonLd)} />}

@@ -1,7 +1,7 @@
 ---
 title: "Controle de Pragas: Guia Prático para Economizar e até Ganhar Dinheiro com Isso!"
-description: "Se você já deu um pulo de susto ao acender a luz da cozinha de madrugada e ver uma barata \"maratonista\", ou se já perdeu um móvel caro para os cupins,"
-pubDate: 2026-02-20
+description: "Se você já deu um pulo de susto ao acender a luz da cozinha de madrugada e ver uma barata \"maratonista\", ou se já perdeu um móvel caro para os cupins,..."
+pubDate: 2026-04-10
 cover: ../../assets/posts/controle-de-pragas/cover.jpg
 coverAlt: "Ilustração sobre Controle de Pragas: Guia Prático para Economizar e até Ganhar Dinheiro com Isso! - HotMoney"
 category: servicos

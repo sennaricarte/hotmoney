@@ -4,7 +4,7 @@ description: "Você já pensou em como seria bom ter uma renda extra?"
 pubDate: 2025-09-08
 cover: ../../assets/posts/ideias-de-renda-extra/cover.jpg
 coverAlt: "Ilustração sobre 10 Ideias de Renda Extra para Começar Hoje Mesmo - HotMoney"
-category: servicos
+category: internet
 draft: false
 ---
 Você já pensou em como seria bom ter uma renda extra? Com a vida cada vez mais corrida e as contas sempre apertadas, muitas pessoas buscam alternativas para ganhar um dinheirinho a mais.

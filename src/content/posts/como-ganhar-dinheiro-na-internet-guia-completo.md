@@ -4,7 +4,7 @@ description: "Seja bem-vindo ao HotMoney.blog.br! Eu sou Julio Mesquita e, se vo
 pubDate: 2026-05-08
 cover: ../../assets/posts/como-ganhar-dinheiro-na-internet-guia-completo/cover.jpg
 coverAlt: "Ilustração sobre Como Ganhar Dinheiro na Internet: O Guia Definitivo do HotMoney - HotMoney"
-category: investimentos
+category: internet
 draft: false
 ---
 ## Introdução: Desvendando o Potencial da Internet para Sua Renda

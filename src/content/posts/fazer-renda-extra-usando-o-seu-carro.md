@@ -4,7 +4,7 @@ description: "Você já parou para pensar em como o seu carro pode ser uma fonte
 pubDate: 2025-10-07
 cover: ../../assets/posts/fazer-renda-extra-usando-o-seu-carro/cover.jpg
 coverAlt: "Ilustração sobre 7 Formas de Fazer Renda Extra Usando o Seu Carro - HotMoney"
-category: servicos
+category: internet
 draft: false
 ---
 Você já parou para pensar em como o seu carro pode ser uma fonte de renda extra? Com a rotina moderna e os altos custos, muitas pessoas estão em busca de maneiras criativas de ganhar dinheiro. E acredite, seu veículo pode ser um grande aliado nessa missão! Desde dirigir para aplicativos até alugar o carro ou fazer entregas, as opções são diversas e podem se encaixar na sua agenda.

@@ -4,7 +4,7 @@ description: "Quem nunca sonhou em ganhar dinheiro fazendo o que ama?"
 pubDate: 2026-05-19
 cover: ../../assets/posts/como-monetizar-um-hobby/cover.jpg
 coverAlt: "Ilustração sobre Transforme seu Hobby em Lucro: Guia Completo para Monetizar - HotMoney"
-category: investimentos
+category: internet
 draft: true
 ---
 ## Introdução: A Magia de Transformar Paixão em Lucro

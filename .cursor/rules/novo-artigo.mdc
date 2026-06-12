@@ -11,7 +11,30 @@ Quando eu invocar esta regra com uma palavra-chave, siga este workflow completo:
 
 - Pesquise o tema na web em fontes confiáveis (priorize fontes primárias, dados oficiais, valores em R$ atualizados). Cite dados com a fonte no corpo do texto.
 - Mapeie a intenção de busca da palavra-chave (informacional/transacional/navegacional) e liste os subtópicos e perguntas que as pessoas realmente fazem sobre o tema (use variações "como", "quanto ganha", "vale a pena", "para iniciantes").
-- Me apresente ANTES de escrever: a estrutura proposta (H1, H2s, H3s), a palavra-chave principal, 3-5 secundárias e a meta description. Aguarde minha aprovação.
+
+### 1.1 — Avaliação de concorrência (obrigatória, antes da estrutura)
+
+Para a palavra-chave informada, execute **antes** de propor H1/H2/H3:
+
+1. **SERP qualitativa (top 10 no Google via web):**
+   - Que tipos de site dominam? (portais grandes, bancos, gov.br = difícil; blogs pequenos, fóruns, Reddit = brecha)
+   - Os títulos respondem bem à intenção ou há lacuna a explorar?
+   - Há featured snippet? De qual domínio e em que formato (parágrafo, lista, tabela)?
+2. **Cauda longa:** liste **5–8 variações** da keyword com qualificadores (público, local, plataforma, valor, "sem X", etc.).
+3. **Dificuldade aparente:** classifique cada variação como **alta / média / baixa** com base só na força dos concorrentes no top 10. Deixe explícito que é **estimativa qualitativa**, não dado de volume — e recomende que eu confirme volume e dificuldade no Keyword Planner ou Ubersuggest antes de escrever.
+4. **Recomendação de foco:** indique a variação com melhor relação **intenção clara × concorrência fraca** como keyword principal do artigo; as demais entram como secundárias (H2/H3 do mesmo post).
+
+**Entregável da 1.1:** bloco "Concorrência e cauda longa" com os quatro itens acima. Aguarde minha aprovação ou ajustes antes de seguir.
+
+### 1.2 — Proposta de estrutura (após 1.1)
+
+Somente depois da avaliação de concorrência, apresente:
+
+- Estrutura proposta (H1, H2s, H3s) alinhada à keyword principal escolhida na 1.1
+- Palavra-chave principal + 3–5 secundárias (derivadas das variações de cauda longa)
+- Meta description proposta
+
+Aguarde minha aprovação antes da Fase 2.
 
 ## FASE 2 — REDAÇÃO (após aprovação)
 

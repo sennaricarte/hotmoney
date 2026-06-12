@@ -4,7 +4,7 @@ description: "Você já ouviu falar que é possível ganhar uma renda extra e tr
 pubDate: 2025-11-03
 cover: ../../assets/posts/renda-extra-nao-e-magica/cover.jpg
 coverAlt: "Ilustração sobre Renda Extra não é Mágica: Os 3 Maiores Erros que Você deve Evitar - HotMoney"
-category: servicos
+category: investimentos
 draft: false
 ---
 Você já ouviu falar que é possível ganhar uma renda extra e transformar sua vida financeira? A ideia de ter um dinheirinho a mais no final do mês pode soar como um verdadeiro sonho, mas é importante lembrar: renda extra não é mágica. Muitas pessoas entram nesse mundo acreditando em promessas mirabolantes, mas acabam se decepcionando ao perceber que o caminho exige dedicação e planejamento.

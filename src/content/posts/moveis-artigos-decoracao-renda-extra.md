@@ -4,7 +4,7 @@ description: "Se você é como eu, sabe que não existe sensação melhor do que
 pubDate: 2026-03-23
 cover: ../../assets/posts/moveis-artigos-decoracao-renda-extra/cover.jpg
 coverAlt: "Ilustração sobre Móveis e Artigos de Decoração: Como Deixar sua Casa Incrível e Ainda Ganhar Dinheiro com Isso - HotMoney"
-category: servicos
+category: internet
 draft: false
 ---
 Se você é como eu, sabe que não existe sensação melhor do que chegar em casa e sentir que cada cantinho tem a nossa cara. Mas, vamos ser sinceros: quando olhamos os preços de **móveis e artigos para decoração** em grandes lojas de shopping, a vontade de redecorar passa rapidinho, não é?

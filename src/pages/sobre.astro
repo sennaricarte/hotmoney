@@ -1,11 +1,15 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getPersonSchema } from '../utils/json-ld';
+
+const personJsonLd = getPersonSchema(Astro.site!);
 ---
 
 <BaseLayout
   title="Sobre"
   description="Conheça Julio Mesquita, criador do Hotmoney, e como o blog ajuda brasileiros a explorar renda extra com clareza e responsabilidade."
 >
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(personJsonLd)} />
   <section class="page container">
     <h1 class="page__title">Sobre Nós</h1>
     <div class="page__content prose">

@@ -4,6 +4,7 @@ import {
   SITE_DESCRIPTION,
   SITE_LOGO_PATH,
   SITE_NAME,
+  SITE_PURPOSE,
 } from '../data/site';
 
 export interface BreadcrumbItem {
@@ -91,5 +92,19 @@ export function getBreadcrumbSchema(items: BreadcrumbItem[]) {
       name: item.name,
       item: item.url,
     })),
+  };
+}
+
+export function getPersonSchema(site: URL | string) {
+  const authorUrl = new URL(SITE_AUTHOR_PATH, site).href;
+  const publisher = getOrganizationSchema(site);
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name: SITE_AUTHOR_NAME,
+    url: authorUrl,
+    description: SITE_PURPOSE,
+    worksFor: publisher,
   };
 }

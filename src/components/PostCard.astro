@@ -33,7 +33,7 @@ const isSvg = cover.format === 'svg';
       isSvg ? (
         <img
           src={cover.src}
-          alt=""
+          alt={coverAlt}
           width={1200}
           height={630}
           loading={eager ? 'eager' : 'lazy'}
@@ -43,7 +43,7 @@ const isSvg = cover.format === 'svg';
       ) : (
         <Image
           src={cover}
-          alt=""
+          alt={coverAlt}
           width={1200}
           height={630}
           widths={imageWidths}

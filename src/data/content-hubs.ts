@@ -25,7 +25,6 @@ export const FINANCAS_PESSOAIS_HUB: ContentHub = {
   path: '/financas-pessoais',
   name: 'Finanças Pessoais',
   spokes: new Set(['o-que-e-cashback', 'consorcio-de-carro', 'reserva-de-emergencia']),
-  noindex: true,
 };
 
 export const EMPREENDEDORISMO_DIGITAL_HUB: ContentHub = {
@@ -36,7 +35,6 @@ export const EMPREENDEDORISMO_DIGITAL_HUB: ContentHub = {
     'prompt-engineer-freelancer-chatgpt-99freelas',
     'como-abrir-mei',
   ]),
-  noindex: true,
 };
 
 export const CONTENT_HUBS: ContentHub[] = [

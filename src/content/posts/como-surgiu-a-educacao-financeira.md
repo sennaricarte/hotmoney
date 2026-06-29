@@ -17,7 +17,7 @@ A história da [educação financeira](https://go.hotmart.com/B102724075P) é co
 Com o passar dos anos, surgiram instituições e práticas que ajudaram as pessoas a entender melhor suas finanças pessoais. Culturas diferentes adotaram abordagens variadas para ensinar sobre economia, mostrando que esse tema sempre esteve presente em nossas vidas.
 Na sociedade moderna, essa história se torna ainda mais relevante. Com o aumento das dívidas e do consumo desenfreado, compreender conceitos financeiros se tornou uma necessidade urgente. Assim, a educação financeira busca não apenas ensinar técnicas, mas também promover uma relação saudável com o dinheiro.
 
-**Leia também:** [](https://hotmoney.blog.br/renda-extra-com-dedetizacao-caseira/)[Qual a Diferença Entre Educação Financeira e Matemática Financeira](https://hotmoney.blog.br/diferenca-entre-educacao-financeira-e-matematica-financeira/)
+**Leia também:** [Qual a Diferença Entre Educação Financeira e Matemática Financeira](https://hotmoney.blog.br/diferenca-entre-educacao-financeira-e-matematica-financeira)
 
 ## As origens da Educação Financeira
 

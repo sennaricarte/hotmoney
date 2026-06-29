@@ -159,7 +159,7 @@ No mundo digital de hoje, você precisa ser encontrado. Comece pelo básico:
 
 ### 3\. Promova Seu Trabalho
 
-Ninguém vai comprar se não souber que você existe. Use as redes sociais para divulgar seu trabalho, crie conteúdo relevante para seu público, participe de grupos e comunidades online relacionados ao seu hobby. O [marketing digital para iniciantes](https://hotmoney.blog.br/marketing-digital-para-iniciantes) é seu amigo aqui!
+Ninguém vai comprar se não souber que você existe. Use as redes sociais para divulgar seu trabalho, crie conteúdo relevante para seu público, participe de grupos e comunidades online relacionados ao seu hobby. O [marketing de afiliados para iniciantes](https://hotmoney.blog.br/marketing-de-afiliados-para-iniciantes) é seu amigo aqui!
 
 ### 4\. Invista em Conhecimento (Sempre!)
 

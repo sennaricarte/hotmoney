@@ -6,7 +6,7 @@ import type { BreadcrumbItem } from '../utils/json-ld';
 
 const title = 'Renda Extra: Guia Completo para Ganhar Mais no Brasil';
 const description =
-  'O que é renda extra, quanto dá para ganhar e por onde começar — internet, IA, serviços locais e finanças. Expectativas realistas, sem promessa milagrosa.';
+  'O que é renda extra, quanto dá para ganhar e por onde começar — internet, serviços locais e ideias para quem quer complementar a renda. Expectativas realistas.';
 const canonical = new URL('/renda-extra', Astro.site).href;
 
 const breadcrumbNav = [
@@ -33,7 +33,7 @@ const faqItems = [
   {
     question: 'Preciso investir dinheiro para começar?',
     answer:
-      'Nem sempre. Apps de pesquisa, freelances com IA e alguns serviços simples exigem pouco ou nenhum capital inicial. Outras ideias — consórcio, estoque para revenda — pedem reserva financeira. Comece pelo caminho que cabe no seu bolso.',
+      'Nem sempre. Apps de pesquisa e alguns serviços simples exigem pouco ou nenhum capital inicial. Outras ideias pedem ferramentas ou estoque — avalie o que cabe no seu bolso antes de começar.',
   },
   {
     question: 'Renda extra pode virar renda principal?',
@@ -43,7 +43,7 @@ const faqItems = [
   {
     question: 'Renda extra é a mesma coisa que renda passiva?',
     answer:
-      'Não. Renda extra costuma exigir tempo e ação — responder pesquisa, montar móvel, escrever prompt. Renda passiva (dividendos, aluguel) gera retorno com menos esforço recorrente, mas geralmente exige patrimônio ou investimento prévio.',
+      'Não. Renda extra costuma exigir tempo e ação — responder pesquisa, montar móvel, vender um produto. Renda passiva (dividendos, aluguel) gera retorno com menos esforço recorrente, mas geralmente exige patrimônio ou investimento prévio.',
   },
 ];
 
@@ -70,8 +70,8 @@ const faqSchema = getPostFaqPageSchema(faqItems);
         <strong>Renda extra</strong> é qualquer dinheiro que entra além do seu salário ou benefício
         principal — seja respondendo pesquisas no celular, prestando um serviço no bairro ou
         vendendo habilidades digitais. Não é fórmula milagrosa: exige tempo, escolhas realistas e
-        paciência. Este guia organiza as principais rotas que o Hotmoney cobre, com links para
-        artigos detalhados em cada tema.
+        paciência. Este guia organiza rotas para <em>ganhar</em> mais, com links para artigos
+        detalhados em cada tema.
       </p>
     </header>
 
@@ -115,22 +115,10 @@ const faqSchema = getPostFaqPageSchema(faqItems);
         </li>
       </ul>
 
-      <h2 id="ia">Renda extra com inteligência artificial</h2>
-      <p>
-        IA não elimina trabalho humano, mas acelera tarefas repetitivas — copy, tradução, roteiros,
-        automações. Quem domina prompts pode vender pacotes ou freelances em marketplaces.
-      </p>
-      <p>
-        Comece pelo nosso guia
-        <a href="/prompt-engineer-freelancer-chatgpt-99freelas"
-          >Prompt Engineer freelancer no 99Freelas</a
-        >: como estruturar ofertas, precificar e usar ChatGPT de forma profissional.
-      </p>
-
       <h2 id="servicos">Renda extra prestando serviços</h2>
       <p>
         Serviços locais continuam sendo uma das formas mais rápidas de faturar quando você resolve
-        um problema concreto — entupimento, montagem, conserto, comida caseira. Exige
+        um problema concreto — montagem, conserto, comida caseira, pequenos reparos. Exige
         pontualidade, orçamento claro e boca a boca.
       </p>
       <p>
@@ -146,30 +134,6 @@ const faqSchema = getPostFaqPageSchema(faqItems);
         Antes de anunciar, defina ticket mínimo, raio de atendimento e o que você <em>não</em> faz
         — isso evita retrabalho e clientes insatisfeitos.
       </p>
-
-      <h2 id="financas">Renda extra e finanças pessoais</h2>
-      <p>
-        Ganhar mais só ajuda de verdade quando o dinheiro não escorre sem controle. Cashback,
-        consórcio e microempreendimentos entram aqui como ferramentas — não como atalhos mágicos.
-      </p>
-      <ul>
-        <li>
-          <a href="/o-que-e-cashback">O que é cashback</a> — conceito e quando vale a pena usar.
-        </li>
-        <li>
-          <a href="/melhores-aplicativos-de-cashback">Melhores aplicativos de cashback</a> —
-          opções para recuperar parte do que você já gasta.
-        </li>
-        <li>
-          <a href="/consorcio-de-carro">Consórcio de carro</a> — como funciona e riscos a considerar
-          antes de entrar.
-        </li>
-        <li>
-          <a href="/negocios-lucrativos-pouco-investimento"
-            >Negócios lucrativos com pouco investimento</a
-          > — ideias enxutas para testar demanda local.
-        </li>
-      </ul>
 
       <h2 id="quanto-ganhar">Quanto dá para ganhar de renda extra?</h2>
       <p>

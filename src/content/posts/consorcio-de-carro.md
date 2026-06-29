@@ -17,7 +17,7 @@ Aqui no **hotmoney.blog.br**, a gente acredita que a liberdade financeira passa 
 
 Neste guia completo e descomplicado, você vai entender de uma vez por todas: **o que é**, **como funciona na prática** e, o mais importante, **como usá-lo para comprar seu carro sem se endividar**.
 
-Consórcio aparece no nosso [guia de finanças pessoais](/financas-pessoais) — leia o panorama antes de decidir.
+Consórcio aparece no nosso [guia de finanças pessoais](/financas-pessoais) — leia o panorama antes de decidir. Garanta antes uma [reserva de emergência](/reserva-de-emergencia) separada do valor da carta.
 
 Vamos nessa?
 

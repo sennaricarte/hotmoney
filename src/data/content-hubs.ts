@@ -24,7 +24,7 @@ export const RENDA_EXTRA_HUB: ContentHub = {
 export const FINANCAS_PESSOAIS_HUB: ContentHub = {
   path: '/financas-pessoais',
   name: 'Finanças Pessoais',
-  spokes: new Set(['o-que-e-cashback', 'consorcio-de-carro']),
+  spokes: new Set(['o-que-e-cashback', 'consorcio-de-carro', 'reserva-de-emergencia']),
   noindex: true,
 };
 

@@ -160,7 +160,7 @@ Custos recorrentes: lavanderia, produtos de limpeza, água/luz proporcionais, ta
 - **Parcerias locais** — agência de turismo, pousada lotada que indica overflow, comércio do entorno.
 - **Bloqueie datas** em que não quer hóspedes (família vindo, reforma, férias suas).
 
-Quem pensa em monetizar viagem e turismo de outras formas pode cruzar ideias com [Formas de Viajar o Mundo Ganhando Dinheiro](https://hotmoney.blog.br/formas-de-viajar-o-mundo-ganhando-dinheiro/) e [Turismo no Nordeste](https://hotmoney.blog.br/turismo-no-nordeste/).
+Quem pensa em monetizar viagem e turismo de outras formas pode cruzar ideias com [Formas de Viajar o Mundo Ganhando Dinheiro](https://hotmoney.blog.br/formas-de-viajar-o-mundo-ganhando-dinheiro) e [Turismo no Nordeste](https://hotmoney.blog.br/turismo-no-nordeste).
 
 ## Vale a pena ou não? Resumo honesto
 
@@ -174,7 +174,7 @@ Quem pensa em monetizar viagem e turismo de outras formas pode cruzar ideias com
 
 Alugar quarto no Airbnb em cidade pequena **não é atalho para enriquecer**. É complemento de renda para quem tem espaço ocioso, demanda na região e disposição para trabalhar como anfitrião. Se esses três pilares existem, o modelo funciona — especialmente onde hotel é caro ou escasso.
 
-Para outras formas de renda com baixo investimento, veja [Negócios Lucrativos com Pouco Investimento](https://hotmoney.blog.br/negocios-lucrativos-pouco-investimento/). E lembre-se: [renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica/).
+Para outras formas de renda com baixo investimento, veja [Negócios Lucrativos com Pouco Investimento](https://hotmoney.blog.br/negocios-lucrativos-pouco-investimento). E lembre-se: [renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica).
 
 ## Perguntas frequentes sobre Airbnb em cidade pequena
 

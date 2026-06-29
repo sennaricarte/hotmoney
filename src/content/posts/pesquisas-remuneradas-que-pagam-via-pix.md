@@ -70,7 +70,7 @@ Estas plataformas **não oferecem Pix nativo**, segundo suas fontes oficiais:
 | **Palpito** | PayPal e gift cards GCodes |
 | **Mobrog** | PayPal, Skrill ou transferência bancária (mín. US$ 5) |
 
-Para detalhes sobre Swagbucks, LifePoints e Toluna, veja nosso guia [Plataformas que Pagam de Verdade](https://hotmoney.blog.br/plataformas-que-pagam-de-verdade/). Para um panorama maior de apps no celular, confira [Renda Extra com Apps: Guia Completo](https://hotmoney.blog.br/renda-extra-com-aplicativos-guia-completo/).
+Para detalhes sobre Swagbucks, LifePoints e Toluna, veja nosso guia [Plataformas que Pagam de Verdade](https://hotmoney.blog.br/plataformas-que-pagam-de-verdade). Para um panorama maior de apps no celular, confira [Renda Extra com Apps: Guia Completo](https://hotmoney.blog.br/renda-extra-com-aplicativos-guia-completo).
 
 **Opinion Box** merece alerta à parte: a própria empresa esclarece no site que **não paga** quem busca renda extra respondendo pesquisas — é uma plataforma B2B para empresas contratarem estudos.
 
@@ -86,7 +86,7 @@ Na prática:
 
 Um intervalo realista para quem participa com regularidade fica entre **R$ 50 e R$ 300 por mês**. Passar disso exige perfil muito requisitado (faixa etária, renda, região) ou pesquisas qualitativas pagas melhor — entrevistas em grupo, por exemplo, que são menos frequentes.
 
-Quem busca algo com ritmo mais leve — aposentados, por exemplo — pode combinar pesquisas com outras ideias de baixo esforço; temos um guia específico em [Renda Extra para Aposentados em Casa](https://hotmoney.blog.br/renda-extra-para-aposentados-em-casa/).
+Quem busca algo com ritmo mais leve — aposentados, por exemplo — pode combinar pesquisas com outras ideias de baixo esforço; temos um guia específico em [Renda Extra para Aposentados em Casa](https://hotmoney.blog.br/renda-extra-para-aposentados-em-casa).
 
 ## Como evitar golpes em pesquisas remuneradas
 
@@ -99,7 +99,7 @@ O Pix facilitou a vida — e também a vida dos golpistas. Regras simples:
 5. **Não compartilhe senha bancária** nem código SMS com "suporte" no WhatsApp.
 6. **Leia a política de privacidade.** Pesquisa de mercado usa dados demográficos; isso é esperado, mas a plataforma deve explicar o uso.
 
-Se algo parecer bom demais, pare. [Renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica/) — e pesquisa remunerada segue a mesma lógica.
+Se algo parecer bom demais, pare. [Renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica) — e pesquisa remunerada segue a mesma lógica.
 
 ## Passo a passo para começar com Pix
 
@@ -110,7 +110,7 @@ Se algo parecer bom demais, pare. [Renda extra não é mágica](https://hotmoney
 5. **Acumule até o mínimo** e solicite o Pix com chave no seu CPF.
 6. **Guarde comprovante** do primeiro saque — confirma que a plataforma cumpre o prometido.
 
-Para otimizar o celular como ferramenta de renda, vale ler também [Renda Extra com o Celular](https://hotmoney.blog.br/renda-extra-com-o-celular/).
+Para otimizar o celular como ferramenta de renda, vale ler também [Renda Extra com o Celular](https://hotmoney.blog.br/renda-extra-com-o-celular).
 
 ## Vale a pena usar pesquisas remuneradas com Pix?
 

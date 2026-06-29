@@ -17,7 +17,7 @@ Muita gente acha que agência de marketing é só "fazer postzinho no Instagram"
 
 Uma agência de verdade é o **braço estratégico** de uma empresa. Ela cuida da imagem, mas foca principalmente em **resultados**. Isso envolve desde o SEO (para o site aparecer no Google sem pagar anúncio) até o tráfego pago (aqueles anúncios que te perseguem depois que você pesquisa um tênis novo).
 
-**Leia também:** [Programa de Afiliados da Amazon: 5 Dicas Cruciais para Ter Sucesso](https://hotmoney.blog.br/programa-de-afiliados-da-amazon/)
+**Leia também:** [Programa de Afiliados da Amazon: 5 Dicas Cruciais para Ter Sucesso](https://hotmoney.blog.br/programa-de-afiliados-da-amazon)
 
 ## **Vale a pena montar uma agência para ganhar Renda Extra?**
 

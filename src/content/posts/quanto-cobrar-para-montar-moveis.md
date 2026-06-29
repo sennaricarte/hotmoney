@@ -120,9 +120,9 @@ Limitações reais:
 - Concorrência por preço em apps pode pressionar valores
 - Sazonalidade — picos após promoções de Black Friday e início de ano
 
-Se você já atua como "faz-tudo" residencial, montagem combina bem com outros serviços. Veja o panorama em [Marido de Aluguel: Como Ganhar com Serviços em Casa](https://hotmoney.blog.br/marido-de-aluguel/) e ideias em [10 Ideias de Renda Extra](https://hotmoney.blog.br/ideias-de-renda-extra/).
+Se você já atua como "faz-tudo" residencial, montagem combina bem com outros serviços. Veja o panorama em [Marido de Aluguel: Como Ganhar com Serviços em Casa](https://hotmoney.blog.br/marido-de-aluguel) e ideias em [10 Ideias de Renda Extra](https://hotmoney.blog.br/ideias-de-renda-extra).
 
-Para empreender com pouco capital, confira também [Negócios Lucrativos com Pouco Investimento](https://hotmoney.blog.br/negocios-lucrativos-pouco-investimento/). Lembre-se: [renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica/) — reputação e pontualidade constroem clientela fixa.
+Para empreender com pouco capital, confira também [Negócios Lucrativos com Pouco Investimento](https://hotmoney.blog.br/negocios-lucrativos-pouco-investimento). Lembre-se: [renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica) — reputação e pontualidade constroem clientela fixa.
 
 ## MEI e nota fiscal: preciso me formalizar?
 

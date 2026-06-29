@@ -19,7 +19,7 @@ Além disso, o programa é ideal para quem já é fã das roupas e acessórios o
 Essa ação vem num momento perfeito. No cenário pós-pandemia, muitas pessoas buscam novas fontes de renda e formas criativas de trabalhar. A Caedu entendeu essa necessidade e trouxe uma solução acessível para todos.
 Agora ficou fácil unir o útil ao agradável! Promover suas peças favoritas nunca foi tão lucrativo.
 
-**Lei também:** [10 Formas de Fazer Renda Extra Usando o ChatGPT (e Outras IAs) em 2025](https://hotmoney.blog.br/fazer-renda-extra-usando-o-chatgpt/)
+**Lei também:** [10 Formas de Fazer Renda Extra Usando o ChatGPT (e Outras IAs) em 2025](https://hotmoney.blog.br/fazer-renda-extra-usando-o-chatgpt)
 
 ## O que é a Minha Loja Caedu
 

@@ -11,7 +11,7 @@ Você já pensou em transformar suas paixões em uma fonte de renda? O programa 
 
 Aqui estão cinco dicas cruciais que vão alavancar o seu sucesso na jornada do marketing de afiliados. Prepare-se para descobrir estratégias valiosas e descomplicadas que podem fazer toda a diferença no seu desempenho!
 
-**Leia também:** [Minha Loja Caedu: Como Ganhar Dinheiro Promovendo Produtos!](https://hotmoney.blog.br/minha-loja-caedu/)
+**Leia também:** [Minha Loja Caedu: Como Ganhar Dinheiro Promovendo Produtos!](https://hotmoney.blog.br/minha-loja-caedu)
 
 ## 1\. Escolha um Nicho Altamente Específico
 

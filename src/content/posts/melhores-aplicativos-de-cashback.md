@@ -29,7 +29,7 @@ Ou seja, você compra, a loja vende, a plataforma ganha um pouco e você ganha a
 
 **Atenção do Julio:** Para quem busca renda extra, o **cashback vale a pena** e muito! Não se trata de um cupom de desconto futuro, mas sim de dinheiro líquido voltando para sua conta. Esse dinheiro pode ser usado para pagar contas, investir ou, claro, fazer aquela compra que você tanto queria!
 
-**Leia também:** [O Que É Cashback? Aprenda Como Ter Seu Dinheiro de Volta e Turbinar Sua Renda Extra!](https://hotmoney.blog.br/o-que-e-cashback/)
+**Leia também:** [O Que É Cashback? Aprenda Como Ter Seu Dinheiro de Volta e Turbinar Sua Renda Extra!](https://hotmoney.blog.br/o-que-e-cashback)
 
 ## **Os 7 Melhores Aplicativos de Cashback para Usar Hoje**
 

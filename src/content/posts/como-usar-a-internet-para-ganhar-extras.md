@@ -16,7 +16,7 @@ Desde plataformas que pagam por vídeos até estratégias de vendas nas redes so
 A internet está repleta de oportunidades para quem deseja ganhar dinheiro. Desde a venda de produtos e serviços até a criação de conteúdo, as opções são diversas. Você pode se tornar um freelancer, oferecer consultorias ou mesmo explorar o mundo do marketing digital.
 Outra alternativa interessante é participar de plataformas que remuneram por tarefas simples, como responder pesquisas ou testar aplicativos. O importante é encontrar algo que combine com suas habilidades e interesses, tornando o processo mais prazeroso enquanto você fatura!
 
-**Confira também:** [Renda Extra com o Celular: 5 Ideias que Você Precisa Conhecer](https://hotmoney.blog.br/renda-extra-com-o-celular/)
+**Confira também:** [Renda Extra com o Celular: 5 Ideias que Você Precisa Conhecer](https://hotmoney.blog.br/renda-extra-com-o-celular)
 
 ## Sites e aplicativos para lucrar na internet
 

@@ -24,7 +24,7 @@ Antes de abrir o painel, organize o básico. Isso evita retrabalho e reprovaçã
 | **Dados pessoais** | CPF, endereço e informações completas no perfil do Produtor |
 | **Ideia validada** | Tema com demanda real — e-book sem público definido raramente vende sozinho |
 
-Não tem o livro escrito ainda? Dá para estruturar o conteúdo com ferramentas de IA, mas o texto precisa ter a sua voz e entregar valor real. Veja ideias em [Fazer Renda Extra Usando o ChatGPT](https://hotmoney.blog.br/fazer-renda-extra-usando-o-chatgpt/).
+Não tem o livro escrito ainda? Dá para estruturar o conteúdo com ferramentas de IA, mas o texto precisa ter a sua voz e entregar valor real. Veja ideias em [Fazer Renda Extra Usando o ChatGPT](https://hotmoney.blog.br/fazer-renda-extra-usando-o-chatgpt).
 
 ## Quanto custa vender e-book na Hotmart?
 
@@ -39,7 +39,7 @@ Não tem o livro escrito ainda? Dá para estruturar o conteúdo com ferramentas 
 
 **Exemplo:** e-book vendido por R$ 47. A taxa Hotmart fica em torno de R$ 5,65 (9,9% de R$ 47 + R$ 1). Você recebe aproximadamente R$ 41,35 — antes de eventuais comissões de afiliados, se você ativar o programa.
 
-Não confunda isso com lucro automático. Montar o e-book, criar a página de vendas e atrair compradores exige tempo e, muitas vezes, investimento em divulgação. [Renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica/) — vale para infoprodutos também.
+Não confunda isso com lucro automático. Montar o e-book, criar a página de vendas e atrair compradores exige tempo e, muitas vezes, investimento em divulgação. [Renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica) — vale para infoprodutos também.
 
 ## Passo a passo: como vender e-book na Hotmart do zero
 
@@ -114,7 +114,7 @@ A Hotmart disponibiliza o **Hotmart Pages** — editor com blocos prontos integr
 - **Programa de Afiliados** — outros divulgam seu e-book e recebem comissão por venda
 - Tráfego pago (Meta Ads, Google Ads), quando souber precificar o custo por venda
 
-Se a ideia de terceiros vendendo por comissão fizer sentido, leia [Marketing de Afiliados para Iniciantes](https://hotmoney.blog.br/marketing-de-afiliados-para-iniciantes/) para entender a lógica antes de configurar as comissões.
+Se a ideia de terceiros vendendo por comissão fizer sentido, leia [Marketing de Afiliados para Iniciantes](https://hotmoney.blog.br/marketing-de-afiliados-para-iniciantes) para entender a lógica antes de configurar as comissões.
 
 ## Checklist rápido antes de publicar
 
@@ -142,7 +142,7 @@ Fatores que mais influenciam o resultado:
 
 [EXPERIÊNCIA-JULIO: relatar aqui se você já vendeu infoproduto na Hotmart — ticket médio, canal que mais converteu e tempo até a primeira venda.]
 
-Para um panorama mais amplo de ganhos online, confira [Como Ganhar Dinheiro na Internet: Guia Completo](https://hotmoney.blog.br/como-ganhar-dinheiro-na-internet-guia-completo/).
+Para um panorama mais amplo de ganhos online, confira [Como Ganhar Dinheiro na Internet: Guia Completo](https://hotmoney.blog.br/como-ganhar-dinheiro-na-internet-guia-completo).
 
 ## Erros comuns de quem começa do zero
 

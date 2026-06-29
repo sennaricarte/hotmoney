@@ -17,7 +17,7 @@ Se você está em busca de maneiras práticas para aumentar sua renda, existem o
 Outra alternativa interessante é o day trade. Para quem se interessa pelo mercado financeiro, operar ações pode trazer lucros significativos em um curto período. Porém, exige conhecimento e atenção.
 Se preferir algo mais dinâmico, tornar-se parceiro de programas de afiliados permite que você ganhe comissões promovendo produtos online. É uma ótima opção para quem tem habilidades em marketing digital ou redes sociais!
 
-**Confira também:** [Renda Extra com Apps: Guia Completo para Faturar no Celular](https://hotmoney.blog.br/renda-extra-com-aplicativos-guia-completo/)
+**Confira também:** [Renda Extra com Apps: Guia Completo para Faturar no Celular](https://hotmoney.blog.br/renda-extra-com-aplicativos-guia-completo)
 
 ### 1\. Utilize o Cartão de Crédito
 

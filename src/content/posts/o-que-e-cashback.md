@@ -23,7 +23,7 @@ Imagine que você está comprando uma camiseta online ou aquele eletrodoméstico
 
 É uma estratégia de marketing inteligente: a loja ganha um cliente, a plataforma intermediária ganha uma comissão, e você, nosso leitor inteligente do Hotmoney, **ganha dinheiro de volta**. Todos saem ganhando!
 
-**Leia também:** [O que é educação financeira e por que você precisa dela](https://hotmoney.blog.br/o-que-e-educacao-financeira/)
+**Leia também:** [O que é educação financeira e por que você precisa dela](https://hotmoney.blog.br/o-que-e-educacao-financeira)
 
 ### **Como Funciona o Cashback na Prática? O Caminho do Dinheiro de Volta**
 

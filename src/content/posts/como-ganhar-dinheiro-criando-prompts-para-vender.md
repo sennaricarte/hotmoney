@@ -36,7 +36,7 @@ Prompt solto em um .txt raramente vale dinheiro. **Produto digital de prompts** 
 
 A via mais estável para iniciantes costuma ser **freelancer** (vender o serviço) ou **pack nichado** (vender o sistema). Marketplaces globais servem para testar ideias, mas a concorrência é brutal — o PromptBase, maior marketplace do segmento, já reúne **centenas de milhares de prompts** à venda.
 
-Para monetizar como freelancer, veja nosso guia [Prompt Engineer Freelancer no 99Freelas](https://hotmoney.blog.br/prompt-engineer-freelancer-chatgpt-99freelas/).
+Para monetizar como freelancer, veja nosso guia [Prompt Engineer Freelancer no 99Freelas](https://hotmoney.blog.br/prompt-engineer-freelancer-chatgpt-99freelas).
 
 ## Onde vender prompts: plataformas
 
@@ -126,7 +126,7 @@ Modelos evoluem. Pack abandonado gera reclamação. Reserve 1–2 horas por mês
 3. **Crie 5 prompts** que resolvam cada dor e teste com casos reais.
 4. **Organize em PDF ou Notion** com guia de uso.
 5. **Defina preço de lançamento** (R$ 37–47 para validar).
-6. **Cadastre na Hotmart ou Kiwify** — estrutura similar à de [vender e-book na Hotmart](https://hotmoney.blog.br/como-vender-ebook-na-hotmart-do-zero/).
+6. **Cadastre na Hotmart ou Kiwify** — estrutura similar à de [vender e-book na Hotmart](https://hotmoney.blog.br/como-vender-ebook-na-hotmart-do-zero).
 7. **Crie página de vendas** com exemplos visuais (prints, não só texto).
 8. **Divulgue** onde o nicho está: grupos de Facebook, LinkedIn, Instagram, WhatsApp de profissionais.
 9. **Colete depoimentos** dos primeiros compradores e suba o preço.
@@ -148,7 +148,7 @@ Faixas realistas para quem trata como negócio (nicho + produto + divulgação):
 
 Quem ganha mais costuma **combinar** pack + consultoria + freelancer — não depender só de venda avulsa de prompt.
 
-Para outras formas de renda com IA, leia [10 Formas de Fazer Renda Extra com ChatGPT](https://hotmoney.blog.br/fazer-renda-extra-usando-o-chatgpt/). Para divulgar com comissão, veja [Marketing de Afiliados para Iniciantes](https://hotmoney.blog.br/marketing-de-afiliados-para-iniciantes/).
+Para outras formas de renda com IA, leia [10 Formas de Fazer Renda Extra com ChatGPT](https://hotmoney.blog.br/fazer-renda-extra-usando-o-chatgpt). Para divulgar com comissão, veja [Marketing de Afiliados para Iniciantes](https://hotmoney.blog.br/marketing-de-afiliados-para-iniciantes).
 
 ## Erros que impedem vendas
 
@@ -160,7 +160,7 @@ Para outras formas de renda com IA, leia [10 Formas de Fazer Renda Extra com Cha
 6. **Prometer o que a IA não entrega** — "100% automático sem revisar" gera reembolso.
 7. **Ignorar impostos** — MEI e nota fiscal protegem seu negócio.
 
-[Renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica/) — pack de prompts segue a mesma regra: produto bom + público certo + constância.
+[Renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica) — pack de prompts segue a mesma regra: produto bom + público certo + constância.
 
 ## Prompts de texto vs. prompts de imagem
 

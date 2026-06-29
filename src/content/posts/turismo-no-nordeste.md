@@ -13,7 +13,7 @@ Pois eu tenho uma notícia excelente para você: o **turismo no Nordeste** é um
 
 Neste guia, vou te mostrar que o Nordeste não é apenas sol e mar; é uma lição de como o planejamento pode transformar um desejo em realidade acessível.
 
-**Leia também:** [O Que É Cashback? Aprenda Como Ter Seu Dinheiro de Volta e Turbinar Sua Renda Extra!](https://hotmoney.blog.br/o-que-e-cashback/)
+**Leia também:** [O Que É Cashback? Aprenda Como Ter Seu Dinheiro de Volta e Turbinar Sua Renda Extra!](https://hotmoney.blog.br/o-que-e-cashback)
 
 ## **Por que o Nordeste é o destino número 1 para o seu bolso?**
 

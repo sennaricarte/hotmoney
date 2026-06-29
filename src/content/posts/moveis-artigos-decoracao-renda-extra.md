@@ -13,7 +13,7 @@ Aqui no **Hotmoney**, eu sempre digo que a liberdade financeira passa pelas noss
 
 Pegue seu café e vamos descobrir como garimpar estilo e transformar bom gosto em lucro!
 
-**Leia também:** [Programa de Afiliados da Amazon: 5 Dicas Cruciais para Ter Sucesso](https://hotmoney.blog.br/programa-de-afiliados-da-amazon/)
+**Leia também:** [Programa de Afiliados da Amazon: 5 Dicas Cruciais para Ter Sucesso](https://hotmoney.blog.br/programa-de-afiliados-da-amazon)
 
 ## **O Segredo do Garimpo: Onde a Mágica Acontece**
 

@@ -17,7 +17,7 @@ O marketing de afiliados é uma oportunidade fascinante para quem quer empreende
 Essa modalidade é ideal para iniciantes, já que não exige grandes investimentos iniciais e pode ser feita de qualquer lugar com acesso à internet. Você pode trabalhar no conforto da sua casa ou até mesmo enquanto viaja.
 Com um mercado em constante crescimento, o marketing de afiliados oferece inúmeras possibilidades. Se você tem paixão por escrever, criar conteúdos ou interagir nas redes sociais, essa pode ser a chance perfeita para transformar isso em uma fonte de renda!
 
-**Confira também:** [Renda Extra com o Celular: 5 Ideias que Você Precisa Conhecer](https://hotmoney.blog.br/renda-extra-com-o-celular/)
+**Confira também:** [Renda Extra com o Celular: 5 Ideias que Você Precisa Conhecer](https://hotmoney.blog.br/renda-extra-com-o-celular)
 
 ## O que é Marketing de Afiliados
 

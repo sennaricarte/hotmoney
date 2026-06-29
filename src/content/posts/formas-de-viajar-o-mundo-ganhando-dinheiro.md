@@ -16,7 +16,7 @@ Neste artigo, vamos compartilhar mais de 7 formas incríveis de viajar o mundo g
 Viajar e ganhar dinheiro ao mesmo tempo é uma possibilidade real. Existem várias formas de fazer isso, desde vender fotos em sites especializados até produzir conteúdo sobre suas aventuras. A criatividade pode ser sua melhor aliada nessa jornada.
 Além disso, você pode trabalhar como freelancer ou ter um canal no YouTube para compartilhar suas experiências. Se gosta de interagir com pessoas, tornar-se um guia turístico local ou atuar como garçom em diferentes lugares também são ótimas opções para juntar a paixão por viagens e uma renda extra.
 
-**Leia também:** [10 Formas de Fazer Renda Extra Usando o ChatGPT (e Outras IAs) em 2025](https://hotmoney.blog.br/fazer-renda-extra-usando-o-chatgpt/)
+**Leia também:** [10 Formas de Fazer Renda Extra Usando o ChatGPT (e Outras IAs) em 2025](https://hotmoney.blog.br/fazer-renda-extra-usando-o-chatgpt)
 
 ### 1\. Vender Fotos Para Sites Especializados
 

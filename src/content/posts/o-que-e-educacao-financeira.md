@@ -16,7 +16,7 @@ Seja sair das dívidas ou realizar aquele sonho de consumo, o conhecimento finan
 Educação financeira é o conjunto de conhecimentos e habilidades que nos ajuda a gerenciar melhor nosso dinheiro. Ela envolve desde a compreensão básica sobre receitas e despesas até estratégias mais complexas de investimento. Com essa educação, conseguimos tomar decisões conscientes e informadas.
 Além disso, a educação financeira não se limita apenas ao aprendizado teórico. Ela também inclui práticas do dia a dia, como elaborar um orçamento ou planejar compras. Esse conhecimento nos empodera para enfrentar desafios financeiros com segurança e confiança.
 
-**Leia também:** [Como Surgiu a Educação Financeira e sua Importância na Sociedade Moderna](https://hotmoney.blog.br/como-surgiu-a-educacao-financeira/)
+**Leia também:** [Como Surgiu a Educação Financeira e sua Importância na Sociedade Moderna](https://hotmoney.blog.br/como-surgiu-a-educacao-financeira)
 
 ### Definição da OCDE (Organização para a Cooperação e Desenvolvimento Econômico)
 

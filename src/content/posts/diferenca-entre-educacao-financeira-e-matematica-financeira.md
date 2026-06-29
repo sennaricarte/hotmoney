@@ -16,7 +16,7 @@ Neste post, vamos explorar essas diferenças de maneira clara e prática. Prepar
 Educação financeira é mais do que apenas entender números. É sobre como nossas emoções e comportamentos influenciam nossas decisões financeiras. Essa abordagem ajuda a desenvolver uma mentalidade saudável em relação ao dinheiro, promovendo escolhas conscientes.
 Ao aprender sobre educação financeira, você se torna capaz de lidar com suas finanças de forma mais eficaz, estabelecendo metas e criando hábitos positivos. Com isso, melhora não apenas sua vida financeira, mas também seu bem-estar emocional.
 
-**Leia também:** [Como Surgiu a Educação Financeira e sua Importância na Sociedade Moderna](https://hotmoney.blog.br/como-surgiu-a-educacao-financeira/)
+**Leia também:** [Como Surgiu a Educação Financeira e sua Importância na Sociedade Moderna](https://hotmoney.blog.br/como-surgiu-a-educacao-financeira)
 
 ### O pilar do comportamento: por que o "como" é mais importante que o "quanto"
 

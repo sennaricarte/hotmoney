@@ -129,4 +129,4 @@ Aposentado não significa inativo — significa alguém com tempo, história e h
 
 Comece pequeno, use o que já sabe e vá ajustando o ritmo. Se quiser mais inspiração, confira também as [10 ideias de renda extra para começar hoje](/ideias-de-renda-extra).
 
-**Confira também:** [Como Usar a Internet para Ganhar R$ 500 extras por mês](/como-usar-a-internet-para-ganhar-extras/)
+**Confira também:** [Como Usar a Internet para Ganhar R$ 500 extras por mês](/como-usar-a-internet-para-ganhar-extras)

@@ -25,7 +25,7 @@ Pense no consórcio como um grande **"Pote da Galera"**. Em vez de você pegar u
 
 Todos os meses, cada um de vocês deposita um valor nesse pote (sua parcela). Esse dinheiro acumulado é usado para que um ou mais membros do grupo sejam contemplados e possam comprar o bem à vista.
 
-**Leia também:** [Melhores Aplicativos de Cashback: Guia Completo para Você Fazer Seu Dinheiro Voltar para o Bolso](https://hotmoney.blog.br/melhores-aplicativos-de-cashback/)
+**Leia também:** [Melhores Aplicativos de Cashback: Guia Completo para Você Fazer Seu Dinheiro Voltar para o Bolso](https://hotmoney.blog.br/melhores-aplicativos-de-cashback)
 
 ### **Desvendando a Mecânica: Sorteios e Lances**
 

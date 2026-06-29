@@ -17,7 +17,7 @@ Renda extra é toda quantia de dinheiro que você consegue ganhar além do seu s
 Muitas pessoas buscam uma renda extra para melhorar sua qualidade de vida e alcançar objetivos financeiros. É uma forma eficiente de aumentar a segurança financeira e ter um colchão em momentos difíceis. Além disso, pode ser uma oportunidade incrível para explorar suas habilidades e paixões.
 É importante lembrar que gerar uma renda adicional não acontece da noite para o dia. Exige esforço, planejamento e algumas vezes, paciência. Contudo, as recompensas podem valer muito a pena!
 
-**Confira também:** [10 Ideias de Renda Extra para Começar Hoje Mesmo](https://hotmoney.blog.br/ideias-de-renda-extra/)
+**Confira também:** [10 Ideias de Renda Extra para Começar Hoje Mesmo](https://hotmoney.blog.br/ideias-de-renda-extra)
 
 ## Como fazer renda extra: promessas vs. realidade
 

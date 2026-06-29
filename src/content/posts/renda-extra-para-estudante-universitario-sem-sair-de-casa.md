@@ -75,7 +75,7 @@ Se você vai bem em cálculo, redação, inglês ou disciplinas do vestibular, d
 
 Entre uma aula e outra, responda pesquisas ou complete microtarefas. Ganho individual é baixo, mas não exige habilidade técnica.
 
-Para opções com **Pix**, veja [Pesquisas Remuneradas que Pagam via Pix](https://hotmoney.blog.br/pesquisas-remuneradas-que-pagam-via-pix/). Para panorama completo de apps, leia [Renda Extra com Apps: Guia Completo](https://hotmoney.blog.br/renda-extra-com-aplicativos-guia-completo/).
+Para opções com **Pix**, veja [Pesquisas Remuneradas que Pagam via Pix](https://hotmoney.blog.br/pesquisas-remuneradas-que-pagam-via-pix). Para panorama completo de apps, leia [Renda Extra com Apps: Guia Completo](https://hotmoney.blog.br/renda-extra-com-aplicativos-guia-completo).
 
 Expectativa realista: **R$ 50 a R$ 300/mês** dedicando alguns minutos por dia.
 
@@ -83,13 +83,13 @@ Expectativa realista: **R$ 50 a R$ 300/mês** dedicando alguns minutos por dia.
 
 Você divulga produtos de terceiros e ganha comissão por venda. Funciona bem se você já tem perfil no Instagram, TikTok ou blog sobre nicho específico (fitness, estudos, tecnologia).
 
-Não precisa estoque nem sair de casa. Comece pelo guia [Marketing de Afiliados para Iniciantes](https://hotmoney.blog.br/marketing-de-afiliados-para-iniciantes/).
+Não precisa estoque nem sair de casa. Comece pelo guia [Marketing de Afiliados para Iniciantes](https://hotmoney.blog.br/marketing-de-afiliados-para-iniciantes).
 
 ### 6. Prompt engineer / serviços com IA
 
 Dominar ChatGPT e outras IAs para entregar copy, resumos ou roteiros é uma habilidade vendável. Muitos estudantes de comunicação, direito e administração já usam IA na faculdade — dá para monetizar.
 
-Veja [Prompt Engineer Freelancer no 99Freelas](https://hotmoney.blog.br/prompt-engineer-freelancer-chatgpt-99freelas/) e [Como Ganhar Dinheiro Criando Prompts para Vender](https://hotmoney.blog.br/como-ganhar-dinheiro-criando-prompts-para-vender/).
+Veja [Prompt Engineer Freelancer no 99Freelas](https://hotmoney.blog.br/prompt-engineer-freelancer-chatgpt-99freelas) e [Como Ganhar Dinheiro Criando Prompts para Vender](https://hotmoney.blog.br/como-ganhar-dinheiro-criando-prompts-para-vender).
 
 ### 7. Transcrição e legendagem de vídeos
 
@@ -107,7 +107,7 @@ Exige responsabilidade e comunicação clara — habilidades que a faculdade já
 
 Resumo de disciplina (sem plagiar material protegido), planner de estudos, template de Notion, artesanato ou brechó no Instagram/Shopee. Investimento inicial baixo; escala leva alguns meses.
 
-Para ideias gerais, confira [10 Ideias de Renda Extra](https://hotmoney.blog.br/ideias-de-renda-extra/).
+Para ideias gerais, confira [10 Ideias de Renda Extra](https://hotmoney.blog.br/ideias-de-renda-extra).
 
 ### 10. Cashback e economia inteligente
 
@@ -125,7 +125,7 @@ Combine atividades leves com uma fonte principal:
 | Estágio remoto | até 30h | R$ 800 – 2.500 |
 | Freela + conteúdo/afiliados | 15 – 20h | R$ 1.500 – 3.000+ |
 
-Valores indicativos — variam por cidade, curso e experiência. Não prometemos valor fixo: [renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica/).
+Valores indicativos — variam por cidade, curso e experiência. Não prometemos valor fixo: [renda extra não é mágica](https://hotmoney.blog.br/renda-extra-nao-e-magica).
 
 [EXPERIÊNCIA-JULIO: relatar aqui se você ou alguém que conhece conciliou faculdade com renda extra em casa — o que funcionou e o que atrapalhou os estudos.]
 
@@ -166,7 +166,7 @@ Em estágio e freela, avise o gestor ou cliente sobre semanas de prova **antes**
 
 Em 30 a 60 dias, você ajusta o que funciona com sua grade horária.
 
-Para mais opções no celular, veja [Renda Extra com o Celular](https://hotmoney.blog.br/renda-extra-com-o-celular/). Se busca ideias para outro perfil com ritmo parecido, confira [Renda Extra para Aposentados em Casa](https://hotmoney.blog.br/renda-extra-para-aposentados-em-casa/) — muitas dicas de trabalho em casa se aplicam também ao estudante.
+Para mais opções no celular, veja [Renda Extra com o Celular](https://hotmoney.blog.br/renda-extra-com-o-celular). Se busca ideias para outro perfil com ritmo parecido, confira [Renda Extra para Aposentados em Casa](https://hotmoney.blog.br/renda-extra-para-aposentados-em-casa) — muitas dicas de trabalho em casa se aplicam também ao estudante.
 
 ## Perguntas frequentes
 

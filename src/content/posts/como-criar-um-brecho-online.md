@@ -16,7 +16,7 @@ Neste guia, vamos explorar como criar um brechó online do zero e faturar com ro
 Antes de dar os primeiros passos, é essencial entender o mercado de brechós online. Pesquise as tendências atuais, como a demanda por roupas sustentáveis e estilos vintage. Conhecer seu público-alvo vai te ajudar a oferecer peças que realmente interessam.
 Dê uma olhada na concorrência também. Veja quais produtos estão em alta e como eles se comunicam com seus clientes. Essa análise permitirá que você identifique oportunidades e crie um diferencial para o seu brechó, atraindo mais compradores interessados nas suas ofertas exclusivas.
 
-**Confira também:** [Renda Extra não é Mágica: Os 3 Maiores Erros que Você deve Evitar](https://hotmoney.blog.br/renda-extra-nao-e-magica/)
+**Confira também:** [Renda Extra não é Mágica: Os 3 Maiores Erros que Você deve Evitar](https://hotmoney.blog.br/renda-extra-nao-e-magica)
 
 ## Defina o nicho do seu brechó
 

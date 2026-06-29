@@ -6,7 +6,7 @@ updatedDate: 2026-06-12
 cover: ../../assets/posts/reserva-de-emergencia/cover.jpg
 coverAlt: "Cofrinho e moedas simbolizando reserva de emergência financeira - HotMoney"
 category: investimentos
-draft: true
+draft: false
 ---
 
 **A reserva de emergência é o dinheiro separado exclusivamente para imprevistos** — desemprego, conserto urgente, despesa médica ou queda de renda. Ela deve ficar em aplicações de **liquidez diária e baixo risco**, não em ações, cripto ou qualquer investimento que possa cair justo quando você precisar sacar.

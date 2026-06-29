@@ -141,12 +141,12 @@ Por isso o controle mensal de receitas não é opcional — é proteção contra
 
 ## O teto do MEI vai aumentar?
 
-**Ainda não.** Dois projetos de lei seguem **em tramitação e não foram sancionados** (jun/2026). O limite vigente continua **R$ 81.000/ano**:
+**Ainda não.** Dois projetos de lei seguem **em tramitação e não foram sancionados** (conferido em 12/06/2026). O limite vigente continua **R$ 81.000/ano**:
 
-| Projeto | Casa | Proposta | Status (jun/2026) |
-|---------|------|----------|-------------------|
+| Projeto | Casa | Proposta | Status (12/06/2026) |
+|---------|------|----------|---------------------|
 | **PLP 60/2025** | Senado | Teto de **R$ 140.000/ano** + até 2 empregados | Em tramitação — CAE aguardando audiência pública ([Senado](https://www25.senado.leg.br/web/atividade/materias/-/materia/167495)) |
-| **PLP 67/2025** | Câmara | Teto de **R$ 150.000/ano** + reajuste anual pelo IPCA | Em tramitação — após CICS, segue em comissões e plenário ([Câmara](https://www.camara.leg.br/noticias/1198523-comissao-aprova-aumento-do-limite-de-faturamento-do-mei-para-r-150-mil/)) |
+| **PLP 67/2025** | Câmara | Teto de **R$ 150.000/ano** + reajuste anual pelo IPCA | Em tramitação, não sancionado — aprovado na CICS (set/2025); apensado ao PLP 108/2021 (17/03/2026); aguarda CCJ/FIN e plenário ([texto oficial](https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2928935&filename=Avulso+PLP+67%2F2025)) |
 
 Não confunda o **PLP 67/2025** (MEI, Câmara) com o **PLP 67/2026** do Senado, que trata de combustíveis — matéria diferente.
 

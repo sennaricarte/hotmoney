@@ -80,11 +80,11 @@ O **Tesouro Selic** (LFT) acompanha a taxa Selic e é o título público mais in
 - Pedido **após 13h** → **a partir das 13h do 1º dia útil seguinte**
 - Fins de semana e feriados → liquidado no **1º dia útil**, com preços de abertura
 
-Rendimento: acompanha a Selic — **14,25% a.a. (jun/2026, [BCB](https://www.bcb.gov.br/controleinflacao/taxaSelic))**. Investimento mínimo a partir de cerca de R$ 30. **Não há cobertura do FGC** — a garantia é do Tesouro Nacional.
+Rendimento: acompanha a Selic — **14,25% a.a. (jun/2026, [BCB](https://www.bcb.gov.br/controleinflacao/taxaSelic))**. Investimento mínimo a partir de **R$ 1,00** (fração de 0,01 título), conforme [FAQ do Tesouro Direto](https://www.tesourodireto.com.br/como-investir/duvidas-frequentes/todas-as-duvidas) — o valor efetivo varia com o preço unitário do título. **Não há cobertura do FGC** — a garantia é do Tesouro Nacional.
 
 ### CDB de liquidez diária
 
-**CDB com liquidez diária** é empréstimo ao banco com resgate a qualquer momento. Geralmente rende **100% ou mais do CDI**, mas a taxa **varia por banco** e valor aplicado — confira no contrato antes de aplicar. Verifique também se não há carência escondida.
+**CDB com liquidez diária** é empréstimo ao banco com resgate a qualquer momento. Geralmente rende **100% ou mais do CDI**, mas a taxa **varia por instituição** e valor aplicado — confira no contrato antes de aplicar. Verifique também se não há carência escondida.
 
 Cobertura do [FGC](https://fgc.org.br/sobre-garantia-fgc): até **R$ 250 mil por CPF** por instituição ou conglomerado, com teto de **R$ 1 milhão** em garantias pagas a cada **4 anos**. Se a reserva passar de R$ 250 mil em um banco, **distribua** entre instituições diferentes.
 
@@ -94,7 +94,7 @@ Bancos e fintechs oferecem **conta remunerada** ou **caixinha** (Nubank, Inter, 
 
 ### Poupança (piso de comparação)
 
-A **poupança** ainda é a opção mais conhecida: liquidez imediata e cobertura do FGC. Quando a **meta Selic supera 8,5% a.a.**, a remuneração adicional é de **0,5% ao mês + TR** — regra definida pelo [BCB](https://www.bcb.gov.br/pec/poupanca/poupanca.asp). Com a Selic em **14,25% (jun/2026)**, o Tesouro Selic e CDBs de liquidez diária costumam render mais. Use a poupança como **piso de comparação**, não como destino principal da reserva — a menos que o valor seja muito baixo e a simplicidade compense.
+A **poupança** ainda é a opção mais conhecida: liquidez imediata e cobertura do FGC. Quando a **meta Selic está acima de 8,5% a.a.**, a remuneração adicional é de **0,5% ao mês + TR** — regra da [Lei 12.703/2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12703.htm), conforme [BCB](https://www.bcb.gov.br/pec/poupanca/poupanca.asp). Com a Selic em **14,25% a.a. (jun/2026, BCB)**, o Tesouro Selic e CDBs de liquidez diária costumam render mais. Use a poupança como **piso de comparação**, não como destino principal da reserva — a menos que o valor seja muito baixo e a simplicidade compense.
 
 ## Onde NÃO deixar a reserva
 
@@ -127,7 +127,7 @@ As opções mais usadas são **Tesouro Selic** (liquidez diária em dias úteis,
 
 ### Reserva de emergência rende? Quanto?
 
-Sim, em aplicações adequadas. **Tesouro Selic** acompanha a taxa Selic (**14,25% a.a., jun/2026, BCB**). **CDB de liquidez diária** geralmente paga **100%+ do CDI**, variando por banco. **Poupança** rende **0,5%/mês + TR** enquanto a meta Selic estiver acima de 8,5% a.a. — abaixo do Tesouro Selic no cenário atual. Rendimento não é o objetivo principal — é preservar capital com algum retorno.
+Sim, em aplicações adequadas. **Tesouro Selic** acompanha a taxa Selic (**14,25% a.a., jun/2026, BCB**). **CDB de liquidez diária** geralmente paga **100%+ do CDI**, variando por instituição. **Poupança** rende **0,5%/mês + TR** enquanto a meta Selic estiver acima de 8,5% a.a. (Lei 12.703/2012) — abaixo do Tesouro Selic no cenário atual (Selic 14,25% >> 8,5%). Rendimento não é o objetivo principal — é preservar capital com algum retorno.
 
 ### Posso usar a poupança como reserva?
 

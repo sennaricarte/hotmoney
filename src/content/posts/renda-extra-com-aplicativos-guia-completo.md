@@ -29,14 +29,13 @@ A ascensão dos aplicativos como ferramenta de renda extra não é por acaso. Di
 -   **Baixo Investimento Inicial:** Geralmente, não é necessário investir dinheiro para começar, apenas seu tempo e dedicação.
 -   **Escalabilidade:** Com dedicação e estratégia, é possível escalar seus ganhos e até mesmo transformar a renda extra em um negócio sólido.
 
-Entender essa dinâmica é o primeiro passo para aproveitar ao máximo as [oportunidades de renda extra](https://www.hotmoney.blog.br/renda-extra) que o universo digital oferece. Vamos mergulhar nas principais categorias de aplicativos que podem te ajudar a alcançar seus objetivos financeiros.
+Entender essa dinâmica é o primeiro passo para aproveitar ao máximo as [oportunidades de renda extra](/renda-extra) que o universo digital oferece. Vamos mergulhar nas principais categorias de aplicativos que podem te ajudar a alcançar seus objetivos financeiros.
 
 ## Categorias de Aplicativos para Ganhar Dinheiro no Celular
 
 ### 📖 Leia Também
 
--   [Desentupidora: O Guia para não entrar pelo cano (e como esse mercado pode render!)](/contratar-desentupidora)
--   [Como montar um serviço de desentupimento básico e faturar R$ 3.000 extras por mês](/como-montar-um-servico-de-desentupimento)
+-   [Renda extra prestando serviços locais](/renda-extra#servicos)
 
 O mundo dos apps de renda extra é vasto e diversificado. Para facilitar sua jornada, organizamos as opções em categorias principais, com exemplos e dicas para cada uma.
 

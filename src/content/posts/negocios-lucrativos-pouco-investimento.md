@@ -80,7 +80,7 @@ O setor alimentício é sempre promissor, e é possível começar com muito pouc
 ### 📖 Leia Também
 
 -   [Prompt Engineer Freelancer: Monetize ChatGPT no 99Freelas](/prompt-engineer-freelancer-chatgpt-99freelas)
--   [Desentupidora: O Guia para não entrar pelo cano (e como esse mercado pode render!)](/contratar-desentupidora)
+-   [Renda extra prestando serviços](/renda-extra#servicos)
 
 Agora que você tem algumas ideias, como transformá-las em realidade sem esvaziar a carteira? O HotMoney.blog.br preparou um guia prático:
 

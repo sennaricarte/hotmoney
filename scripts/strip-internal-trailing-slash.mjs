@@ -3,13 +3,7 @@ import path from 'node:path';
 
 const dir = 'src/content/posts';
 const exclude = new Set([
-  'contratar-desentupidora.md',
-  'desentupimento-industrial-o-guia-completo.md',
-  'controle-de-pragas.md',
   'hidrojateamento.md',
-  'como-montar-um-servico-de-desentupimento.md',
-  'ganhe-dinheiro-com-limpeza-de-calha.md',
-  'servicos-desentupimento-controle-ambiental-guia-essencial.md',
   'marido-de-aluguel.md',
   'como-transformar-vazamentos-em-uma-fonte-de-renda.md',
   'como-viver-de-contratos-de-manutencao-preventiva-de-esgoto.md',

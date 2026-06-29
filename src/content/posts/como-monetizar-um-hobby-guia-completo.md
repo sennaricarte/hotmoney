@@ -47,7 +47,7 @@ Este é o benefício mais óbvio, mas não menos importante. Uma renda adicional
 
 ### 📖 Leia Também
 
--   [Desentupimento Industrial: O Guia Completo para Economizar e Lucrar nesse Setor](/desentupimento-industrial-o-guia-completo)
+-   [Guia de renda extra prestando serviços](/renda-extra#servicos)
 -   [Negócios Lucrativos com Pouco Investimento: Inicie o Seu Sonho!](/negocios-lucrativos-pouco-investimento)
 
 Antes de pensar em vendas ou estratégias de marketing, você precisa ter clareza sobre qual hobby você quer monetizar e, mais importante, como ele pode gerar valor para outras pessoas.

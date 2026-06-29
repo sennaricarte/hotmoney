@@ -21,6 +21,36 @@
       "source": "/posts/:slug*",
       "destination": "/:slug*",
       "permanent": true
+    },
+    {
+      "source": "/como-montar-um-servico-de-desentupimento(/)?",
+      "destination": "/renda-extra",
+      "statusCode": 308
+    },
+    {
+      "source": "/ganhe-dinheiro-com-limpeza-de-calha(/)?",
+      "destination": "/renda-extra",
+      "statusCode": 308
+    },
+    {
+      "source": "/controle-de-pragas(/)?",
+      "destination": "/renda-extra",
+      "statusCode": 308
+    },
+    {
+      "source": "/desentupimento-industrial-o-guia-completo(/)?",
+      "destination": "/renda-extra",
+      "statusCode": 308
+    },
+    {
+      "source": "/servicos-desentupimento-controle-ambiental-guia-essencial(/)?",
+      "destination": "/renda-extra",
+      "statusCode": 308
+    },
+    {
+      "source": "/contratar-desentupidora(/)?",
+      "destination": "/renda-extra",
+      "statusCode": 308
     }
   ],
   "headers": [

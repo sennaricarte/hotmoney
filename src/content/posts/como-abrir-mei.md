@@ -6,7 +6,7 @@ updatedDate: 2026-06-12
 cover: ../../assets/posts/como-abrir-mei/cover.jpg
 coverAlt: "Empreendedor formalizando MEI no notebook com documentos e certificado digital - HotMoney"
 category: internet
-draft: false
+draft: true
 ---
 
 **Abrir MEI em 2026 é gratuito, 100% online e leva poucos minutos** — desde que você se enquadre nas regras do Simples Nacional. O cadastro oficial acontece no [Portal do Empreendedor](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor) (gov.br), com login da conta gov.br. Não pague sites intermediários que cobram pela abertura.

@@ -6,7 +6,7 @@ updatedDate: 2026-06-12
 cover: ../../assets/posts/reserva-de-emergencia/cover.jpg
 coverAlt: "Cofrinho e moedas simbolizando reserva de emergência financeira - HotMoney"
 category: investimentos
-draft: true
+draft: false
 ---
 
 **A reserva de emergência é o dinheiro separado exclusivamente para imprevistos** — desemprego, conserto urgente, despesa médica ou queda de renda. Ela deve ficar em aplicações de **liquidez diária e baixo risco**, não em ações, cripto ou qualquer investimento que possa cair justo quando você precisar sacar.
@@ -70,7 +70,7 @@ A reserva precisa de **liquidez diária** (resgate em dias úteis) e **risco bai
 | Tesouro Selic (LFT) | Diária em dias úteis; crédito conforme horário do pedido | Baixo (título público) | Backed pelo Tesouro Nacional; sem FGC |
 | CDB liquidez diária | Resgate no mesmo dia ou D+1, conforme banco | Baixo a médio (crédito do banco) | FGC até R$ 250 mil por CPF/instituição |
 | Conta / caixinha remunerada | Imediata ou D+0 | Baixo | Verificar se é CDB/depósito coberto pelo FGC |
-| Poupança | Imediata | Baixo | FGC; rendimento em geral inferior [CONFIRMAR] |
+| Poupança | Imediata | Baixo | FGC; rendimento inferior ao Tesouro Selic com Selic acima de 8,5% a.a. |
 
 ### Tesouro Selic
 
@@ -80,11 +80,11 @@ O **Tesouro Selic** (LFT) acompanha a taxa Selic e é o título público mais in
 - Pedido **após 13h** → **a partir das 13h do 1º dia útil seguinte**
 - Fins de semana e feriados → liquidado no **1º dia útil**, com preços de abertura
 
-Rendimento: acompanha a Selic, hoje em **[CONFIRMAR]**% ao ano (consulte taxa atual no portal). Investimento mínimo a partir de cerca de R$ 30. **Não há cobertura do FGC** — a garantia é do Tesouro Nacional.
+Rendimento: acompanha a Selic — **14,25% a.a. (jun/2026, [BCB](https://www.bcb.gov.br/controleinflacao/taxaSelic))**. Investimento mínimo a partir de cerca de R$ 30. **Não há cobertura do FGC** — a garantia é do Tesouro Nacional.
 
 ### CDB de liquidez diária
 
-**CDB com liquidez diária** é empréstimo ao banco com resgate a qualquer momento. Costuma render **[CONFIRMAR]**% do CDI (varia por instituição e valor aplicado). Verifique no contrato se não há carência escondida.
+**CDB com liquidez diária** é empréstimo ao banco com resgate a qualquer momento. Geralmente rende **100% ou mais do CDI**, mas a taxa **varia por banco** e valor aplicado — confira no contrato antes de aplicar. Verifique também se não há carência escondida.
 
 Cobertura do [FGC](https://fgc.org.br/sobre-garantia-fgc): até **R$ 250 mil por CPF** por instituição ou conglomerado, com teto de **R$ 1 milhão** em garantias pagas a cada **4 anos**. Se a reserva passar de R$ 250 mil em um banco, **distribua** entre instituições diferentes.
 
@@ -94,7 +94,7 @@ Bancos e fintechs oferecem **conta remunerada** ou **caixinha** (Nubank, Inter, 
 
 ### Poupança (piso de comparação)
 
-A **poupança** ainda é a opção mais conhecida: liquidez imediata e cobertura do FGC. Porém, o rendimento costuma ficar **abaixo** do Tesouro Selic e de CDBs de liquidez diária quando a Selic está acima de **[CONFIRMAR]**% (regra de rendimento da poupança definida pelo BCB). Use como **piso de comparação**, não como destino principal da reserva — a menos que o valor seja muito baixo e a simplicidade compense a diferença de rentabilidade.
+A **poupança** ainda é a opção mais conhecida: liquidez imediata e cobertura do FGC. Quando a **meta Selic supera 8,5% a.a.**, a remuneração adicional é de **0,5% ao mês + TR** — regra definida pelo [BCB](https://www.bcb.gov.br/pec/poupanca/poupanca.asp). Com a Selic em **14,25% (jun/2026)**, o Tesouro Selic e CDBs de liquidez diária costumam render mais. Use a poupança como **piso de comparação**, não como destino principal da reserva — a menos que o valor seja muito baixo e a simplicidade compense.
 
 ## Onde NÃO deixar a reserva
 
@@ -127,11 +127,11 @@ As opções mais usadas são **Tesouro Selic** (liquidez diária em dias úteis,
 
 ### Reserva de emergência rende? Quanto?
 
-Sim, em aplicações adequadas. **Tesouro Selic** acompanha a taxa Selic (**[CONFIRMAR]**% a.a. — consulte valor atual). **CDB de liquidez diária** costuma pagar **[CONFIRMAR]**% do CDI. **Poupança** rende menos na maioria dos cenários recentes **[CONFIRMAR]**. Rendimento não é o objetivo principal — é preservar capital com algum retorno.
+Sim, em aplicações adequadas. **Tesouro Selic** acompanha a taxa Selic (**14,25% a.a., jun/2026, BCB**). **CDB de liquidez diária** geralmente paga **100%+ do CDI**, variando por banco. **Poupança** rende **0,5%/mês + TR** enquanto a meta Selic estiver acima de 8,5% a.a. — abaixo do Tesouro Selic no cenário atual. Rendimento não é o objetivo principal — é preservar capital com algum retorno.
 
 ### Posso usar a poupança como reserva?
 
-**Pode**, especialmente para valores menores ou quem prioriza simplicidade absoluta. A poupança tem liquidez imediata e cobertura do FGC. Porém, para montantes maiores, **Tesouro Selic** e **CDB de liquidez diária** em geral oferecem rendimento superior **[CONFIRMAR]** — compare antes de decidir.
+**Pode**, especialmente para valores menores ou quem prioriza simplicidade absoluta. A poupança tem liquidez imediata e cobertura do FGC. Porém, para montantes maiores, **Tesouro Selic** e **CDB de liquidez diária** em geral oferecem rendimento superior no cenário de jun/2026 — compare antes de decidir.
 
 ### Qual a diferença entre reserva e investimento?
 
@@ -139,4 +139,4 @@ Sim, em aplicações adequadas. **Tesouro Selic** acompanha a taxa Selic (**[CON
 
 ---
 
-*Conteúdo informativo, atualizado em 12 de junho de 2026. Não constitui recomendação de investimento, consultoria financeira ou orientação personalizada. Rentabilidades, taxas e regras de produtos financeiros mudam — confirme valores marcados com [CONFIRMAR] diretamente no Tesouro Direto, na instituição financeira ou no Banco Central antes de decidir. Consulte um profissional certificado (CFP, CPA-20 ou equivalente) para análise da sua situação.*
+*Conteúdo informativo, atualizado em 12 de junho de 2026. Não constitui recomendação de investimento, consultoria financeira ou orientação personalizada. Taxa Selic citada refere-se a jun/2026 ([BCB](https://www.bcb.gov.br/controleinflacao/taxaSelic)). Rentabilidades de CDB variam por instituição. Consulte um profissional certificado (CFP, CPA-20 ou equivalente) para análise da sua situação.*

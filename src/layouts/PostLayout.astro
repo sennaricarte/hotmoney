@@ -8,6 +8,7 @@ import BaseLayout from './BaseLayout.astro';
 import { getCategoryHref, getCategoryName } from '../data/categories';
 import { SITE_AUTHOR_NAME, SITE_AUTHOR_PATH } from '../data/site';
 import { formatDate } from '../utils/date';
+import { extractPostFaq, getPostFaqPageSchema } from '../utils/extract-post-faq';
 import type { BreadcrumbItem } from '../utils/json-ld';
 
 interface Props {
@@ -19,6 +20,7 @@ const allPosts = await getCollection('posts', ({ data }) => !data.draft);
 const { title, description, pubDate, updatedDate, cover, coverAlt, category } = post.data;
 const canonical = new URL(`/${post.id}`, Astro.site).href;
 const isSvg = cover.format === 'svg';
+const faqSchema = getPostFaqPageSchema(extractPostFaq(post.body));
 
 const breadcrumbNav = [
   { name: 'Home', href: '/' },
@@ -43,6 +45,11 @@ const breadcrumbs: BreadcrumbItem[] = [
   breadcrumbs={breadcrumbs}
   searchIndex
 >
+  {
+    faqSchema && (
+      <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    )
+  }
   <article class="post container" data-pagefind-body>
     <header class="post__header">
       <Breadcrumb items={breadcrumbNav} />

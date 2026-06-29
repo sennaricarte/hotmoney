@@ -35,7 +35,6 @@ export const EMPREENDEDORISMO_DIGITAL_HUB: ContentHub = {
     'prompt-engineer-freelancer-chatgpt-99freelas',
     'como-abrir-mei',
   ]),
-  noindex: true,
 };
 
 export const CONTENT_HUBS: ContentHub[] = [

@@ -11,6 +11,8 @@ Você já parou para pensar que os seus hobbies podem se transformar em uma font
 
 Neste artigo, vamos explorar como você pode monetizar suas atividades favoritas e ainda se divertir no processo. Prepare-se para descobrir maneiras incríveis de gerar uma renda extra com hobbies!
 
+Monetizar paixões é um dos caminhos do [guia de renda extra](/renda-extra#comecar).
+
 ## Como os Hobbies Podem Gerar Renda?
 
 Os hobbies são atividades que nos trazem prazer e relaxamento, mas você sabia que também podem ser uma excelente fonte de renda? Muitas pessoas têm transformado suas paixões em negócios lucrativos. Com um pouco de criatividade e dedicação, é possível monetizar o que se ama fazer.

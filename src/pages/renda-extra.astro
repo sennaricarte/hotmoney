@@ -1,0 +1,271 @@
+---
+import Breadcrumb from '../components/Breadcrumb.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getPostFaqPageSchema } from '../utils/extract-post-faq';
+import type { BreadcrumbItem } from '../utils/json-ld';
+
+const title = 'Renda Extra: Guia Completo para Ganhar Mais no Brasil';
+const description =
+  'O que é renda extra, quanto dá para ganhar e por onde começar — internet, IA, serviços locais e finanças. Expectativas realistas, sem promessa milagrosa.';
+const canonical = new URL('/renda-extra', Astro.site).href;
+
+const breadcrumbNav = [
+  { name: 'Home', href: '/' },
+  { name: 'Renda Extra' },
+];
+
+const breadcrumbs: BreadcrumbItem[] = [
+  { name: 'Home', url: new URL('/', Astro.site).href },
+  { name: 'Renda Extra', url: canonical },
+];
+
+const faqItems = [
+  {
+    question: 'O que é renda extra?',
+    answer:
+      'Renda extra é dinheiro que você ganha além do salário ou benefício principal — com apps, freelances, serviços locais ou vendas pontuais. Não substitui emprego de imediato; complementa o orçamento com esforço proporcional.',
+  },
+  {
+    question: 'Quanto dá para ganhar de renda extra por mês?',
+    answer:
+      'Varia muito: pesquisas remuneradas costumam render R$ 50–300/mês; freelances digitais podem passar de R$ 1.000 com carteira de clientes; serviços locais dependem de demanda e região. Não existe valor fixo — desconfie de quem promete enriquecimento rápido.',
+  },
+  {
+    question: 'Preciso investir dinheiro para começar?',
+    answer:
+      'Nem sempre. Apps de pesquisa, freelances com IA e alguns serviços simples exigem pouco ou nenhum capital inicial. Outras ideias — consórcio, estoque para revenda — pedem reserva financeira. Comece pelo caminho que cabe no seu bolso.',
+  },
+  {
+    question: 'Renda extra pode virar renda principal?',
+    answer:
+      'Pode, mas é uma transição gradual. Muitas pessoas testam uma fonte paralela, validam demanda e só depois aumentam o volume. Trate como experimento com metas claras antes de abandonar a renda fixa.',
+  },
+  {
+    question: 'Renda extra é a mesma coisa que renda passiva?',
+    answer:
+      'Não. Renda extra costuma exigir tempo e ação — responder pesquisa, montar móvel, escrever prompt. Renda passiva (dividendos, aluguel) gera retorno com menos esforço recorrente, mas geralmente exige patrimônio ou investimento prévio.',
+  },
+];
+
+const faqSchema = getPostFaqPageSchema(faqItems);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  breadcrumbs={breadcrumbs}
+  searchIndex
+>
+  {
+    faqSchema && (
+      <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    )
+  }
+  <article class="pillar container" data-pagefind-body>
+    <header class="pillar__header">
+      <Breadcrumb items={breadcrumbNav} />
+      <h1 class="pillar__title">Renda Extra: guia completo para ganhar mais no Brasil</h1>
+      <p class="pillar__lead">
+        <strong>Renda extra</strong> é qualquer dinheiro que entra além do seu salário ou benefício
+        principal — seja respondendo pesquisas no celular, prestando um serviço no bairro ou
+        vendendo habilidades digitais. Não é fórmula milagrosa: exige tempo, escolhas realistas e
+        paciência. Este guia organiza as principais rotas que o Hotmoney cobre, com links para
+        artigos detalhados em cada tema.
+      </p>
+    </header>
+
+    <div class="pillar__content prose">
+      <h2 id="definicao">O que é renda extra (e o que ela não é)</h2>
+      <p>
+        Renda extra complementa o orçamento — paga uma conta, financia um curso ou cria margem para
+        investir. Não promete Ferrari em 30 dias nem substitui planejamento financeiro básico
+        (orçamento, reserva de emergência, dívidas).
+      </p>
+      <p>
+        Expectativa honesta para quem começa hoje: teste <strong>uma ou duas frentes</strong>,
+        acompanhe quanto entra por mês e só então amplie. Quem pula essa etapa costuma abandonar
+        cedo ou cair em golpes de “ganhe R$ 500 por dia”.
+      </p>
+
+      <h2 id="internet">Renda extra pela internet</h2>
+      <p>
+        O celular e a web abrem caminhos de baixo atrito: pesquisas pagas, apps de tarefas,
+        plataformas de freelancing e guias práticos para quem quer visão geral do mercado digital.
+      </p>
+      <ul>
+        <li>
+          <a href="/pesquisas-remuneradas-que-pagam-via-pix"
+            >Pesquisas remuneradas que pagam via Pix</a
+          > — apps brasileiros com saque verificável e valores mínimos reais.
+        </li>
+        <li>
+          <a href="/renda-extra-com-aplicativos-guia-completo"
+            >Renda extra com apps: guia completo</a
+          > — categorias de aplicativos e como encaixar na rotina.
+        </li>
+        <li>
+          <a href="/plataformas-que-pagam-de-verdade">Plataformas que pagam de verdade</a> —
+          comparação de painéis e apps com regras de saque transparentes.
+        </li>
+        <li>
+          <a href="/como-ganhar-dinheiro-na-internet-guia-completo"
+            >Como ganhar dinheiro na internet: guia completo</a
+          > — panorama das principais frentes digitais para brasileiros.
+        </li>
+      </ul>
+
+      <h2 id="ia">Renda extra com inteligência artificial</h2>
+      <p>
+        IA não elimina trabalho humano, mas acelera tarefas repetitivas — copy, tradução, roteiros,
+        automações. Quem domina prompts pode vender pacotes ou freelances em marketplaces.
+      </p>
+      <p>
+        Comece pelo nosso guia
+        <a href="/prompt-engineer-freelancer-chatgpt-99freelas"
+          >Prompt Engineer freelancer no 99Freelas</a
+        >: como estruturar ofertas, precificar e usar ChatGPT de forma profissional.
+      </p>
+
+      <h2 id="servicos">Renda extra prestando serviços</h2>
+      <p>
+        Serviços locais continuam sendo uma das formas mais rápidas de faturar quando você resolve
+        um problema concreto — entupimento, montagem, conserto, comida caseira. Exige
+        pontualidade, orçamento claro e boca a boca.
+      </p>
+      <p>
+        No Hotmoney, exploramos ideias como
+        <a href="/marido-de-aluguel">marido de aluguel e pequenos reparos</a>,
+        <a href="/quanto-cobrar-para-montar-moveis">quanto cobrar para montar móveis</a>,
+        <a href="/vender-doces-e-salgados-em-casa">vender doces e salgados em casa</a>,
+        <a href="/moveis-artigos-decoracao-renda-extra">revenda de móveis e decoração</a>,
+        <a href="/renda-extra-consertando-macbooks">conserto de MacBooks</a> e
+        <a href="/fazer-renda-extra-usando-o-seu-carro">renda extra usando o carro</a>.
+      </p>
+      <p>
+        Antes de anunciar, defina ticket mínimo, raio de atendimento e o que você <em>não</em> faz
+        — isso evita retrabalho e clientes insatisfeitos.
+      </p>
+
+      <h2 id="financas">Renda extra e finanças pessoais</h2>
+      <p>
+        Ganhar mais só ajuda de verdade quando o dinheiro não escorre sem controle. Cashback,
+        consórcio e microempreendimentos entram aqui como ferramentas — não como atalhos mágicos.
+      </p>
+      <ul>
+        <li>
+          <a href="/o-que-e-cashback">O que é cashback</a> — conceito e quando vale a pena usar.
+        </li>
+        <li>
+          <a href="/melhores-aplicativos-de-cashback">Melhores aplicativos de cashback</a> —
+          opções para recuperar parte do que você já gasta.
+        </li>
+        <li>
+          <a href="/consorcio-de-carro">Consórcio de carro</a> — como funciona e riscos a considerar
+          antes de entrar.
+        </li>
+        <li>
+          <a href="/negocios-lucrativos-pouco-investimento"
+            >Negócios lucrativos com pouco investimento</a
+          > — ideias enxutas para testar demanda local.
+        </li>
+      </ul>
+
+      <h2 id="quanto-ganhar">Quanto dá para ganhar de renda extra?</h2>
+      <p>
+        Não existe resposta única. Pesquisas remuneradas tendem a ficar na faixa de dezenas a
+        poucas centenas de reais por mês; freelances digitais escalam com carteira; serviços locais
+        dependem de quantos jobs você aceita por semana.
+      </p>
+      <p>
+        Leia
+        <a href="/renda-extra-nao-e-magica">Renda extra não é mágica</a> — desmontamos promessas
+        irreais e mostramos como definir metas mensuráveis.
+      </p>
+
+      <h2 id="comecar">Como começar sem investir (ou investindo pouco)</h2>
+      <p>
+        Se o orçamento aperta, priorize opções que usam o que você já tem: celular, habilidades
+        manuais, tempo livre em casa.
+      </p>
+      <ul>
+        <li>
+          <a href="/renda-extra-para-aposentados-em-casa">Renda extra para aposentados em casa</a> —
+          ideias de baixo esforço físico e ritmo flexível.
+        </li>
+        <li>
+          <a href="/como-monetizar-um-hobby-guia-completo">Como monetizar um hobby</a> — transformar
+          paixão em produto ou serviço com passos práticos.
+        </li>
+        <li>
+          <a href="/renda-extra-com-hobbies">Renda extra com hobbies</a> — exemplos concretos de
+          nichos criativos.
+        </li>
+      </ul>
+
+      <h2 id="faq">Perguntas frequentes sobre renda extra</h2>
+
+      <h3>O que é renda extra?</h3>
+      <p>
+        Dinheiro ganho além da renda principal — apps, freelances, serviços ou vendas pontuais. O
+        esforço e o retorno variam; não confunda com salário fixo.
+      </p>
+
+      <h3>Quanto dá para ganhar de renda extra por mês?</h3>
+      <p>
+        De R$ 50–300 em pesquisas até valores maiores em freelances ou serviços locais recorrentes.
+        Metas realistas evitam frustração.
+      </p>
+
+      <h3>Preciso investir dinheiro para começar?</h3>
+      <p>
+        Muitas frentes digitais e alguns serviços simples exigem investimento mínimo. Outras ideias
+        pedem estoque ou equipamento — avalie o que cabe no seu bolso antes de começar.
+      </p>
+
+      <h3>Renda extra pode virar renda principal?</h3>
+      <p>
+        Sim, mas como transição gradual: valide demanda, construa reputação e só então aumente
+        volume ou reduza outras atividades.
+      </p>
+
+      <h3>Renda extra é a mesma coisa que renda passiva?</h3>
+      <p>
+        Não. Renda extra costuma exigir ação regular; renda passiva tende a depender de patrimônio
+        ou investimento prévio (aluguel, dividendos, royalties estáveis).
+      </p>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .pillar {
+    padding-block: var(--space-7) var(--space-8);
+  }
+
+  .pillar__header {
+    max-width: var(--measure);
+    margin-inline: auto;
+    margin-bottom: var(--space-7);
+    text-align: center;
+  }
+
+  .pillar__title {
+    margin-top: var(--space-4);
+    font-size: var(--text-3xl);
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+
+  .pillar__lead {
+    margin-top: var(--space-5);
+    color: var(--color-text-muted);
+    font-size: var(--text-lg);
+    line-height: 1.65;
+    text-align: left;
+  }
+
+  .pillar__content {
+    margin-inline: auto;
+  }
+</style>

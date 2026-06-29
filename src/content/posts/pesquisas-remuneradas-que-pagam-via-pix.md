@@ -12,6 +12,8 @@ draft: false
 
 Este guia reúne **somente opções com método de pagamento verificável em fonte oficial** (site do app, Google Play ou central de ajuda). Não é renda fixa nem substituto de salário: espere complementar a renda com **R$ 50 a R$ 300 por mês**, dependendo do seu perfil e da frequência de convites. Se isso combina com o que você busca, vamos direto às plataformas.
 
+Parte do nosso [hub de renda extra](/renda-extra) — use-o para ver outras frentes além de pesquisas remuneradas.
+
 ## O que são pesquisas remuneradas?
 
 **Pesquisa remunerada** é um questionário pago por empresas de pesquisa de mercado para entender hábitos de consumo, preferências e opiniões. Você responde no celular ou no computador e recebe pontos ou dinheiro quando a pesquisa é concluída e validada.

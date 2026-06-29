@@ -15,6 +15,8 @@ Basicamente, um Prompt Engineer é um especialista em se comunicar com IAs gener
 
 A beleza dessa abordagem é que você não precisa ser um expert em programação ou um guru de marketing digital. Com a orientação certa e a curiosidade para testar e aprender, você pode dominar o ChatGPT e começar a oferecer soluções valiosas para clientes em plataformas como o 99Freelas, Workana ou Fiverr.
 
+Este caminho faz parte da [renda extra com ferramentas digitais](/renda-extra#ia) que organizamos no Hotmoney.
+
 ## Como o ChatGPT Pode Transformar Seus Serviços de Copywriting e Tradução?
 
 ![Prompt Engineer Freelancer: Monetize ChatGPT no 99Freelas](../../assets/posts/prompt-engineer-freelancer-chatgpt-99freelas/imagem-1.jpg)

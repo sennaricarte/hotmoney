@@ -15,6 +15,8 @@ A boa notícia é: você não está sozinho! Milhões de pessoas em todo o mundo
 
 Mas, sejamos francos: com tantas opções e informações (muitas delas duvidosas), pode ser desafiador saber por onde começar. É justamente por isso que criamos este guia definitivo. Nosso objetivo é apresentar as estratégias mais eficazes e comprovadas para você _ganhar dinheiro na internet_, com um foco especial na construção de um caminho sustentável e lucrativo a longo prazo. Prepare-se para mergulhar neste universo e descobrir como você pode conquistar sua fatia do bolo digital!
 
+Antes de mergulhar, vale o [mapa de renda extra](/renda-extra) — ele organiza internet, serviços e finanças num só lugar.
+
 ## Por Que Ganhar Dinheiro na Internet? Os Benefícios Inegáveis
 
 ![Como Ganhar Dinheiro na Internet: O Guia Definitivo do HotMoney](../../assets/posts/como-ganhar-dinheiro-na-internet-guia-completo/imagem-1.jpg)

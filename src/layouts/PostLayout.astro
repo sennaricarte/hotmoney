@@ -6,6 +6,7 @@ import Breadcrumb from '../components/Breadcrumb.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import BaseLayout from './BaseLayout.astro';
 import { getCategoryHref, getCategoryName } from '../data/categories';
+import { RENDA_EXTRA_HUB, RENDA_EXTRA_SPOKES } from '../data/renda-extra-hub';
 import { SITE_AUTHOR_NAME, SITE_AUTHOR_PATH } from '../data/site';
 import { formatDate } from '../utils/date';
 import { extractPostFaq, getPostFaqPageSchema } from '../utils/extract-post-faq';
@@ -21,18 +22,32 @@ const { title, description, pubDate, updatedDate, cover, coverAlt, category } = 
 const canonical = new URL(`/${post.id}`, Astro.site).href;
 const isSvg = cover.format === 'svg';
 const faqSchema = getPostFaqPageSchema(extractPostFaq(post.body));
+const isRendaExtraSpoke = RENDA_EXTRA_SPOKES.has(post.id);
+const hubUrl = new URL(RENDA_EXTRA_HUB.path, Astro.site).href;
 
-const breadcrumbNav = [
-  { name: 'Home', href: '/' },
-  { name: 'Blog', href: '/blog' },
-  { name: title },
-];
+const breadcrumbNav = isRendaExtraSpoke
+  ? [
+      { name: 'Home', href: '/' },
+      { name: RENDA_EXTRA_HUB.name, href: RENDA_EXTRA_HUB.path },
+      { name: title },
+    ]
+  : [
+      { name: 'Home', href: '/' },
+      { name: 'Blog', href: '/blog' },
+      { name: title },
+    ];
 
-const breadcrumbs: BreadcrumbItem[] = [
-  { name: 'Home', url: new URL('/', Astro.site).href },
-  { name: 'Blog', url: new URL('/blog', Astro.site).href },
-  { name: title, url: canonical },
-];
+const breadcrumbs: BreadcrumbItem[] = isRendaExtraSpoke
+  ? [
+      { name: 'Home', url: new URL('/', Astro.site).href },
+      { name: RENDA_EXTRA_HUB.name, url: hubUrl },
+      { name: title, url: canonical },
+    ]
+  : [
+      { name: 'Home', url: new URL('/', Astro.site).href },
+      { name: 'Blog', url: new URL('/blog', Astro.site).href },
+      { name: title, url: canonical },
+    ];
 ---
 
 <BaseLayout

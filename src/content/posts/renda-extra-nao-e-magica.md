@@ -11,6 +11,8 @@ Você já ouviu falar que é possível ganhar uma renda extra e transformar sua 
 
 Neste artigo, vamos explorar os principais erros que você deve evitar para realmente aproveitar as oportunidades de gerar uma renda extra e garantir resultados positivos! Vamos juntos entender como fazer disso uma realidade concreta na sua vida?
 
+Este texto complementa o [guia central: o que é renda extra de verdade](/renda-extra).
+
 ## O que é renda extra?
 
 Renda extra é toda quantia de dinheiro que você consegue ganhar além do seu salário fixo. Pode vir de diversas fontes, como trabalhos freelancers, vendas online ou até mesmo pequenos serviços na sua comunidade. Essa grana a mais pode ajudar a cobrir despesas inesperadas ou realizar aquele sonho guardado.

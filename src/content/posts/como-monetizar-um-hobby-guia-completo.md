@@ -13,6 +13,8 @@ Quem nunca sonhou em ganhar dinheiro fazendo o que ama? A ideia de transformar u
 
 Aqui no HotMoney, acreditamos que todos têm um talento ou uma paixão que pode ser transformada em valor. Seja você um artesão, um cozinheiro amador, um gamer experiente, um escritor nato, um fotógrafo de final de semana ou um apaixonado por jardinagem, existe um potencial adormecido esperando para ser explorado. O Julio Mesquita, fundador deste blog, sempre defende que a melhor forma de empreender é unindo o útil ao agradável, e monetizar um hobby é a personificação dessa filosofia.
 
+Este guia detalha uma frente do [mapa de renda extra](/renda-extra#comecar) — consulte o pilar para ver internet, serviços e finanças.
+
 Neste guia completo, vamos mergulhar fundo nas estratégias, ferramentas e mentalidades necessárias para você dar os primeiros passos – ou aprimorar os já existentes – no caminho da monetização de sua paixão. Prepare-se para descobrir como seu tempo livre pode se converter em uma fonte de renda extra ou até mesmo na sua principal atividade profissional!
 
 ## Por Que Monetizar um Hobby? Os Benefícios Vão Além do Dinheiro

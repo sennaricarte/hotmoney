@@ -13,6 +13,8 @@ Em um mundo cada vez mais conectado, a busca por [renda extra](https://hotmoney.
 
 Seja para complementar sua renda principal, alcançar um objetivo financeiro específico ou até mesmo iniciar uma nova carreira, saber onde procurar é crucial. Neste guia completo, vamos mergulhar nas categorias mais populares de plataformas, detalhando como elas funcionam, quais os requisitos e o que você pode esperar em termos de ganhos. Prepare-se para descobrir um mundo de possibilidades!
 
+Confira também a [página sobre renda extra](/renda-extra) para ver como este tema se conecta a serviços locais, IA e finanças.
+
 ### Por Que Buscar Plataformas de Renda Extra?
 
 A necessidade de uma renda complementar pode surgir de diversas formas: uma dívida a ser quitada, um sonho de viagem, a construção de uma reserva de emergência, ou simplesmente o desejo de ter mais liberdade financeira. As plataformas digitais surgem como uma solução flexível e acessível, permitindo que você trabalhe de onde estiver, nos horários que melhor se encaixam na sua rotina.

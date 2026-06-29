@@ -12,6 +12,8 @@ A aposentadoria deveria ser sinônimo de tranquilidade — mas, na prática, mui
 
 Eu sou o Julio Mesquita, e aqui no Hotmoney a gente não vende ilusão: renda extra exige constância, não mágica. A boa notícia é que existem caminhos adaptados ao ritmo de quem já cumpriu décadas de trabalho — muitos usando apenas o celular, a cozinha ou o conhecimento que você já acumulou na vida.
 
+Veja outras [ideias de renda extra para quem fica em casa](/renda-extra#comecar) no guia principal.
+
 ## Por que tantos aposentados buscam renda extra em casa?
 
 Depois de anos na ativa, é comum sentir que o salário de aposentadoria ficou para trás da inflação. Segundo levantamentos do mercado, boa parte dos brasileiros aposentados ainda depende de alguma atividade complementar para fechar o mês.

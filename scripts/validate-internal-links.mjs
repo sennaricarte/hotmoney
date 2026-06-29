@@ -12,6 +12,7 @@ const staticRoutes = new Set([
   'contato',
   'blog',
   'busca',
+  'renda-extra',
   'politica-de-cookies',
   'politica-de-privacidade',
   'rss.xml',

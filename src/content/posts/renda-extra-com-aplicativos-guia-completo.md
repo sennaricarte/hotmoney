@@ -13,6 +13,8 @@ Quem nunca sonhou em transformar o tempo gasto no celular em dinheiro? A boa not
 
 No HotMoney.blog.br, acreditamos que todos podem alcançar a liberdade financeira. Por isso, este artigo foi criado por Julio Mesquita para desvendar o universo da renda extra com aplicativos. Vamos explorar desde as opções mais populares até as menos conhecidas, fornecendo um guia completo e prático para você começar a faturar agora mesmo, usando apenas o seu smartphone.
 
+Este é um dos caminhos do [guia completo de renda extra](/renda-extra) — vale abrir o mapa antes de escolher só um app.
+
 Prepare-se para descobrir como otimizar seu tempo, seus talentos e até mesmo seus hobbies para gerar dinheiro extra de forma flexível e conveniente. Se você busca uma alternativa para aumentar seus ganhos sem sair de casa, ou onde quer que esteja, este guia é para você!
 
 ## Por Que os Aplicativos se Tornaram Uma Ferramenta Poderosa para Renda Extra?

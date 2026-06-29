@@ -15,7 +15,7 @@ Basicamente, um Prompt Engineer é um especialista em se comunicar com IAs gener
 
 A beleza dessa abordagem é que você não precisa ser um expert em programação ou um guru de marketing digital. Com a orientação certa e a curiosidade para testar e aprender, você pode dominar o ChatGPT e começar a oferecer soluções valiosas para clientes em plataformas como o 99Freelas, Workana ou Fiverr.
 
-Este caminho faz parte do [guia de empreendedorismo digital](/empreendedorismo-digital) do Hotmoney.
+Este caminho faz parte do [guia de empreendedorismo digital](/empreendedorismo-digital) do Hotmoney. Para emitir notas e receber como PJ, confira [como abrir MEI em 2026](/como-abrir-mei).
 
 ## Como o ChatGPT Pode Transformar Seus Serviços de Copywriting e Tradução?
 

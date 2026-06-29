@@ -10,6 +10,8 @@ import { getHubForPost } from '../data/content-hubs';
 import { SITE_AUTHOR_NAME, SITE_AUTHOR_PATH } from '../data/site';
 import { formatDate } from '../utils/date';
 import { extractPostFaq, getPostFaqPageSchema } from '../utils/extract-post-faq';
+import { extractPostHowTo, getPostHowToSchema } from '../utils/extract-post-howto';
+import { stripMarkdown } from '../utils/strip-markdown';
 import type { BreadcrumbItem } from '../utils/json-ld';
 
 interface Props {
@@ -22,6 +24,12 @@ const { title, description, pubDate, updatedDate, cover, coverAlt, category } = 
 const canonical = new URL(`/${post.id}`, Astro.site).href;
 const isSvg = cover.format === 'svg';
 const faqSchema = getPostFaqPageSchema(extractPostFaq(post.body));
+const howToSteps = extractPostHowTo(post.body);
+const howToSchema = getPostHowToSchema({
+  name: title,
+  description: stripMarkdown(description),
+  steps: howToSteps,
+});
 const hub = getHubForPost(post.id);
 const hubUrl = hub ? new URL(hub.path, Astro.site).href : null;
 
@@ -63,6 +71,11 @@ const breadcrumbs: BreadcrumbItem[] = hub
   {
     faqSchema && (
       <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    )
+  }
+  {
+    howToSchema && (
+      <script slot="head" type="application/ld+json" set:html={JSON.stringify(howToSchema)} />
     )
   }
   <article class="post container" data-pagefind-body>

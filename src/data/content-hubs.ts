@@ -34,6 +34,7 @@ export const EMPREENDEDORISMO_DIGITAL_HUB: ContentHub = {
   spokes: new Set([
     'negocios-lucrativos-pouco-investimento',
     'prompt-engineer-freelancer-chatgpt-99freelas',
+    'como-abrir-mei',
   ]),
   noindex: true,
 };

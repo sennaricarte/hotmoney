@@ -1,0 +1,162 @@
+---
+import Breadcrumb from '../components/Breadcrumb.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { EMPREENDEDORISMO_DIGITAL_HUB } from '../data/content-hubs';
+import { getPostFaqPageSchema } from '../utils/extract-post-faq';
+import type { BreadcrumbItem } from '../utils/json-ld';
+
+const title = 'Empreendedorismo Digital: Guia para Começar Online no Brasil';
+const description =
+  'Negócios digitais, freelances com IA e ideias enxutas para empreender online — expectativas realistas, sem fórmula milagrosa.';
+const canonical = new URL(EMPREENDEDORISMO_DIGITAL_HUB.path, Astro.site).href;
+
+const breadcrumbNav = [
+  { name: 'Home', href: '/' },
+  { name: EMPREENDEDORISMO_DIGITAL_HUB.name },
+];
+
+const breadcrumbs: BreadcrumbItem[] = [
+  { name: 'Home', url: new URL('/', Astro.site).href },
+  { name: EMPREENDEDORISMO_DIGITAL_HUB.name, url: canonical },
+];
+
+const faqItems = [
+  {
+    question: 'O que é empreendedorismo digital?',
+    answer:
+      'Empreender online: vender serviços, produtos digitais ou freelances pela internet. Pode começar pequeno — validando demanda antes de escalar.',
+  },
+  {
+    question: 'Preciso de muito dinheiro para empreender digitalmente?',
+    answer:
+      'Nem sempre. Freelances com IA e micro-negócios locais podem começar com pouco capital. O que não falta é tempo para testar e ajustar oferta.',
+  },
+  {
+    question: 'Prompt Engineer é empreendedorismo?',
+    answer:
+      'Pode ser. Muitos começam como freelancers em marketplaces (99Freelas, Workana) e evoluem para pacotes de serviço ou agência enxuta.',
+  },
+  {
+    question: 'Quanto tempo até ver resultado?',
+    answer:
+      'Semanas a meses, não dias. Primeiro cliente, depois reputação, depois escala. Desconfie de promessas de lucro imediato.',
+  },
+];
+
+const faqSchema = getPostFaqPageSchema(faqItems);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  breadcrumbs={breadcrumbs}
+  noindex
+>
+  {
+    faqSchema && (
+      <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    )
+  }
+  <article class="pillar container">
+    <header class="pillar__header">
+      <Breadcrumb items={breadcrumbNav} />
+      <h1 class="pillar__title">Empreendedorismo digital: guia para começar online</h1>
+      <p class="pillar__lead">
+        <strong>Empreendedorismo digital</strong> é construir renda vendendo habilidades, produtos
+        ou serviços pela internet — de freelances com IA a negócios enxutos com pouco
+        investimento. Não existe botão mágico: exige oferta clara, constância e clientes reais.
+      </p>
+    </header>
+
+    <div class="pillar__content prose">
+      <h2 id="definicao">O que é empreender online (e o que não é)</h2>
+      <p>
+        Empreender digitalmente não é só “postar no Instagram”. É resolver um problema por meio de
+        um canal online — marketplace, loja, infoproduto ou serviço recorrente — com preço e
+        entrega definidos.
+      </p>
+
+      <h2 id="negocios">Negócios com pouco investimento</h2>
+      <p>
+        Testar demanda com capital mínimo reduz risco. Artesanato, revenda local, serviços
+        híbridos (online + presencial) e validação antes de estoque pesado.
+      </p>
+      <p>
+        Veja
+        <a href="/negocios-lucrativos-pouco-investimento"
+          >Negócios lucrativos com pouco investimento</a
+        > — passo a passo para validar ideia sem esvaziar a carteira.
+      </p>
+
+      <h2 id="ia-freelance">Freelance e IA generativa</h2>
+      <p>
+        ChatGPT e ferramentas similares aceleram copy, tradução e roteiros — quem domina prompts
+        pode vender pacotes em plataformas freelancer.
+      </p>
+      <p>
+        Comece pelo guia
+        <a href="/prompt-engineer-freelancer-chatgpt-99freelas"
+          >Prompt Engineer freelancer no 99Freelas</a
+        >: perfil, precificação e primeiros projetos.
+      </p>
+
+      <h2 id="faq">Perguntas frequentes sobre empreendedorismo digital</h2>
+
+      <h3>O que é empreendedorismo digital?</h3>
+      <p>
+        Criar renda online com produto, serviço ou freelances — com canal de venda e entrega
+        definidos.
+      </p>
+
+      <h3>Preciso de muito capital?</h3>
+      <p>
+        Muitas frentes digitais começam com computador e internet. Estoque e anúncios pagos vêm
+        depois da validação.
+      </p>
+
+      <h3>Prompt Engineer conta como empreender?</h3>
+      <p>
+        Sim, como modelo de serviço freelance escalável — especialmente em marketplaces
+        brasileiros.
+      </p>
+
+      <h3>Quanto tempo até ver resultado?</h3>
+      <p>
+        Geralmente semanas ou meses de construção de portfólio e reputação — não dias.
+      </p>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .pillar {
+    padding-block: var(--space-7) var(--space-8);
+  }
+
+  .pillar__header {
+    max-width: var(--measure);
+    margin-inline: auto;
+    margin-bottom: var(--space-7);
+    text-align: center;
+  }
+
+  .pillar__title {
+    margin-top: var(--space-4);
+    font-size: var(--text-3xl);
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+
+  .pillar__lead {
+    margin-top: var(--space-5);
+    color: var(--color-text-muted);
+    font-size: var(--text-lg);
+    line-height: 1.65;
+    text-align: left;
+  }
+
+  .pillar__content {
+    margin-inline: auto;
+  }
+</style>

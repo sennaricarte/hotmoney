@@ -5,6 +5,7 @@ import rehypeSlug from 'rehype-slug';
 import { rehypeExternalDofollow } from './src/plugins/rehype-external-dofollow.mjs';
 
 import sitemap from '@astrojs/sitemap';
+import { SITEMAP_EXCLUDED_PATHS } from './src/data/content-hubs.ts';
 import { buildPostLastmodMap } from './src/plugins/sitemap-lastmod.mjs';
 
 const postLastmod = buildPostLastmodMap();
@@ -34,6 +35,10 @@ export default defineConfig({
   },
   integrations: [
     sitemap({
+      filter: (page) => {
+        const pathname = new URL(page).pathname.replace(/\/$/, '') || '/';
+        return !SITEMAP_EXCLUDED_PATHS.has(pathname);
+      },
       serialize(item) {
         const pathname = new URL(item.url).pathname;
         item.lastmod = postLastmod.get(pathname) ?? buildDate;

@@ -1,0 +1,165 @@
+---
+import Breadcrumb from '../components/Breadcrumb.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { FINANCAS_PESSOAIS_HUB } from '../data/content-hubs';
+import { getPostFaqPageSchema } from '../utils/extract-post-faq';
+import type { BreadcrumbItem } from '../utils/json-ld';
+
+const title = 'Finanças Pessoais: Guia para Organizar e Fazer o Dinheiro Render';
+const description =
+  'Orçamento, cashback, consórcio e hábitos financeiros com expectativas realistas — sem promessa de enriquecimento rápido.';
+const canonical = new URL(FINANCAS_PESSOAIS_HUB.path, Astro.site).href;
+
+const breadcrumbNav = [
+  { name: 'Home', href: '/' },
+  { name: FINANCAS_PESSOAIS_HUB.name },
+];
+
+const breadcrumbs: BreadcrumbItem[] = [
+  { name: 'Home', url: new URL('/', Astro.site).href },
+  { name: FINANCAS_PESSOAIS_HUB.name, url: canonical },
+];
+
+const faqItems = [
+  {
+    question: 'O que são finanças pessoais?',
+    answer:
+      'Finanças pessoais é como você organiza renda, gastos, dívidas e reservas no dia a dia. Não exige ser expert: começa com orçamento simples e metas claras.',
+  },
+  {
+    question: 'Cashback substitui renda extra?',
+    answer:
+      'Não. Cashback devolve parte do que você já gasta — ajuda a economizar, mas não substitui salário nem freelances. Funciona melhor quem já controla o consumo.',
+  },
+  {
+    question: 'Consórcio vale a pena para todo mundo?',
+    answer:
+      'Depende. Consórcio elimina juros de financiamento, mas exige paciência e planejamento. Avalie taxa de administração, prazo e se você consegue esperar a contemplação.',
+  },
+  {
+    question: 'Por onde começar a organizar as finanças?',
+    answer:
+      'Liste receitas e despesas fixas do mês, crie reserva de emergência mínima e só então busque produtos como cashback ou consórcio — na ordem certa evita endividamento.',
+  },
+];
+
+const faqSchema = getPostFaqPageSchema(faqItems);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  breadcrumbs={breadcrumbs}
+  noindex
+>
+  {
+    faqSchema && (
+      <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+    )
+  }
+  <article class="pillar container">
+    <header class="pillar__header">
+      <Breadcrumb items={breadcrumbNav} />
+      <h1 class="pillar__title">Finanças pessoais: guia para organizar e fazer o dinheiro render</h1>
+      <p class="pillar__lead">
+        <strong>Finanças pessoais</strong> não é sobre ficar rico da noite para o dia — é sobre
+        entender para onde vai seu dinheiro, reduzir desperdício e usar ferramentas (cashback,
+        consórcio, orçamento) com critério. Este hub reúne artigos do Hotmoney sobre consumo
+        inteligente e decisões financeiras conscientes.
+      </p>
+    </header>
+
+    <div class="pillar__content prose">
+      <h2 id="definicao">O que entra em finanças pessoais</h2>
+      <p>
+        Orçamento mensal, controle de dívidas, reserva de emergência e escolha consciente de
+        produtos financeiros. Ganhar mais (renda extra) ajuda — mas sem organização, o dinheiro
+        extra também escorre.
+      </p>
+
+      <h2 id="cashback">Cashback e consumo inteligente</h2>
+      <p>
+        Cashback devolve parte do valor em compras que você faria de qualquer forma. Não é renda
+        nova — é otimização do que já sai do bolso.
+      </p>
+      <ul>
+        <li>
+          <a href="/o-que-e-cashback">O que é cashback</a> — conceito, limites e quando faz sentido.
+        </li>
+        <li>
+          <a href="/melhores-aplicativos-de-cashback">Melhores aplicativos de cashback</a> —
+          opções testadas para recuperar parte dos gastos.
+        </li>
+      </ul>
+
+      <h2 id="consorcio">Consórcio e grandes compras</h2>
+      <p>
+        Consórcio é alternativa ao financiamento com juros — exige disciplina e leitura fina do
+        contrato antes de assinar.
+      </p>
+      <p>
+        Leia o guia
+        <a href="/consorcio-de-carro">Consórcio de carro: como funciona e riscos</a> antes de
+        entrar em qualquer grupo.
+      </p>
+
+      <h2 id="faq">Perguntas frequentes sobre finanças pessoais</h2>
+
+      <h3>O que são finanças pessoais?</h3>
+      <p>
+        Gestão do seu dinheiro no dia a dia: quanto entra, quanto sai, quanto sobra e para onde vai
+        a sobra.
+      </p>
+
+      <h3>Cashback substitui renda extra?</h3>
+      <p>
+        Não. É complemento ao consumo planejado — não substitui trabalho ou freelances.
+      </p>
+
+      <h3>Consórcio vale a pena?</h3>
+      <p>
+        Pode valer para quem tem paciência e reserva para parcelas. Não é atalho nem investimento
+        garantido.
+      </p>
+
+      <h3>Por onde começar?</h3>
+      <p>
+        Orçamento simples → reserva mínima → só então cashback ou consórcio, se fizer sentido na
+        sua vida.
+      </p>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .pillar {
+    padding-block: var(--space-7) var(--space-8);
+  }
+
+  .pillar__header {
+    max-width: var(--measure);
+    margin-inline: auto;
+    margin-bottom: var(--space-7);
+    text-align: center;
+  }
+
+  .pillar__title {
+    margin-top: var(--space-4);
+    font-size: var(--text-3xl);
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+
+  .pillar__lead {
+    margin-top: var(--space-5);
+    color: var(--color-text-muted);
+    font-size: var(--text-lg);
+    line-height: 1.65;
+    text-align: left;
+  }
+
+  .pillar__content {
+    margin-inline: auto;
+  }
+</style>

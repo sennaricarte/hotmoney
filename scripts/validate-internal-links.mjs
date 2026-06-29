@@ -13,6 +13,8 @@ const staticRoutes = new Set([
   'blog',
   'busca',
   'renda-extra',
+  'financas-pessoais',
+  'empreendedorismo-digital',
   'politica-de-cookies',
   'politica-de-privacidade',
   'rss.xml',

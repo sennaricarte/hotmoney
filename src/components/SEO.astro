@@ -17,6 +17,7 @@ interface Props {
     updatedDate?: Date;
   };
   breadcrumbs?: BreadcrumbItem[];
+  noindex?: boolean;
 }
 
 const {
@@ -27,6 +28,7 @@ const {
   ogImage,
   article,
   breadcrumbs,
+  noindex = false,
 } = Astro.props;
 
 const siteName = 'Hotmoney';
@@ -73,6 +75,7 @@ const breadcrumbJsonLd = breadcrumbs?.length ? getBreadcrumbSchema(breadcrumbs) 
 <title>{fullTitle}</title>
 <meta name="description" content={cleanDescription} />
 <link rel="canonical" href={canonical} />
+{noindex && <meta name="robots" content="noindex, nofollow" />}
 
 <meta property="og:type" content={type} />
 <meta property="og:site_name" content={siteName} />

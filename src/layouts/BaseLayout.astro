@@ -18,6 +18,8 @@ interface Props {
     updatedDate?: Date;
   };
   breadcrumbs?: BreadcrumbItem[];
+  /** Quando true, adiciona meta robots noindex,nofollow. */
+  noindex?: boolean;
   /** Quando true, o conteúdo pode ser indexado pelo Pagefind (posts). */
   searchIndex?: boolean;
 }
@@ -30,6 +32,7 @@ const {
   ogImage,
   article,
   breadcrumbs,
+  noindex = false,
   searchIndex = false,
 } = Astro.props;
 
@@ -68,6 +71,7 @@ const organizationJsonLd = getOrganizationJsonLd(Astro.site!);
       ogImage={ogImage}
       article={article}
       breadcrumbs={breadcrumbs}
+      noindex={noindex}
     />
     <slot name="head" />
   </head>

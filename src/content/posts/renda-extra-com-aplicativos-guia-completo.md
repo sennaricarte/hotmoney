@@ -127,7 +127,7 @@ Ao realizar compras através desses apps ou com cartões cadastrados, você rece
 
 ### 5\. Apps de Investimento e Finanças Pessoais
 
-Embora não gerem renda extra por si só, esses aplicativos são fundamentais para quem busca [melhorar as finanças pessoais](https://www.hotmoney.blog.br/financas-pessoais) e fazer o dinheiro render. Alguns apps, no entanto, oferecem bônus por indicação ou por cumprir metas.
+Embora não gerem renda extra por si só, esses aplicativos são fundamentais para quem busca [organizar as finanças pessoais](/financas-pessoais) e fazer o dinheiro render. Alguns apps, no entanto, oferecem bônus por indicação ou por cumprir metas.
 
 #### O que são e como funcionam?
 

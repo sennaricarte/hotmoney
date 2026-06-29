@@ -4,7 +4,7 @@ description: "Ah, o empreendedorismo! A liberdade de ser seu próprio chefe, de 
 pubDate: 2026-05-29
 cover: ../../assets/posts/negocios-lucrativos-pouco-investimento/cover.jpg
 coverAlt: "Ilustração sobre Negócios Lucrativos com Pouco Investimento: Inicie o Seu Sonho! - HotMoney"
-category: investimentos
+category: internet
 draft: false
 ---
 ## O Sonho de Empreender: Mais Perto do que Você Imagina
@@ -13,7 +13,7 @@ Ah, o empreendedorismo! A liberdade de ser seu próprio chefe, de transformar um
 
 O cenário atual é propício para quem busca empreender. A internet derrubou muitas barreiras, permitindo que micro e pequenos negócios alcancem clientes em qualquer lugar do mundo. Além disso, a valorização do trabalho artesanal, dos serviços personalizados e da economia compartilhada abriu um leque enorme de oportunidades. Se você tem uma ideia fervilhando na cabeça, mas o medo de não ter dinheiro suficiente para começar te paralisa, este artigo é para você! Vamos desmistificar a ideia de que é preciso um grande capital para iniciar um empreendimento e te mostrar caminhos prósperos com pouco custo.
 
-Ideias com pouco capital também estão na seção de [renda extra com pouco investimento](/renda-extra#financas).
+Ideias com pouco capital também estão no [guia de empreendedorismo digital](/empreendedorismo-digital).
 
 ### Por Que Empreender com Pouco Investimento é Inteligente?
 

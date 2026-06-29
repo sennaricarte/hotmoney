@@ -13,7 +13,7 @@ Hoje, vamos desmistificar um dos melhores (e mais simples!) truques para aumenta
 
 Se você acha que cashback é complicado ou "bom demais para ser verdade", prepare-se. Vou te mostrar, com a experiência de quem já testou e lucrou com essa ferramenta, como ela funciona e, o principal, como você pode usá-la como uma poderosa aliada na sua jornada de **renda extra**.
 
-Cashback entra na seção de [renda extra e finanças pessoais](/renda-extra#financas) do nosso guia central.
+Cashback faz parte do nosso [guia de finanças pessoais](/financas-pessoais) — veja o panorama antes de escolher apps.
 
 ### **Afinal, O Que Significa Cashback? A Definição Simples e Direta**
 

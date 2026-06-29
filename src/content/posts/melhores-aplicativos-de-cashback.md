@@ -13,7 +13,7 @@ A busca por uma **renda extra** pode parecer complexa, mas eu vou te provar que,
 
 É exatamente isso que os **aplicativos de cashback** fazem. Eles são, na minha opinião, a forma mais fácil e passiva de começar a "gerar uma grana a mais", como dizemos por aqui. Não é sobre vender algo ou trabalhar mais, é sobre ser inteligente com o seu consumo.
 
-Veja como cashback se encaixa no [panorama de renda extra](/renda-extra#financas) antes de escolher um app.
+Veja como cashback se encaixa no [guia de finanças pessoais](/financas-pessoais) antes de escolher um app.
 
 **Meu compromisso com você:** Eu, Julio, testei e usei cada um dos apps desta lista. Aqui, você só verá opções que **pagam de verdade** e que são confiáveis para o seu bolso. Vamos juntos descobrir como transformar suas compras em pequenas fontes de retorno financeiro!
 

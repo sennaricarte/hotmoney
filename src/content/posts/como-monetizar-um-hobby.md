@@ -196,6 +196,17 @@ Monetizar um hobby é gratificante, mas nem sempre é fácil. Prepare-se para al
 
 No início, para testar a ideia, você pode operar como pessoa física. No entanto, se o seu faturamento começar a crescer e você quiser emitir notas fiscais, o ideal é formalizar-se, começando como MEI (Microempreendedor Individual) para operar dentro da legalidade com custos reduzidos. Veja [como abrir MEI](/como-abrir-mei) se encaixar no seu perfil.
 
+### Como definir o preço do que produzo no meu hobby?
+
+Some **custos reais**, não chute nem copie concorrente sem calcular. Passo a passo:
+
+1. **Materiais e insumos** — embalagem, frete que você absorve, taxas de plataforma (se houver).
+2. **Tempo** — estime horas por peça ou serviço e atribua um valor-hora que faça sentido para você (mesmo que simbólico no início).
+3. **Margem** — acrescente uma porcentagem ou valor fixo para cobrir imprevistos, devoluções e reinvestimento — **não há margem “certa” universal**; varia por nicho e escala.
+4. **Referência de mercado** — pesquise preços similares para calibrar, sem desvalorizar seu trabalho nem fixar valor abaixo do custo.
+
+**Preço mínimo de referência:** custo de materiais + (horas × valor-hora) + margem. Se o resultado ficar acima do que o mercado paga, ajuste escopo, eficiência ou nicho — **não promete lucro** só por precificar “bonito”. Revise preços após as primeiras vendas e feedback.
+
 ### Quanto tempo leva para começar a ver resultados financeiros?
 
 **Isso varia muito**, dependendo do hobby, do seu esforço, da demanda do mercado e da sua estratégia de marketing. Alguns veem as primeiras vendas em semanas; outros em meses. Não existe prazo padrão — consistência e ajustes de rota importam mais que velocidade.

@@ -249,3 +249,70 @@ a.badge:hover {
 .prose a:hover {
   color: var(--color-brand-dark);
 }
+
+/* Tabelas (Markdown → table) */
+.prose :where(table) {
+  width: 100%;
+  margin-block: var(--space-5);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  border-collapse: separate;
+  border-spacing: 0;
+  background: var(--color-surface);
+  box-shadow: var(--shadow-sm);
+  font-size: var(--text-base);
+  line-height: 1.55;
+  overflow: hidden;
+}
+
+.prose :where(caption) {
+  caption-side: top;
+  padding: var(--space-3) var(--space-4);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-text-muted);
+  text-align: left;
+}
+
+.prose :where(th, td) {
+  padding: var(--space-3) var(--space-4);
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.prose :where(th) {
+  font-size: var(--text-sm);
+  font-weight: 700;
+  color: var(--color-text);
+  background: rgb(189 50 30 / 0.07);
+}
+
+.prose :where(thead th) {
+  border-bottom: 2px solid var(--color-border);
+}
+
+.prose :where(tbody tr:last-child td) {
+  border-bottom: none;
+}
+
+.prose :where(tbody tr:nth-child(even) td) {
+  background: rgb(28 25 23 / 0.025);
+}
+
+.prose :where(th:not(:last-child), td:not(:last-child)) {
+  border-right: 1px solid var(--color-border);
+}
+
+@media (max-width: 639px) {
+  .prose :where(table) {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .prose :where(thead, tbody, tr) {
+    width: 100%;
+  }
+}

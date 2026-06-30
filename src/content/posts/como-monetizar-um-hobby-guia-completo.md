@@ -5,7 +5,7 @@ pubDate: 2026-05-12
 cover: ../../assets/posts/como-monetizar-um-hobby-guia-completo/cover.jpg
 coverAlt: "Ilustração sobre Transforme seu Hobby em Renda: Guia Completo para Monetizar Paixões - HotMoney"
 category: internet
-draft: false
+draft: true
 ---
 ## Introdução: Desbloqueando o Potencial Financeiro de Suas Paixões
 

@@ -3,9 +3,9 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/como-monetizar-um-hobby",
-      "destination": "/como-monetizar-um-hobby-guia-completo",
-      "permanent": true
+      "source": "/como-monetizar-um-hobby-guia-completo(/)?",
+      "destination": "/como-monetizar-um-hobby",
+      "statusCode": 308
     },
     {
       "source": "/aplicativos-de-renda-extra",

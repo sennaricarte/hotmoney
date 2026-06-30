@@ -16,7 +16,7 @@ export const RENDA_EXTRA_HUB: ContentHub = {
     'como-ganhar-dinheiro-na-internet-guia-completo',
     'renda-extra-nao-e-magica',
     'renda-extra-para-aposentados-em-casa',
-    'como-monetizar-um-hobby-guia-completo',
+    'como-monetizar-um-hobby',
     'renda-extra-com-hobbies',
   ]),
 };

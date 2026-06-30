@@ -34,6 +34,7 @@ export const EMPREENDEDORISMO_DIGITAL_HUB: ContentHub = {
     'negocios-lucrativos-pouco-investimento',
     'prompt-engineer-freelancer-chatgpt-99freelas',
     'como-abrir-mei',
+    'como-vender-no-mercado-livre',
   ]),
 };
 

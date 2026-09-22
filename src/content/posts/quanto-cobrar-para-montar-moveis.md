@@ -2,15 +2,18 @@
 title: "Quanto Cobrar para Montar Móveis: Guia e Tabela 2026"
 description: "Quanto cobrar para montar móveis? Veja tabela de preços por peça e por hora, fatores que alteram o valor e como montar um orçamento justo em 2026."
 pubDate: 2026-06-12
+updatedDate: 2026-09-22
 cover: ../../assets/posts/quanto-cobrar-para-montar-moveis/cover.jpg
 coverAlt: "Montador de móveis montando guarda-roupa com ferramentas profissionais - HotMoney"
 category: servicos
-draft: true
+draft: false
 ---
 
-**Quanto cobrar para montar móveis depende do tipo de móvel, da complexidade, da sua região e do modelo de cobrança.** No Brasil, em 2026, a faixa mais comum por hora fica entre **R$ 50 e R$ 150**, com média nacional em torno de **R$ 80 a R$ 120/hora**, segundo levantamentos de mercado de serviços. Por peça, valores simples começam perto de **R$ 60** (criado-mudo) e passam de **R$ 400** em cozinhas moduladas completas.
+**Quanto cobrar para montar móveis depende do tipo de móvel, da complexidade, da região e do modelo de cobrança.** No Brasil, em **set/2026**, levantamentos de mercado de serviços apontam faixa comum de **R$ 50 a R$ 150/hora**, com concentração em torno de **R$ 80 a R$ 120/hora**. Por peça, valores simples costumam começar perto de **R$ 60** (criado-mudo) e passar de **R$ 400** em cozinhas moduladas.
 
-Este guia é para quem **presta** o serviço e quer precificar com segurança — e também para quem vai **contratar** e precisa comparar orçamentos. Os valores abaixo são **referências de mercado**, não tabela oficial. Sempre ajuste à sua cidade e ao tempo real de cada trabalho.
+Este guia é informativo: serve a quem **presta** o serviço e a quem **contrata**. Os números abaixo são **faixas de mercado**, não tabela oficial. Variam por cidade, demanda e complexidade — confirme orçamento local antes de fechar.
+
+Este texto faz parte do [guia de renda extra](/renda-extra#servicos) — o mapa de serviços locais, internet e como começar.
 
 ## Os 3 modelos de cobrança na montagem de móveis
 
@@ -26,7 +29,7 @@ Na prática, **cobrança por peça é a mais usada** no mercado residencial. Por
 
 ## Tabela: quanto cobrar por tipo de móvel
 
-A tabela abaixo compila faixas indicativas observadas em guias de precificação de montagem no Brasil ([Cronoshare](https://www.cronoshare.com.br/quanto-custa/montagens-moveis), [Forte Montadores](https://fortemontadores.com.br/quanto-custa-contratar-um-montador-de-moveis-guia-de-precos-2025/)). Use como ponto de partida — não como preço fixo.
+A tabela abaixo reúne **faixas de mercado** compiladas em **set/2026** a partir de guias de precificação de montagem no Brasil ([Cronoshare](https://www.cronoshare.com.br/quanto-custa/montagens-moveis), [Forte Montadores](https://fortemontadores.com.br/quanto-custa-contratar-um-montador-de-moveis-guia-de-precos-2025/)). São referências — não preço fixo.
 
 | Tipo de móvel | Faixa por peça (R$) |
 |---------------|---------------------|
@@ -46,7 +49,7 @@ A tabela abaixo compila faixas indicativas observadas em guias de precificação
 
 ### Variação por região
 
-O custo de vida muda o preço final. Referências de mercado apontam:
+O custo de vida muda o preço final. Referências de mercado (**set/2026**) apontam:
 
 - **Sudeste e Sul:** diárias entre **R$ 220 e R$ 450**, com peças simples a partir de **R$ 100–120**
 - **Centro-Oeste:** faixa intermediária, peças simples **R$ 110–190**
@@ -56,7 +59,7 @@ Em capitais, espere valores **10% a 30% acima** da média de cidades menores na 
 
 ## Quanto cobrar por hora ou por diária?
 
-Se optar por hora, a referência nacional fica entre **R$ 50 e R$ 150/hora**, com concentração em **R$ 80–120/hora** para montadores com experiência e ferramentas próprias.
+Se o modelo for hora, a referência de mercado em **set/2026** fica entre **R$ 50 e R$ 150/hora**, com concentração em **R$ 80–120/hora** quando o montador já tem experiência e ferramentas próprias.
 
 Para calcular sua hora mínima, use esta lógica:
 
@@ -70,7 +73,7 @@ Por **diária** (jornada de 6–8 horas), referências regionais variam de **R$ 
 
 ## Serviços extras: o que cobrar além da montagem
 
-Muitos montadores deixam dinheiro na mesa por não precificar extras. Itens comuns:
+Parte do mercado deixa de precificar extras. Faixas indicativas em **set/2026**:
 
 | Serviço extra | Faixa indicativa (R$) |
 |---------------|----------------------|
@@ -91,11 +94,11 @@ Além da região, estes fatores alteram quanto cobrar para montar móveis:
 - **Marca e qualidade do manual** — IKEA e similares são previsíveis; móveis sem furação ou com peças faltando tomam mais tempo
 - **Portas de correr, espelhos e LED** — complexidade alta; cobre acima da tabela base
 - **Andar sem elevador** — adicione tempo de deslocamento de caixas
-- **Sua experiência e ferramentas** — parafusadeira de impacto, nível laser e referências justificam preço maior
-- **Garantia do serviço** — oferecer retorno em 7 dias para ajuste pode diferenciar você no mercado
-- **Pacote de múltiplos móveis** — pode dar desconto por volume, mas nunca abaixo do seu piso horário
+- **Experiência e ferramentas do montador** — parafusadeira de impacto, nível laser e portfólio costumam justificar faixa mais alta
+- **Garantia do serviço** — retorno em 7 dias para ajuste é um diferencial praticado por parte do mercado
+- **Pacote de múltiplos móveis** — desconto por volume aparece com frequência, desde que não fique abaixo do piso horário
 
-[EXPERIÊNCIA-JULIO: relatar aqui se você já cobrou montagem de móveis — valor por peça mais pedido, tempo médio e se usa app ou indicação.]
+No mercado, o serviço mais pedido costuma ser o **guarda-roupa**: montadores praticam a faixa da tabela acima e divulgam o trabalho por indicação ou apps de serviços. O tempo médio varia com o modelo; por isso a hora mínima funciona como chão da conta, não como preço de uma peça isolada.
 
 ## Como montar um orçamento que o cliente aceita
 
@@ -138,7 +141,7 @@ Guarda-roupa **2–3 portas**: em geral **R$ 120 a R$ 180**. Modelos **4–6 por
 
 ### Quanto um montador de móveis ganha por hora?
 
-A faixa de mercado em 2026 fica entre **R$ 50 e R$ 150/hora**, com média nacional próxima de **R$ 80–120/hora** para profissionais com ferramentas e experiência.
+A faixa de mercado em **set/2026** fica entre **R$ 50 e R$ 150/hora**, com concentração próxima de **R$ 80–120/hora** para profissionais com ferramentas e experiência.
 
 ### É melhor cobrar por peça ou por hora?
 
@@ -154,4 +157,8 @@ Desconto por volume pode fechar mais trabalho, desde que **não fique abaixo do 
 
 ### Como saber se estou cobrando barato demais?
 
-Se você monta mais de 4 horas por dia e não sobra margem para transporte, ferramentas e impostos, provavelmente está abaixo do mercado. Pesquise orçamentos na sua cidade e recalcule sua hora mínima mensal antes de aceitar o próximo serviço.
+Se a jornada passa de 4 horas por dia e não sobra margem para transporte, ferramentas e impostos, o preço provavelmente está abaixo do mercado. Compare orçamentos na cidade e recálcule a hora mínima mensal antes do próximo serviço.
+
+---
+
+*Conteúdo informativo, atualizado em **22 de setembro de 2026**. Os valores são **referências de mercado** e **variam por região, complexidade e demanda** — não são tabela oficial nem recomendação de preço. Não substitui orçamento local nem orientação de contador. Fontes das faixas: [Cronoshare](https://www.cronoshare.com.br/quanto-custa/montagens-moveis) e [Forte Montadores](https://fortemontadores.com.br/quanto-custa-contratar-um-montador-de-moveis-guia-de-precos-2025/) (consultadas em set/2026).*

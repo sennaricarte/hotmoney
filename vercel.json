@@ -1,6 +1,13 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
+  "routes": [
+    {
+      "src": "^/ideias-de-renda-extra/?$",
+      "status": 308,
+      "headers": { "Location": "/renda-extra" }
+    }
+  ],
   "redirects": [
     {
       "source": "/como-monetizar-um-hobby-guia-completo(/)?",
@@ -8,7 +15,12 @@
       "statusCode": 308
     },
     {
-      "source": "/ideias-de-renda-extra(/)?",
+      "source": "/ideias-de-renda-extra/",
+      "destination": "/renda-extra",
+      "statusCode": 308
+    },
+    {
+      "source": "/ideias-de-renda-extra",
       "destination": "/renda-extra",
       "statusCode": 308
     },

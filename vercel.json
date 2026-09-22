@@ -8,6 +8,11 @@
       "statusCode": 308
     },
     {
+      "source": "/ideias-de-renda-extra(/)?",
+      "destination": "/renda-extra",
+      "statusCode": 308
+    },
+    {
       "source": "/aplicativos-de-renda-extra",
       "destination": "/renda-extra-com-aplicativos-guia-completo",
       "permanent": true

@@ -24,6 +24,7 @@ const staticRoutes = new Set([
 const redirectSources = new Set([
   'como-monetizar-um-hobby',
   'aplicativos-de-renda-extra',
+  'ideias-de-renda-extra',
 ]);
 
 const linkRe = /(?:https:\/\/(?:www\.)?hotmoney\.blog\.br|\]\(\/)([^)\s"'#]+)/g;

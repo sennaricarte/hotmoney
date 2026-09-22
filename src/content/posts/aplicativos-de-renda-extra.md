@@ -17,7 +17,7 @@ Aproveitar aplicativos para gerar uma renda extra é mais fácil do que você im
 Primeiro, identifique suas habilidades e interesses. Se você gosta de dirigir, por exemplo, o Uber pode ser uma ótima escolha. Para quem tem talento na cozinha ou entrega rápida, o Rappi oferece oportunidades interessantes. O importante é alinhar sua rotina com as demandas dos aplicativos.
 Além disso, não subestime as plataformas de freelancing como Freelancer.com ou GetNinjas! Elas permitem que você monetize habilidades específicas em projetos pontuais. Assim, cada hora dedicada se transforma em um acréscimo significativo na sua renda mensal.
 
-**Confira também:** [10 Ideias de Renda Extra para Começar Hoje Mesmo](https://hotmoney.blog.br/ideias-de-renda-extra)
+**Confira também:** [Como fazer renda extra além dos apps](/renda-extra#ideias)
 
 ### Uber
 

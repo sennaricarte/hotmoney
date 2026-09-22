@@ -16,7 +16,7 @@ Vamos explorar juntos algumas das melhores formas de fazer renda extra usando o 
 Se você está pensando em adicionar uma renda extra ao seu orçamento, o carro pode ser uma ótima ferramenta. Existem várias maneiras de aproveitar esse ativo e transformar suas horas livres em dinheiro. Desde dirigir para aplicativos até oferecer serviços de entrega, as opções são variadas e acessíveis.
 Além disso, há oportunidades como alugar seu carro ou usar espaços publicitários no veículo. Cada opção tem suas vantagens e desvantagens, mas o importante é escolher a que melhor se adapta ao seu estilo de vida e disponibilidade.
 
-**Confira também:** [10 Ideias de Renda Extra para Começar Hoje Mesmo](https://hotmoney.blog.br/ideias-de-renda-extra)
+**Confira também:** [Mais rotas além do carro](/renda-extra#ideias)
 
 ### Motorista de Aplicativos de Transporte
 

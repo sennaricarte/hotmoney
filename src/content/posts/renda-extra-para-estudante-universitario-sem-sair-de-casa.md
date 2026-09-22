@@ -107,7 +107,7 @@ Exige responsabilidade e comunicação clara — habilidades que a faculdade já
 
 Resumo de disciplina (sem plagiar material protegido), planner de estudos, template de Notion, artesanato ou brechó no Instagram/Shopee. Investimento inicial baixo; escala leva alguns meses.
 
-Para ideias gerais, confira [10 Ideias de Renda Extra](https://hotmoney.blog.br/ideias-de-renda-extra).
+Para ideias gerais, confira [como ter uma renda extra](/renda-extra#ideias).
 
 ### 10. Cashback e economia inteligente
 

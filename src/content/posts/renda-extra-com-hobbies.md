@@ -19,7 +19,7 @@ Os hobbies são atividades que nos trazem prazer e relaxamento, mas você sabia 
 A internet facilitou esse processo. Plataformas digitais permitem que você alcance um público amplo e vendam seus produtos ou serviços com facilidade. Isso significa que seu talento pode chegar a pessoas do mundo todo!
 Além disso, trabalhar com algo que se gosta traz satisfação pessoal. Essa conexão emocional pode resultar em trabalhos mais autênticos e engajantes, atraindo ainda mais clientes interessados no seu estilo único.
 
-**Confira também:** [10 Ideias de Renda Extra para Começar Hoje Mesmo](https://hotmoney.blog.br/ideias-de-renda-extra)
+**Confira também:** [Outras ideias para ganhar dinheiro extra](/renda-extra#ideias)
 
 ## 10 hobbies que Podem Gerar Dinheiro em 2025
 

@@ -129,6 +129,6 @@ O objetivo inicial costuma ser **complementar** o benefício, não substituí-lo
 
 Aposentado não significa inativo — significa alguém com tempo, história e habilidades que o mercado ainda precisa. Ganhar renda extra em casa é totalmente viável quando você escolhe atividades compatíveis com sua saúde, declara corretamente o que for necessário e mantém expectativas realistas.
 
-Comece pequeno, use o que já sabe e vá ajustando o ritmo. Se quiser mais inspiração, confira também as [10 ideias de renda extra para começar hoje](/ideias-de-renda-extra).
+Comece pequeno, use o que já sabe e vá ajustando o ritmo. Se quiser mais inspiração, confira também o [guia de ideias para começar](/renda-extra#ideias).
 
 **Confira também:** [Como Usar a Internet para Ganhar R$ 500 extras por mês](/como-usar-a-internet-para-ganhar-extras)

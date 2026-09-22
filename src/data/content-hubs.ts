@@ -18,6 +18,7 @@ export const RENDA_EXTRA_HUB: ContentHub = {
     'renda-extra-para-aposentados-em-casa',
     'como-monetizar-um-hobby',
     'renda-extra-com-hobbies',
+    'quanto-cobrar-para-montar-moveis',
   ]),
 };
 

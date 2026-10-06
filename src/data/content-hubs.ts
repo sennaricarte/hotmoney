@@ -19,6 +19,7 @@ export const RENDA_EXTRA_HUB: ContentHub = {
     'como-monetizar-um-hobby',
     'renda-extra-com-hobbies',
     'quanto-cobrar-para-montar-moveis',
+    'renda-extra-para-estudante-universitario-sem-sair-de-casa',
   ]),
 };
 

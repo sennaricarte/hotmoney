@@ -38,7 +38,7 @@ O estágio remoto costuma pagar entre **R$ 800 e R$ 2.500/mês**, conforme área
 
 ### Freelancer e MEI
 
-Para freelas recorrentes, abrir **MEI** facilita emitir nota e receber de empresas. O limite de faturamento do MEI muda por ano — consulte o valor vigente na Receita Federal antes de formalizar.
+Para freelas recorrentes, [abrir **MEI**](/como-abrir-mei) facilita emitir nota e receber de empresas. O limite de faturamento do MEI muda por ano — consulte o valor vigente na Receita Federal antes de formalizar.
 
 ### Não sacrifique o curso
 

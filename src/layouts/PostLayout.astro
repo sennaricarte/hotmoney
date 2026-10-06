@@ -20,7 +20,7 @@ interface Props {
 
 const { post } = Astro.props;
 const allPosts = await getCollection('posts', ({ data }) => !data.draft);
-const { title, description, pubDate, updatedDate, cover, coverAlt, category } = post.data;
+const { title, seoTitle, description, pubDate, updatedDate, cover, coverAlt, category } = post.data;
 const canonical = new URL(`/${post.id}`, Astro.site).href;
 const isSvg = cover.format === 'svg';
 const faqSchema = getPostFaqPageSchema(extractPostFaq(post.body));
@@ -60,6 +60,7 @@ const breadcrumbs: BreadcrumbItem[] = hub
 
 <BaseLayout
   title={title}
+  seoTitle={seoTitle}
   description={description}
   canonical={canonical}
   type="article"

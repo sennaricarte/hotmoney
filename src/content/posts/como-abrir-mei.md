@@ -1,6 +1,7 @@
 ---
 title: "Como Abrir MEI em 2026: Passo a Passo Completo"
-description: "Como abrir MEI em 2026: requisitos, documentos, custo zero no Portal do Empreendedor, DAS mensal e passo a passo para emitir o CNPJ (CCMEI)."
+seoTitle: "Como Abrir MEI em 2026: Grátis, em 5 Passos"
+description: "Abrir MEI é grátis no Portal do Empreendedor. Requisitos, documentos, DAS mensal fixo, teto de R$ 81 mil e como emitir o CCMEI em 2026."
 pubDate: 2026-06-12
 updatedDate: 2026-06-12
 cover: ../../assets/posts/como-abrir-mei/cover.jpg

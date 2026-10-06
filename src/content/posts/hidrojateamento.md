@@ -70,7 +70,7 @@ A classificação ideal (CNAE) que engloba esse tipo de serviço é geralmente r
 
 -   **CNAE Comum:** **8129-0/00 - Atividades de Limpeza não Especificadas Anteriormente.** (Verifique sempre a legislação municipal, pois pode variar).
 
-O MEI te permite ter um CNPJ de forma rápida, barata (apenas o imposto mensal DAS) e ter acesso a benefícios previdenciários. É o caminho mais fácil para quem está começando a testar o mercado.
+O MEI te permite ter um CNPJ de forma rápida, barata (apenas o imposto mensal DAS) e ter acesso a benefícios previdenciários. É o caminho mais fácil para quem está começando a testar o mercado — veja [o passo a passo para abrir o seu](/como-abrir-mei).
 
 ## **\[Passo 3\] Quanto Cobrar para Lucrar de Verdade (****_HotMoney_** **na Prática)**
 

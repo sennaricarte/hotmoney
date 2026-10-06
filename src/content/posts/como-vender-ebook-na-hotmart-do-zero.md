@@ -164,7 +164,7 @@ A plataforma não substitui estratégia: o e-book é o produto; **tráfego e con
 
 ### Preciso de CNPJ para vender e-book na Hotmart?
 
-**Não para começar.** Pessoa física com CPF pode se cadastrar como Produtor. Conforme o volume cresce, vale conversar com um contador sobre MEI ou outro regime.
+**Não para começar.** Pessoa física com CPF pode se cadastrar como Produtor. Conforme o volume cresce, vale conversar com um contador sobre [MEI](/como-abrir-mei) ou outro regime.
 
 ### Quais formatos de arquivo a Hotmart aceita para e-book?
 

@@ -9,6 +9,8 @@ import { getOrganizationJsonLd, getWebSiteSchema } from '../utils/json-ld';
 
 interface Props {
   title: string;
+  /** Substitui `title` no <title>, og:title e twitter:title. */
+  seoTitle?: string;
   description: string;
   canonical?: string;
   type?: 'website' | 'article';
@@ -26,6 +28,7 @@ interface Props {
 
 const {
   title,
+  seoTitle,
   description,
   canonical = new URL(Astro.url.pathname, Astro.site).href,
   type = 'website',
@@ -65,6 +68,7 @@ const organizationJsonLd = getOrganizationJsonLd(Astro.site!);
     <script type="application/ld+json" set:html={JSON.stringify(organizationJsonLd)} />
     <SEO
       title={title}
+      seoTitle={seoTitle}
       description={description}
       canonical={canonical}
       type={type}

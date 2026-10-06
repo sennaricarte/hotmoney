@@ -1,6 +1,7 @@
 ---
 title: "Prompt Engineer Freelancer: Monetize ChatGPT no 99Freelas"
-description: "Se você chegou até aqui, provavelmente já se perguntou como a inteligência artificial, especialmente o ChatGPT, pode se encaixar na sua rotina de..."
+seoTitle: "Prompt Engineer Freelancer: 6 Passos no 99Freelas"
+description: "Sem programar: 7 serviços com ChatGPT para vender no 99Freelas (copy, tradução, conteúdo), custo para começar e 6 passos até o primeiro cliente."
 pubDate: 2026-04-22
 cover: ../../assets/posts/prompt-engineer-freelancer-chatgpt-99freelas/cover.jpg
 coverAlt: "Ilustração sobre Prompt Engineer Freelancer: Monetize ChatGPT no 99Freelas - HotMoney"

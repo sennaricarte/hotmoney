@@ -8,6 +8,7 @@ import { stripMarkdown } from '../utils/strip-markdown';
 
 interface Props {
   title: string;
+  seoTitle?: string;
   description: string;
   canonical: string;
   type?: 'website' | 'article';
@@ -22,6 +23,7 @@ interface Props {
 
 const {
   title,
+  seoTitle,
   description,
   canonical,
   type = 'website',
@@ -32,7 +34,8 @@ const {
 } = Astro.props;
 
 const siteName = 'Hotmoney';
-const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
+const displayTitle = seoTitle ?? title;
+const fullTitle = displayTitle === siteName ? displayTitle : `${displayTitle} | ${siteName}`;
 const cleanDescription = stripMarkdown(description);
 
 const defaultOg = await getImage({

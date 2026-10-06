@@ -2,6 +2,7 @@
 title: "10 Formas de Fazer Renda Extra Usando o ChatGPT (e Outras IAs) em 2025"
 description: "Nos últimos anos, a tecnologia tem avançado de maneira impressionante e as inteligências artificiais estão se tornando parte do nosso cotidiano."
 pubDate: 2025-11-24
+updatedDate: 2026-10-06
 cover: ../../assets/posts/fazer-renda-extra-usando-o-chatgpt/cover.jpg
 coverAlt: "Ilustração sobre 10 Formas de Fazer Renda Extra Usando o ChatGPT (e Outras IAs) em 2025 - HotMoney"
 category: ia
@@ -57,6 +58,8 @@ Com o avanço da tecnologia, criar e vender cursos online se tornou uma excelent
 Além disso, a plataforma permite que você ofereça cursos sobre diversos temas. Seja culinária, programação ou desenvolvimento pessoal, as opções são infinitas! Com a ajuda da IA, é possível personalizar os conteúdos para atender às necessidades do seu público-alvo.
 Após criar seu curso, basta escolher uma plataforma adequada para hospedá-lo e divulgá-lo nas redes sociais. A combinação dessas estratégias maximiza suas chances de sucesso nas vendas!
 
+> **Atenção:** a IA ajuda a esboçar o roteiro, mas as aulas precisam ser suas. Na Hotmart, o guia de cursos online não traz a mesma proibição expressa que vale para e-books, áudios e vídeos avulsos — a própria plataforma oferece a [Hotmart AI](https://suportehotmart.zendesk.com/hc/pt-br/articles/13980351530509-Hotmart-AI-como-usar-a-intelig%C3%AAncia-artificial-da-Hotmart-para-criar-meu-produto) para sugerir módulos e aulas, com a orientação de usar as sugestões só como ponto de partida e personalizar. Ainda assim, todo curso passa por verificação antes de ser liberado para venda (checado em 6/10/2026 na [central de ajuda da Hotmart](https://suportehotmart.zendesk.com/hc/pt-br/articles/360037537591-Curso-Online-tudo-o-que-voc%C3%AA-precisa-saber-para-cadastrar-e-configurar-seu-produto)).
+
 ### Criação de Vídeos Curtos Otimizados (Cortes)
 
 A criação de vídeos curtos otimizados se tornou uma forma popular de engajar o público e aumentar a visibilidade online. Com o auxílio do ChatGPT, você pode gerar roteiros dinâmicos que capturam a essência do seu conteúdo em poucos segundos.
@@ -72,6 +75,9 @@ Ao desenvolver um chatbot eficaz com IA, você não só economiza tempo como tam
 ### Redação e Publicação de E-books e Livros Digitais
 
 A redação e publicação de e-books e livros digitais é uma excelente forma de fazer renda extra. Com o auxílio do ChatGPT, você pode gerar ideias, estruturar capítulos e até mesmo revisar seu conteúdo. Essa ferramenta facilita todo o processo, deixando mais tempo para sua criatividade brilhar.
+
+> **Atenção:** use a IA para organizar ideias e montar a estrutura — o texto final publicado precisa ser seu. Plataformas como a Hotmart pedem que o conteúdo do e-book não tenha trechos gerados por IA, e produtos fora dessa regra podem ser reprovados na análise (checado em 6/10/2026 na [central de ajuda da Hotmart](https://suportehotmart.zendesk.com/hc/pt-br/articles/215828518-Como-cadastrar-meu-produto-na-Hotmart)). Antes de publicar em qualquer plataforma, confira a política dela sobre conteúdo gerado por IA.
+
 Além disso, a autopublicação em plataformas como Amazon Kindle ou Google Play Books tornou-se acessível a todos. Você pode alcançar leitores em potencial globalmente sem os custos altos da publicação tradicional.
 Uma vez que seu livro esteja pronto, promova-o nas redes sociais ou crie um site dedicado. O uso de estratégias SEO também ajudará a aumentar sua visibilidade online e atrair mais vendas ao longo do tempo.
 

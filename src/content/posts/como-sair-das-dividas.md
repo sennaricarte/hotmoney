@@ -1,19 +1,19 @@
 ---
 title: "Como Sair das Dívidas em 2026: Guia Prático para Renegociar"
-description: "Como sair das dívidas em 2026: priorize débitos, renegocie com o credor e use o Novo Desenrola Brasil se elegível. Guia prático com fontes oficiais."
+description: "Como sair das dívidas em 2026: priorize débitos, renegocie direto com o credor e veja quais programas Desenrola seguem abertos. Com fontes oficiais."
 pubDate: 2026-06-12
-updatedDate: 2026-06-30
+updatedDate: 2026-10-06
 cover: ../../assets/posts/como-sair-das-dividas/cover.jpg
 coverAlt: "Pessoa organizando contas e calculadora para renegociar dívidas financeiras - HotMoney"
 category: investimentos
 draft: false
 ---
 
-**Sair das dívidas em 2026 começa por mapear quanto você deve, para quem e a que juros** — depois escolher uma ordem de pagamento (bola de neve ou avalanche) e **renegociar diretamente com cada credor** (caminho evergreen, com ou sem programa federal). Enquanto o **Novo Desenrola Brasil** estiver **vigente** e você se enquadrar, pode valer a pena comparar condições especiais para cartão, cheque especial e crédito pessoal — adesão **no banco ou fintech onde está a dívida**, **sem app do governo**.
+**Sair das dívidas em 2026 começa por mapear quanto você deve, para quem e a que juros** — depois escolher uma ordem de pagamento (bola de neve ou avalanche) e **renegociar diretamente com cada credor** (caminho evergreen, com ou sem programa federal). O **Desenrola Famílias** (Novo Desenrola Brasil) está **encerrado desde 31/8/2026**; se você não tem carteira assinada e tem **crédito pessoal** em dia ou com pouco atraso, confira o **Desenrola Adimplentes** no banco enquanto o prazo estiver aberto — **sem app do governo**.
 
-Este guia faz parte do nosso [hub de finanças pessoais](/financas-pessoais). Abaixo: priorização, métodos de quitação, renegociação passo a passo, regras oficiais do Desenrola Famílias (quando aberto) e como evitar golpes de “limpa nome” — com fontes do [Ministério da Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/novo-desenrola-brasil) e do [Banco Central](https://www.bcb.gov.br/cidadaniafinanceira/calculadoras).
+Este guia faz parte do nosso [hub de finanças pessoais](/financas-pessoais). Abaixo: priorização, métodos de quitação, renegociação passo a passo, a situação de cada programa Desenrola (Famílias, Adimplentes e 3.0) e como evitar golpes de “limpa nome” — com fontes do [Ministério da Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/novo-desenrola-brasil) e do [Banco Central](https://www.bcb.gov.br/cidadaniafinanceira/calculadoras).
 
-> **Aviso de vigência:** o Novo Desenrola desta edição está **ATIVO** para adesão **até 14/9/2026** (prorrogação aprovada pelo Congresso em **23/6/2026**). A MP nº 1.355 previa **90 dias (~2/8/2026)** — veja a tabela na seção [Vigência](#vigencia-prazo-de-adesao). **Vigência confirmada em 30/06/2026;** reconfirme em gov.br/fazenda caso leia este guia após essa data. Se o prazo já tiver passado, use a [renegociação direta](#como-renegociar-diretamente-com-o-credor-passo-a-passo).
+> **Aviso de vigência (revisado em 6/10/2026):** o **Desenrola Famílias** (MP nº 1.355) está **ENCERRADO** — adesão até **31/8/2026**, conforme o [serviço oficial no gov.br](https://www.gov.br/pt-br/servicos/solicitar-renegociacao-de-dividas-familias) e o [Ato Declaratório do Congresso nº 89/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/congresso/adc-89-mpv1.355.htm). O **Desenrola Adimplentes** (MP nº 1.373) está **ATIVO** até **26/10/2026 [CONFIRMAR]**, prazo ampliado pela [MP nº 1.393](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1393.htm), que também criou o **Desenrola Brasil 3.0** (ainda sem regulamentação da Fazenda [CONFIRMAR]). Veja a seção [Vigência](#vigência-prazo-de-adesão). Se nenhum programa servir para você, use a [renegociação direta](#como-renegociar-diretamente-com-o-credor-passo-a-passo).
 
 ## Por onde começar: liste e priorize suas dívidas
 
@@ -95,11 +95,13 @@ Verifique se é **novo crédito** ou simples acordo de pagamento, se há tarifas
 
 Depois do acordo, pague a primeira parcela no prazo. Consulte periodicamente se a **negativação** foi atualizada (quando aplicável). A limpeza do nome **não é instantânea** em todos os casos — depende do credor e dos birôs.
 
-### 6. Se elegível e o programa estiver aberto, compare com o Novo Desenrola Brasil
+### 6. Se houver programa federal aberto e você for elegível, compare
 
-O Novo Desenrola está **ATIVO** (adesão **até 14/9/2026**). Se você for elegível, pergunte explicitamente se a instituição oferece condições do **Desenrola Famílias** (descontos de **30% a 90%**, juros máx. **1,99% a.m.**, parcelas em até **48x**, carência de **35 dias** para a 1ª parcela — limites conforme [FAQ oficial](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/faq/desenrola-brasil-familias)). **Se o prazo já tiver encerrado**, pule esta etapa e feche a melhor proposta **comercial direta** com o credor — o passo a passo da seção anterior continua válido.
+O **Desenrola Famílias** está **encerrado** desde **31/8/2026** — não aceita novas adesões. O programa federal com adesão aberta é o **Desenrola Adimplentes** (até **26/10/2026 [CONFIRMAR]**), restrito a quem **não tem carteira assinada**, não é servidor nem aposentado/pensionista, e tem **crédito pessoal sem consignação** em dia ou com até **90 dias** de atraso ([MP nº 1.373](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1373.htm)). Se você se enquadrar, pergunte ao banco se ele participa. **Se nenhum programa servir para o seu caso**, feche a melhor proposta **comercial direta** com o credor — o passo a passo acima continua válido.
 
-## Novo Desenrola Brasil 2026 — quem pode usar
+## Novo Desenrola Brasil 2026 (Famílias) — regras da edição encerrada
+
+> **Edição encerrada em 31/8/2026.** As regras abaixo ficam como registro para quem já fechou acordo e para comparar com futuras rodadas. Não é mais possível aderir ao Desenrola Famílias — veja o que segue aberto na seção [Vigência](#vigência-prazo-de-adesão).
 
 O **Novo Desenrola Brasil** é o programa federal relançado em **4 de maio de 2026**, coordenado pelo [Ministério da Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/novo-desenrola-brasil). **Não confunda** com edições anteriores do Desenrola (2023/2024): regras, prazos e elegibilidade **desta rodada** são as descritas abaixo.
 
@@ -107,7 +109,7 @@ Trata-se do eixo **Desenrola Famílias**, focado em pessoas físicas com renda l
 
 ### Quem é elegível (renda, tipo e tempo de dívida)
 
-Conforme a [FAQ Desenrola Brasil Famílias](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/faq/desenrola-brasil-familias), a [página oficial do serviço](https://www.gov.br/pt-br/servicos/novo-desenrola-brasil-familias) e orientações da [Caixa Econômica Federal](https://www.caixa.gov.br/voce/negociacao/Paginas/default.aspx):
+Conforme a [FAQ Desenrola Brasil Famílias](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/faq/desenrola-brasil-familias), a [página oficial do serviço](https://www.gov.br/pt-br/servicos/solicitar-renegociacao-de-dividas-familias) e orientações da [Caixa Econômica Federal](https://www.caixa.gov.br/voce/negociacao/Paginas/default.aspx):
 
 | Requisito | Regra oficial |
 |-----------|---------------|
@@ -138,6 +140,8 @@ Renda e elegibilidade podem ser comprovadas conforme exigência de **cada banco*
 
 ### Como aderir (direto no banco, sem app do governo)
 
+*Válido até 31/8/2026; hoje o Desenrola Famílias não recebe novas adesões.*
+
 **Não existe aplicativo oficial do governo** para aderir ao Novo Desenrola. O [Ministério da Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/novo-desenrola-brasil) orienta: **procure diretamente** o banco ou a instituição financeira onde você tem a dívida — app, internet banking, central telefônica ou agência.
 
 Instituições **podem optar por participar ou não**, embora bancos autorizados pelo BC estejam **aptos** a oferecer o novo contrato ([FAQ oficial](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/faq/desenrola-brasil-familias)). Se um banco disser que não participa, você ainda pode tentar **renegociação comercial** comum.
@@ -155,27 +159,42 @@ A [Caixa Econômica Federal](https://www.caixa.gov.br/voce/negociacao/Paginas/de
 
 ### Vigência: prazo de adesão
 
-O **Novo Desenrola Brasil** desta edição foi instituído pela **Medida Provisória nº 1.355**, com **início em 4/5/2026**, conforme [Ministério da Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/novo-desenrola-brasil) e [FAQ Desenrola Famílias](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/faq/desenrola-brasil-familias). **Em jun/2026, o programa está ATIVO** para adesão **até 14/9/2026** (prorrogação aprovada pelo Congresso em **23/6/2026**). A tabela abaixo registra por que a MP e a prorrogação indicam prazos diferentes:
+Situação conferida em **6/10/2026** em fontes oficiais (gov.br, Planalto e Congresso Nacional). São **três programas diferentes** — não confunda:
 
-| Fonte | O que estabelece | Prazo estimado de adesão |
-|-------|------------------|--------------------------|
-| **MP nº 1.355 / FAQ da Fazenda** | Duração de **90 dias** a partir do lançamento (**4/5/2026**) | **~2/8/2026** (90 dias corridos) |
-| **Prorrogação aprovada pelo Congresso (23/6/2026)** | Adesão **até 14/9/2026**, com **contagem suspensa no recesso parlamentar (18–31/7/2026)** — os dias do recesso **não entram** na conta; por isso os 90 dias originais da MP **não fecham** necessariamente em 2/8 | **Até 14/9/2026** *(vigente)* |
+| Programa | Base legal | Para quem | Situação em 6/10/2026 |
+|----------|------------|-----------|-----------------------|
+| **Novo Desenrola Brasil — Famílias** | [MP nº 1.355](https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/173846), de 4/5/2026 | Renda até 5 salários mínimos; cartão, cheque especial ou CDC com 91 dias a 2 anos de atraso | **ENCERRADO** — adesão até **31/8/2026**; MP sem eficácia desde essa data |
+| **Desenrola Adimplentes** | [MP nº 1.373](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1373.htm), de 29/6/2026, alterada pela MP nº 1.393 | Sem emprego formal, não servidor, não aposentado/pensionista; crédito pessoal sem consignação em dia ou com até 90 dias de atraso | **ATIVO** — 120 dias da publicação da MP: até **26/10/2026 [CONFIRMAR]** |
+| **Desenrola Brasil 3.0** | [MP nº 1.393](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1393.htm), de 25/9/2026 | Dívidas inadimplidas há mais de 720 e menos de 1.645 dias (contados de 25/9/2026), valor original abaixo de R$ 10 mil, bancárias ou não | **Instituído** (duração até 30/6/2028); operação depende de ato do Ministro da Fazenda **[CONFIRMAR]** |
 
-**Vigência confirmada em 30/06/2026;** reconfirme em [gov.br/fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/novo-desenrola-brasil) caso leia este guia após essa data. Antes de aderir, consulte também o **canal do banco onde está a dívida** — a instituição só oferece condições do Desenrola Famílias enquanto a adesão estiver aberta **naquele credor**.
+**Correção desta edição:** a versão anterior deste guia informava adesão ao Desenrola Famílias até 14/9/2026. As fontes oficiais indicam outra data: o [serviço no gov.br](https://www.gov.br/pt-br/servicos/solicitar-renegociacao-de-dividas-familias) registra disponibilidade **até 31/8/2026**, e o [Ato Declaratório do Congresso nº 89/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/congresso/adc-89-mpv1.355.htm) declara a vigência da MP nº 1.355 **encerrada em 31/8/2026**, sem conversão em lei.
 
-#### Se a adesão ainda estiver aberta (programa ATIVO)
+#### Desenrola Famílias — ENCERRADO
 
-1. Confira na [tabela de elegibilidade](#quem-é-elegível-renda-tipo-e-tempo-de-dívida) se você se enquadra (renda, tipo de dívida, atraso, data do contrato).
-2. **Veja se você é elegível e procure seu banco** — app, internet banking, central telefônica ou agência onde está o débito ([como aderir](#como-aderir-direto-no-banco-sem-app-do-governo)).
-3. Compare a oferta do **Desenrola Famílias** com qualquer proposta **comercial** da mesma instituição e assine só o que couber no seu orçamento.
+- **Não há novas adesões** desde **31/8/2026**.
+- **Já fechou acordo?** Continue pagando em dia. Pela [Constituição (art. 62, § 11)](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm), relações firmadas durante a vigência da MP seguem regidas por ela se o Congresso não editar decreto legislativo — prazo aberto até **30/10/2026**, conforme a [tramitação da MP nº 1.355](https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/173846).
+- Dívida que se encaixaria no programa? Use a [renegociação direta](#como-renegociar-diretamente-com-o-credor-passo-a-passo) com o credor.
 
-#### Se o prazo desta edição já tiver encerrado (programa ENCERRADO)
+#### Desenrola Adimplentes — ATIVO até 26/10/2026 [CONFIRMAR]
 
-**Se o prazo desta edição já passou, o método de renegociação direta abaixo continua válido, e novas edições do programa costumam ser relançadas** — como ocorreu em 2023 e 2024. Nesse cenário:
+Regras da [MP nº 1.373](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1373.htm), com prazo ampliado de 90 para **120 dias** pela [MP nº 1.393](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1393.htm):
+
+- **Quem pode:** pessoa física **sem vínculo empregatício formal ativo**, que **não** ocupe cargo público e **não** receba aposentadoria ou pensão.
+- **Qual dívida:** **crédito pessoal sem consignação**, com **pelo menos 4 parcelas pagas** e atraso de **até 90 dias** (até 28/6/2026 e também na data da nova operação); saldo de até **R$ 15 mil por instituição**.
+- **Fica de fora:** cartão de crédito (rotativo e parcelado), cheque especial, crédito rural e dívida com garantia real.
+- **Condições:** nova operação com juros de até **1,99% ao mês** e parcela **igual ou menor que 90%** da parcela original.
+- **Como aderir:** no banco ou financeira **participante** — não há app do governo. Nem toda instituição participa.
+
+#### Desenrola Brasil 3.0 — instituído, aguardando regulamentação [CONFIRMAR]
+
+A [MP nº 1.393](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1393.htm) autoriza a União a **comprar carteiras de dívidas atrasadas** de bancos e de outros credores (varejo, serviços, contas de consumo), com deságio mínimo de **90%**, e depois renegociar com o devedor — à vista ou parcelado, via **Banco do Brasil** ou **Caixa**. O desconto ao devedor pode chegar ao mesmo deságio obtido na compra. As regras dependem de **ato do Ministro da Fazenda**: até ele sair, **não existe adesão individual**. Desconfie de quem oferecer "inscrição no Desenrola 3.0".
+
+#### Se nenhum programa servir para você
+
+**O método de renegociação direta continua válido em qualquer data, e novas rodadas do Desenrola costumam ser lançadas** — como em 2023, 2024 e 2026. Nesse cenário:
 
 - **Pule** a etapa opcional do Desenrola no [passo a passo de renegociação](#como-renegociar-diretamente-com-o-credor-passo-a-passo) e feche acordo **comercial direto** (desconto, parcelamento, refinanciamento) com cada credor.
-- Acompanhe a [página da Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/novo-desenrola-brasil) para saber se uma **nova rodada** foi aberta.
+- Acompanhe a [página de renegociação de dívidas da Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/renegociacao-de-dividas) para saber quando o Desenrola 3.0 for regulamentado.
 - O **núcleo evergreen** do guia — mapear dívidas, escolher bola de neve ou avalanche e **negociar no canal oficial do banco** — **não depende** do calendário do Desenrola.
 
 > O Desenrola **amplia** opções para quem é elegível **enquanto dura**; quando encerra, bancos e fintechs **continuam** renegociando fora do programa. A renegociação direta com o credor é o caminho que permanece em qualquer data.
@@ -228,19 +247,19 @@ Taxas mudam; renegociação futura pode ser necessária. Acompanhe educação fi
 
 ### Como sair das dívidas com o nome sujo?
 
-**Liste todas as dívidas** e negocie **diretamente com cada credor** (banco ou fintech) — esse é o caminho que funciona **com ou sem** programa federal. Enquanto o **Novo Desenrola estiver vigente** (adesão **até 14/9/2026**) e você for elegível, pode obter condições especiais (**descontos, juros limitados a 1,99% a.m. e parcelamento longo**) — adesão **no banco**, não por app do governo. A retirada do nome dos birôs **depende do credor** reportar a quitação ou acordo; não é automática em todos os casos no mesmo dia.
+**Liste todas as dívidas** e negocie **diretamente com cada credor** (banco ou fintech) — esse é o caminho que funciona **com ou sem** programa federal. O **Desenrola Famílias**, voltado a quem tinha nome sujo por cartão, cheque especial ou CDC, **encerrou em 31/8/2026**. O **Desenrola Brasil 3.0**, para dívidas atrasadas há mais de 2 anos, foi criado em 25/9/2026, mas ainda **não tem adesão aberta** [CONFIRMAR]. A retirada do nome dos birôs **depende do credor** reportar a quitação ou acordo; não é automática em todos os casos no mesmo dia.
 
 ### O Novo Desenrola ainda está aberto para adesão?
 
-**Sim, em jun/2026 o programa está ATIVO** para adesão **até 14/9/2026** (prorrogação do Congresso, **23/6/2026**). A **MP nº 1.355** e a [FAQ da Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/faq/desenrola-brasil-familias) previam **90 dias** desde **4/5/2026** (~**2/8/2026**); a prorrogação estendeu o prazo, com contagem **suspensa no recesso (18–31/7/2026)**. **Vigência confirmada em 30/06/2026;** reconfirme em gov.br/fazenda caso leia após essa data. Se já encerrou, use a **renegociação direta** com o credor; novas edições costumam ser relançadas ([página oficial](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/novo-desenrola-brasil)).
+**Não.** O Desenrola Famílias (MP nº 1.355) aceitou adesões **até 31/8/2026** ([gov.br](https://www.gov.br/pt-br/servicos/solicitar-renegociacao-de-dividas-familias)), e a MP perdeu a eficácia nessa data ([Ato Declaratório do Congresso nº 89/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/congresso/adc-89-mpv1.355.htm)). Em 6/10/2026, o programa federal com adesão aberta é o **Desenrola Adimplentes**, até **26/10/2026 [CONFIRMAR]**, para trabalhadores sem carteira assinada com crédito pessoal em dia ou com até 90 dias de atraso. Fora dele, use a **renegociação direta** com o credor.
 
 ### O que é o Novo Desenrola Brasil e quem pode participar?
 
-É o programa federal relançado em **4/5/2026** para renegociar **cartão, cheque especial e CDC** de pessoas com renda até **R$ 8.105** (5 salários mínimos), dívidas contratadas até **31/01/2026** e **atraso superior a 91 dias**, apurado em **03/05/2026**, até **720 dias** (2 anos) — contratos que **entraram em atraso após 03/05/2026** ficam de fora. Fontes: [Ministério da Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/faq/desenrola-brasil-familias) e [Caixa](https://www.caixa.gov.br/voce/negociacao/Paginas/default.aspx).
+Foi o programa federal relançado em **4/5/2026** e **encerrado em 31/8/2026** para renegociar **cartão, cheque especial e CDC** de pessoas com renda até **R$ 8.105** (5 salários mínimos), dívidas contratadas até **31/01/2026** e **atraso superior a 91 dias**, apurado em **03/05/2026**, até **720 dias** (2 anos) — contratos que **entraram em atraso após 03/05/2026** ficam de fora. Fontes: [Ministério da Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/faq/desenrola-brasil-familias) e [Caixa](https://www.caixa.gov.br/voce/negociacao/Paginas/default.aspx).
 
 ### Quais dívidas podem ser renegociadas em 2026?
 
-**No Desenrola Famílias:** cartão, cheque especial e crédito pessoal (CDC) com **atraso superior a 91 dias** (apurado em **03/05/2026**), até **720 dias**, contrato até **31/01/2026** — atrasos iniciados **após 03/05/2026** não entram. **Fora dele:** financiamentos, consignado, contas de consumo e dívidas com lojas — cada uma exige negociação **direta com o credor**. Qualquer credor pode oferecer acordo comercial **fora** do programa.
+**No Desenrola Famílias (encerrado em 31/8/2026):** cartão, cheque especial e crédito pessoal (CDC) com **atraso superior a 91 dias** (apurado em **03/05/2026**), até **720 dias**, contrato até **31/01/2026** — atrasos iniciados **após 03/05/2026** não entram. **Fora dele:** financiamentos, consignado, contas de consumo e dívidas com lojas — cada uma exige negociação **direta com o credor**. **No Desenrola Adimplentes (aberto até 26/10/2026 [CONFIRMAR]):** crédito pessoal sem consignação, em dia ou com até 90 dias de atraso, de quem não tem carteira assinada. Qualquer credor pode oferecer acordo comercial **fora** dos programas.
 
 ### O Desenrola tem aplicativo oficial?
 
@@ -256,4 +275,4 @@ Negocie **só** por canais oficiais do banco, **não pague taxa antecipada** a i
 
 ---
 
-*Conteúdo informativo, atualizado em 30 de junho de 2026. **Não constitui consultoria financeira, assessoria de crédito ou orientação personalizada.** Condições de renegociação **variam por instituição**; confirme elegibilidade e **vigência atual** do Novo Desenrola Brasil nas fontes oficiais ([gov.br/fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/novo-desenrola-brasil/novo-desenrola-brasil), [serviço gov.br](https://www.gov.br/pt-br/servicos/novo-desenrola-brasil-familias), [Caixa](https://www.caixa.gov.br/voce/negociacao/Paginas/default.aspx)) — adesão confirmada **até 14/9/2026**; reconfirme em gov.br/fazenda se ler após **30/06/2026**. A renegociação direta com o credor permanece válida após o encerramento do programa. Consulte profissional certificado (CFP ou equivalente) para análise da sua situação.*
+*Conteúdo informativo, atualizado em 6 de outubro de 2026. **Não constitui consultoria financeira, assessoria de crédito ou orientação personalizada.** Condições de renegociação **variam por instituição**; confirme elegibilidade e **vigência atual** dos programas Desenrola nas fontes oficiais ([Fazenda](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/renegociacao-de-dividas), [serviço gov.br](https://www.gov.br/pt-br/servicos/solicitar-renegociacao-de-dividas-familias), [MP nº 1.393](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/mpv/mpv1393.htm)). Situação em 6/10/2026: Desenrola Famílias **encerrado em 31/8/2026**; Desenrola Adimplentes **aberto até 26/10/2026 [CONFIRMAR]**; Desenrola Brasil 3.0 **aguardando regulamentação [CONFIRMAR]**. A renegociação direta com o credor permanece válida em qualquer data. Consulte profissional certificado (CFP ou equivalente) para análise da sua situação.*

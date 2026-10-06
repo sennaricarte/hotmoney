@@ -72,6 +72,9 @@ Ao desenvolver um chatbot eficaz com IA, você não só economiza tempo como tam
 ### Redação e Publicação de E-books e Livros Digitais
 
 A redação e publicação de e-books e livros digitais é uma excelente forma de fazer renda extra. Com o auxílio do ChatGPT, você pode gerar ideias, estruturar capítulos e até mesmo revisar seu conteúdo. Essa ferramenta facilita todo o processo, deixando mais tempo para sua criatividade brilhar.
+
+> **Atenção:** use a IA para organizar ideias e montar a estrutura — o texto final publicado precisa ser seu. Plataformas como a Hotmart pedem que o conteúdo do e-book não tenha trechos gerados por IA, e produtos fora dessa regra podem ser reprovados na análise (checado em 6/10/2026 na [central de ajuda da Hotmart](https://suportehotmart.zendesk.com/hc/pt-br/articles/215828518-Como-cadastrar-meu-produto-na-Hotmart)). Antes de publicar em qualquer plataforma, confira a política dela sobre conteúdo gerado por IA.
+
 Além disso, a autopublicação em plataformas como Amazon Kindle ou Google Play Books tornou-se acessível a todos. Você pode alcançar leitores em potencial globalmente sem os custos altos da publicação tradicional.
 Uma vez que seu livro esteja pronto, promova-o nas redes sociais ou crie um site dedicado. O uso de estratégias SEO também ajudará a aumentar sua visibilidade online e atrair mais vendas ao longo do tempo.
 

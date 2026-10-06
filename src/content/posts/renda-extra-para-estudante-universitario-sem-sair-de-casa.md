@@ -127,7 +127,7 @@ Combine atividades leves com uma fonte principal:
 
 | Combinação | Horas/semana | Faixa mensal |
 |------------|--------------|--------------|
-| Só apps + pesquisas | 3 – 5h | R$ 100 – 400 |
+| Só apps + pesquisas | 3 – 5h | R$ 50 – 300 |
 | Apps + 1 aluno particular | 6 – 8h | R$ 210 – 700 |
 | Freela leve (2–3 projetos) | 10 – 15h | R$ 800 – 2.000 |
 | Estágio remoto | até 30h | R$ 800 – 2.500 |

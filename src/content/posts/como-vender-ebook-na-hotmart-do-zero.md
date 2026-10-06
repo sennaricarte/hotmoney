@@ -25,7 +25,7 @@ Antes de abrir o painel, organize o básico. Isso evita retrabalho e reprovaçã
 | **Dados pessoais** | CPF, endereço e informações completas no perfil do Produtor |
 | **Ideia validada** | Tema com demanda real — e-book sem público definido raramente vende sozinho |
 
-Não tem o livro escrito ainda? Dá para estruturar o conteúdo com ferramentas de IA, mas o texto precisa ter a sua voz e entregar valor real. Veja ideias em [Fazer Renda Extra Usando o ChatGPT](/fazer-renda-extra-usando-o-chatgpt).
+Não tem o livro escrito ainda? Use IA só para organizar ideias e montar um rascunho de estrutura (sumário, ordem dos capítulos). O texto final publicado deve ser seu: a Hotmart pede que o conteúdo do e-book não tenha trechos gerados por IA nem copiados da internet, e produtos fora dessa regra podem ser reprovados na análise (checado em 6/10/2026 na [central de ajuda](https://suportehotmart.zendesk.com/hc/pt-br/articles/215828518-Como-cadastrar-meu-produto-na-Hotmart)).
 
 ## Quanto custa vender e-book na Hotmart?
 

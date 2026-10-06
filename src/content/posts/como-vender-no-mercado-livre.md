@@ -1,6 +1,6 @@
 ---
-title: "Como Vender no Mercado Livre em 2026: Passo a Passo para Iniciantes"
-description: "Como vender no Mercado Livre: criar conta, tipos de anúncio, tarifas oficiais, Mercado Envios e erros comuns. Guia prático para iniciantes em 2026."
+title: "Como Vender no Mercado Livre em 6 Passos (2026)"
+description: "Da conta à 1ª venda: CPF ou CNPJ, anúncio Grátis, Clássico ou Premium, comissões de 10% a 19% e Mercado Envios. Com as tarifas oficiais do ML."
 pubDate: 2026-06-12
 updatedDate: 2026-06-12
 cover: ../../assets/posts/como-vender-no-mercado-livre/cover.jpg

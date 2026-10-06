@@ -129,7 +129,7 @@ Para empreender com pouco capital, confira também [Negócios Lucrativos com Pou
 
 ## MEI e nota fiscal: preciso me formalizar?
 
-Para valores baixos e clientes ocasionais, muita gente começa informalmente. Porém, condomínios, empresas e lojas parceiras costumam exigir **CNPJ ou nota**. O **MEI** é o caminho mais simples para formalizar serviço de manutenção e reparos (inclui atividades de instalação).
+Para valores baixos e clientes ocasionais, muita gente começa informalmente. Porém, condomínios, empresas e lojas parceiras costumam exigir **CNPJ ou nota**. O **MEI** é o caminho mais simples para [formalizar como microempreendedor](/como-abrir-mei) serviço de manutenção e reparos (inclui atividades de instalação).
 
 Consulte um contador sobre o enquadramento correto e o limite de faturamento do MEI no ano corrente. Cobrar o preço certo inclui reservar parte do valor para impostos — não esqueça disso na hora de definir sua tabela.
 

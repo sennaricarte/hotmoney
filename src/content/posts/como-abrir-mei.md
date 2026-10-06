@@ -3,7 +3,7 @@ title: "Como Abrir MEI em 2026: Passo a Passo Completo"
 seoTitle: "Como Abrir MEI em 2026: Grátis, em 5 Passos"
 description: "Abrir MEI é grátis no Portal do Empreendedor. Requisitos, documentos, DAS mensal fixo, teto de R$ 81 mil e como emitir o CCMEI em 2026."
 pubDate: 2026-06-12
-updatedDate: 2026-06-12
+updatedDate: 2026-10-06
 cover: ../../assets/posts/como-abrir-mei/cover.jpg
 coverAlt: "Empreendedor formalizando MEI no notebook com documentos e certificado digital - HotMoney"
 category: internet
@@ -12,7 +12,7 @@ draft: false
 
 **Abrir MEI em 2026 é gratuito, 100% online e leva poucos minutos** — desde que você se enquadre nas regras do Simples Nacional. O cadastro oficial acontece no [Portal do Empreendedor](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor) (gov.br), com login da conta gov.br. Não pague sites intermediários que cobram pela abertura.
 
-Depois de formalizar, você recebe o **CNPJ** e pode emitir o **CCMEI** (Certificado da Condição de Microempreendedor Individual). O custo fixo mensal é o **DAS**: **R$ 82,05** (comércio/indústria), **R$ 86,05** (serviços) ou **R$ 87,05** (comércio + serviços) em 2026, conforme [FAQ oficial do gov.br](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes/pagamento-da-contribuicao-mensal-carne-mensal/qual-o-valor-das-contribuicoes). O teto de faturamento permanece **R$ 81.000/ano**.
+Depois de formalizar, você recebe o **CNPJ** e pode emitir o **CCMEI** (Certificado da Condição de Microempreendedor Individual). O custo fixo mensal é o **DAS**: **R$ 82,05** (comércio/indústria), **R$ 86,05** (serviços) ou **R$ 87,05** (comércio + serviços) em 2026, conforme [FAQ oficial do gov.br](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes). O teto de faturamento permanece **R$ 81.000/ano**. *Valores checados em 6/10/2026 — mudam com o salário mínimo e com a lei; confirme no Portal do Empreendedor.*
 
 Este guia faz parte do nosso [hub de empreendedorismo digital](/empreendedorismo-digital). Abaixo: quem pode, documentos, passo a passo e obrigações — com fontes da Receita Federal e do Portal do Empreendedor.
 
@@ -63,7 +63,7 @@ O primeiro custo real aparece no **DAS do mês seguinte** à abertura (se houver
 
 ## Quanto o MEI paga por mês (DAS 2026)
 
-O **DAS** (Documento de Arrecadação do Simples Nacional) reúne INSS + ICMS e/ou ISS em valor fixo. Em 2026, os valores foram reajustados com base no salário mínimo de **R$ 1.621,00** (Decreto nº 12.797/2025), conforme [notícia da Receita Federal](https://www8.receita.fazenda.gov.br/simplesnacional/noticias/NoticiaCompleta.aspx?id=c3b2044c-ff97-432a-b33c-ecf2a3df6dc3) e [FAQ do gov.br](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes/pagamento-da-contribuicao-mensal-carne-mensal/qual-o-valor-das-contribuicoes):
+O **DAS** (Documento de Arrecadação do Simples Nacional) reúne INSS + ICMS e/ou ISS em valor fixo. Em 2026, os valores foram reajustados com base no salário mínimo de **R$ 1.621,00** (Decreto nº 12.797/2025), conforme [notícia da Receita Federal](https://www8.receita.fazenda.gov.br/simplesnacional/noticias/NoticiaCompleta.aspx?id=c3b2044c-ff97-432a-b33c-ecf2a3df6dc3) e [FAQ do gov.br](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes):
 
 | Atividade | INSS | ICMS/ISS | Total mensal |
 |-----------|------|----------|--------------|
@@ -73,13 +73,15 @@ O **DAS** (Documento de Arrecadação do Simples Nacional) reúne INSS + ICMS e/
 
 O INSS corresponde a **5% do salário mínimo** (R$ 81,05 = 5% × R$ 1.621,00).
 
+**Checado em 6/10/2026** no [FAQ do Portal do Empreendedor](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes). O valor muda todo ano junto com o salário mínimo — confirme lá antes de pagar.
+
 **Vencimento:** dia **20** de cada mês (ou próximo dia útil, se cair em fim de semana/feriado). Emissão pelo [PGMEI](https://www8.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/ATSPO/pgmei.app/Identificacao) ou app MEI.
 
 Se você recebe benefício previdenciário (auxílio-doença, salário-maternidade etc.), informe no PGMEI — o INSS pode ser descontado do DAS, restando só ICMS/ISS quando devidos.
 
 ## Limite de faturamento do MEI em 2026
 
-O teto oficial de receita bruta anual é **R$ 81.000,00**, equivalente a **R$ 6.750,00/mês** como referência — conforme [FAQ do Portal do Empreendedor](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes).
+O teto oficial de receita bruta anual é **R$ 81.000,00**, equivalente a **R$ 6.750,00/mês** como referência — conforme [FAQ do Portal do Empreendedor](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes). **Checado em 6/10/2026;** há proposta de aumento em tramitação no Congresso, então confirme o teto vigente no Portal.
 
 **Ano de abertura:** o limite é **proporcional** aos meses de atividade. Exemplo oficial: MEI aberto em junho → 7 meses × R$ 6.750 = **R$ 47.250,00** até dezembro.
 
@@ -169,7 +171,7 @@ Não confunda o **PLP 67/2025** (MEI, Câmara) com o **PLP 67/2026** do Senado, 
 
 ### Quanto o MEI paga por mês?
 
-Em 2026, o DAS fixo é **R$ 82,05** (comércio/indústria), **R$ 86,05** (serviços) ou **R$ 87,05** (comércio + serviços), conforme [gov.br](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes/pagamento-da-contribuicao-mensal-carne-mensal/qual-o-valor-das-contribuicoes). Vencimento: dia 20.
+Em 2026, o DAS fixo é **R$ 82,05** (comércio/indústria), **R$ 86,05** (serviços) ou **R$ 87,05** (comércio + serviços), conforme [gov.br](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes). Vencimento: dia 20.
 
 ### Posso abrir MEI sendo CLT?
 

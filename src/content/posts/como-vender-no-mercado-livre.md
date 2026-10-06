@@ -1,5 +1,6 @@
 ---
-title: "Como Vender no Mercado Livre em 6 Passos (2026)"
+title: "Como Vender no Mercado Livre em 2026: Passo a Passo para Iniciantes"
+seoTitle: "Como Vender no Mercado Livre em 6 Passos (2026)"
 description: "Da conta à 1ª venda: CPF ou CNPJ, anúncio Grátis, Clássico ou Premium, comissões de 10% a 19% e Mercado Envios. Com as tarifas oficiais do ML."
 pubDate: 2026-06-12
 updatedDate: 2026-06-12

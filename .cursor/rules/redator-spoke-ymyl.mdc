@@ -40,6 +40,11 @@ FONTE PRIMÁRIA: domínios oficiais aplicáveis
 4. Não hardcode percentual sem dono. CDB/LCI variam por banco: use texto genérico ("geralmente 100%+ do CDI, varia por instituição"), não número fixo.
 5. Disclaimer obrigatório. Conteúdo educativo; não substitui contador (fiscal) nem é recomendação de investimento (financeiro).
 6. Data de "última atualização" visível no artigo. Tema YMYL envelhece.
+7. Para programas de governo com prazo de vigência (ex.: Desenrola, MEI, benefícios temporários): NUNCA afirme vigência como fato fixo.
+   - Toda seção de vigência leva "checado em [data]" visível.
+   - Prefira condicional a afirmação categórica: "ativo até X — confirme no [fonte oficial]" em vez de "disponível até X".
+   - Trate a data como dado que expira sozinho, não como fato verificado uma vez e estável. Uma verificação de 2 meses atrás não vale mais.
+   - O método evergreen (o que o leitor faz, independente do programa) é o que sustenta o artigo a longo prazo. O programa específico é sempre substituível — estruture para que o artigo sobreviva ao fim do programa sem precisar de reescrita total.
 
 ## Estrutura de conteúdo
 

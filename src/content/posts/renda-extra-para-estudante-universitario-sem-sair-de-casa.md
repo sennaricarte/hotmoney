@@ -38,7 +38,7 @@ Estágio home office é legal e comum, mas segue a [Lei nº 11.788/2008](https:/
 
 O percentual mínimo de frequência não está nessa lei. No ensino superior, a [LDB](https://www.planalto.gov.br/ccivil_03/leis/l9394.htm) só diz que a frequência é obrigatória (art. 47, § 3º) — o número exato vem do regimento da sua instituição. Confira no regimento ou na secretaria antes de assumir a jornada.
 
-O estágio remoto costuma pagar entre **R$ 800 e R$ 2.500/mês**, conforme área e empresa — valor da bolsa varia e deve constar no contrato.
+O estágio remoto costuma pagar entre **R$ 800 e R$ 2.500/mês**, conforme área e empresa — valor da bolsa varia e deve constar no termo de compromisso.
 
 ### Freelancer e MEI
 

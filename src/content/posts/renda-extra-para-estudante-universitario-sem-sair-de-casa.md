@@ -57,13 +57,14 @@ Plataformas como **99Freelas**, **Workana** e **LinkedIn** concentram projetos r
 | Perfil | Faixa praticada no mercado (out/2026) |
 |--------|------------------|
 | Redação / copy | R$ 25 – 120 por texto curto, conforme experiência |
-| Design de post | R$ 50 – 200 por peça [CONFIRMAR] |
+| Design de post | R$ 30 – 200 por peça, conforme senioridade |
 | Tradução EN↔PT | R$ 0,08 – 0,15 por palavra (iniciantes em plataformas) |
 
 São faixas de mercado, não tabela oficial — variam por plataforma, nicho e experiência. Comece com preço abaixo da média para ganhar avaliações. Com portfólio, o valor sobe.
 
-- **Redação:** em plataformas de freelancer, propostas abaixo de **R$ 0,03 por palavra** são comuns, mas não são recomendadas — o valor mal cobre o tempo de pesquisa e revisão. Checado em 6/10/2026.
-- **Tradução:** R$ 0,08 a R$ 0,15 por palavra é o praticado por tradutores iniciantes em plataformas de freelancer. A [tabela de referência do Sintra](https://sintra.org.br/valores) (Sindicato Nacional dos Tradutores) sugere valores mais altos — **R$ 0,45 por palavra** na tradução para o português e **R$ 0,57** na versão para outro idioma —, mas são valores cobrados do cliente final por profissionais, e é raro conseguir isso sem carteira de clientes e experiência comprovada. Checado em 6/10/2026.
+- **Redação:** o [guia de preços da Cronoshare](https://www.cronoshare.com.br/quanto-custa/redacao-conteudo) aponta média nacional de **R$ 25 a R$ 60 por artigo**; a [tabela 2026 do FreelancerOnline](https://www.freelanceronline.com.br/blog/quanto-cobrar-como-freelancer-tabela-de-precos-e-como-calcular-em-2026/) indica **R$ 60 a R$ 120** por artigo de blog de até 1.000 palavras para iniciantes. Em plataformas de freelancer, propostas abaixo de **R$ 0,03 por palavra** são comuns, mas não são recomendadas — o valor mal cobre o tempo de pesquisa e revisão. Checado em 6/10/2026.
+- **Design:** segundo a [tabela 2026 da Freelans](https://freelans.com.br/blog/quanto-custa-designer-grafico-freelancer), post para redes sociais sai por **R$ 30 a R$ 80** por peça com designer júnior e **R$ 80 a R$ 200** com pleno. Checado em 6/10/2026.
+- **Tradução:** R$ 0,08 a R$ 0,15 por palavra é o praticado por tradutores iniciantes em plataformas de freelancer. Como referência adicional, o blog [Tradutor Iniciante](https://tradutoriniciante.com.br/quanto-devo-cobrar-pela-traducao) cita média de **R$ 0,10 por palavra** para cliente direto (post de 2013). A [tabela de referência do Sintra](https://sintra.org.br/valores) (Sindicato Nacional dos Tradutores) sugere valores mais altos — **R$ 0,45 por palavra** na tradução para o português e **R$ 0,57** na versão para outro idioma —, mas são valores cobrados do cliente final por profissionais, e é raro conseguir isso sem carteira de clientes e experiência comprovada. Checado em 6/10/2026.
 
 ### 2. Estágio ou trainee remoto
 
@@ -75,7 +76,7 @@ Vantagem: experiência no currículo + renda fixa. Desvantagem: horário mais r�
 
 Se você vai bem em cálculo, redação, inglês ou disciplinas do vestibular, dá para dar aula por **Google Meet** ou **Zoom**. Anuncie em grupos de pais, OLX ou redes sociais.
 
-- **1 a 2 alunos** de 1h/semana cada = **R$ 400 a R$ 800/mês**, considerando **R$ 50–100/hora** — faixa praticada no mercado, out/2026 [CONFIRMAR]
+- **1 a 2 alunos** de 1h/semana cada = cerca de **R$ 160 a R$ 800/mês**, considerando **R$ 40–100/hora** — o valor varia por matéria e se a aula é online ou presencial ([Cronoshare](https://www.cronoshare.com.br/quanto-custa/aulas-reforco-escolar), checado em 6/10/2026)
 - Horário ideal: noite e fim de semana
 
 ### 4. Pesquisas remuneradas e microtarefas no celular

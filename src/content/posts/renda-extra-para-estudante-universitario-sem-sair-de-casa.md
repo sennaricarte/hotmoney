@@ -64,7 +64,7 @@ São faixas de mercado, não tabela oficial — variam por plataforma, nicho e e
 
 - **Redação:** o [guia de preços da Cronoshare](https://www.cronoshare.com.br/quanto-custa/redacao-conteudo) aponta média nacional de **R$ 25 a R$ 60 por artigo**; a [tabela 2026 do FreelancerOnline](https://www.freelanceronline.com.br/blog/quanto-cobrar-como-freelancer-tabela-de-precos-e-como-calcular-em-2026/) indica **R$ 60 a R$ 120** por artigo de blog de até 1.000 palavras para iniciantes. Em plataformas de freelancer, propostas abaixo de **R$ 0,03 por palavra** são comuns, mas não são recomendadas — o valor mal cobre o tempo de pesquisa e revisão. Checado em 6/10/2026.
 - **Design:** segundo a [tabela 2026 da Freelans](https://freelans.com.br/blog/quanto-custa-designer-grafico-freelancer), post para redes sociais sai por **R$ 30 a R$ 80** por peça com designer júnior e **R$ 80 a R$ 200** com pleno. Checado em 6/10/2026.
-- **Tradução:** R$ 0,08 a R$ 0,15 por palavra é o praticado por tradutores iniciantes em plataformas de freelancer. Como referência adicional, o blog [Tradutor Iniciante](https://tradutoriniciante.com.br/quanto-devo-cobrar-pela-traducao) cita média de **R$ 0,10 por palavra** para cliente direto (post de 2013). A [tabela de referência do Sintra](https://sintra.org.br/valores) (Sindicato Nacional dos Tradutores) sugere valores mais altos — **R$ 0,45 por palavra** na tradução para o português e **R$ 0,57** na versão para outro idioma —, mas são valores cobrados do cliente final por profissionais, e é raro conseguir isso sem carteira de clientes e experiência comprovada. Checado em 6/10/2026.
+- **Tradução:** R$ 0,08 a R$ 0,15 por palavra é o praticado por tradutores iniciantes em plataformas de freelancer. A [tabela de referência do Sintra](https://sintra.org.br/valores) (Sindicato Nacional dos Tradutores) sugere valores mais altos — **R$ 0,45 por palavra** na tradução para o português e **R$ 0,57** na versão para outro idioma —, mas são valores cobrados do cliente final por profissionais, e é raro conseguir isso sem carteira de clientes e experiência comprovada. Checado em 6/10/2026.
 
 ### 2. Estágio ou trainee remoto
 
@@ -128,7 +128,7 @@ Combine atividades leves com uma fonte principal:
 | Combinação | Horas/semana | Faixa mensal |
 |------------|--------------|--------------|
 | Só apps + pesquisas | 3 – 5h | R$ 100 – 400 |
-| Apps + 1 aluno particular | 6 – 8h | R$ 500 – 900 |
+| Apps + 1 aluno particular | 6 – 8h | R$ 210 – 700 |
 | Freela leve (2–3 projetos) | 10 – 15h | R$ 800 – 2.000 |
 | Estágio remoto | até 30h | R$ 800 – 2.500 |
 | Freela + conteúdo/afiliados | 15 – 20h | R$ 1.500 – 3.000+ |

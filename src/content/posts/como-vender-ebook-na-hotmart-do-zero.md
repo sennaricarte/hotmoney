@@ -6,7 +6,7 @@ updatedDate: 2026-10-06
 cover: ../../assets/posts/como-vender-ebook-na-hotmart-do-zero/cover.jpg
 coverAlt: "Pessoa criando e vendendo e-book digital na plataforma Hotmart - HotMoney"
 category: internet
-draft: true
+draft: false
 ---
 
 **Para vender um e-book na Hotmart do zero**, você precisa de três coisas: o arquivo do livro (em geral PDF), uma conta gratuita de Produtor e a configuração completa do produto no painel — nome, preço, garantia e página de vendas. O cadastro não exige CNPJ; pessoa física com CPF pode começar. A plataforma cobra **9,9% + R$ 2,49 por venda** acima de R$ 10, sem mensalidade (checado em 6/10/2026 na [central de ajuda da Hotmart](https://suportehotmart.zendesk.com/hc/pt-br/articles/208298448-Quais-s%C3%A3o-as-taxas-cobradas-pela-Hotmart)).

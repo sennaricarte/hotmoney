@@ -2,6 +2,7 @@
 title: "10 Formas de Fazer Renda Extra Usando o ChatGPT (e Outras IAs) em 2025"
 description: "Nos últimos anos, a tecnologia tem avançado de maneira impressionante e as inteligências artificiais estão se tornando parte do nosso cotidiano."
 pubDate: 2025-11-24
+updatedDate: 2026-10-06
 cover: ../../assets/posts/fazer-renda-extra-usando-o-chatgpt/cover.jpg
 coverAlt: "Ilustração sobre 10 Formas de Fazer Renda Extra Usando o ChatGPT (e Outras IAs) em 2025 - HotMoney"
 category: ia
@@ -56,6 +57,8 @@ Oferecer serviços de consultoria em prompts pode ser um nicho promissor. Se voc
 Com o avanço da tecnologia, criar e vender cursos online se tornou uma excelente forma de fazer renda extra usando o ChatGPT. Você pode utilizar a IA para desenvolver conteúdos didáticos que sejam atraentes e informativos. O ChatGPT ajuda na estruturação das aulas, elaboração de quizzes e até na criação de materiais complementares.
 Além disso, a plataforma permite que você ofereça cursos sobre diversos temas. Seja culinária, programação ou desenvolvimento pessoal, as opções são infinitas! Com a ajuda da IA, é possível personalizar os conteúdos para atender às necessidades do seu público-alvo.
 Após criar seu curso, basta escolher uma plataforma adequada para hospedá-lo e divulgá-lo nas redes sociais. A combinação dessas estratégias maximiza suas chances de sucesso nas vendas!
+
+> **Atenção:** a IA ajuda a esboçar o roteiro, mas as aulas precisam ser suas. Na Hotmart, o guia de cursos online não traz a mesma proibição expressa que vale para e-books, áudios e vídeos avulsos — a própria plataforma oferece a [Hotmart AI](https://suportehotmart.zendesk.com/hc/pt-br/articles/13980351530509-Hotmart-AI-como-usar-a-intelig%C3%AAncia-artificial-da-Hotmart-para-criar-meu-produto) para sugerir módulos e aulas, com a orientação de usar as sugestões só como ponto de partida e personalizar. Ainda assim, todo curso passa por verificação antes de ser liberado para venda (checado em 6/10/2026 na [central de ajuda da Hotmart](https://suportehotmart.zendesk.com/hc/pt-br/articles/360037537591-Curso-Online-tudo-o-que-voc%C3%AA-precisa-saber-para-cadastrar-e-configurar-seu-produto)).
 
 ### Criação de Vídeos Curtos Otimizados (Cortes)
 

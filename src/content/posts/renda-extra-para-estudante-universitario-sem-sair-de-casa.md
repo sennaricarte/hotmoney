@@ -6,7 +6,7 @@ updatedDate: 2026-10-06
 cover: ../../assets/posts/renda-extra-para-estudante-universitario-sem-sair-de-casa/cover.jpg
 coverAlt: "Estudante universitário trabalhando no notebook em casa para ganhar renda extra - HotMoney"
 category: internet
-draft: true
+draft: false
 ---
 
 Mensalidade, transporte, material, alimentação — a conta do universitário fecha apertada. Se você estuda em período integral e não pode pegar um emprego presencial de 8 horas, **renda extra sem sair de casa** é uma saída realista: freelas entre aulas, estágio remoto, aulas particulares online ou apps que pagam no celular.
@@ -38,7 +38,7 @@ Estágio home office é legal e comum, mas segue a [Lei nº 11.788/2008](https:/
 
 O percentual mínimo de frequência não está nessa lei. No ensino superior, a [LDB](https://www.planalto.gov.br/ccivil_03/leis/l9394.htm) só diz que a frequência é obrigatória (art. 47, § 3º) — o número exato vem do regimento da sua instituição. Confira no regimento ou na secretaria antes de assumir a jornada.
 
-O estágio remoto costuma pagar entre **R$ 800 e R$ 2.500/mês**, conforme área e empresa — valor da bolsa varia e deve constar no termo de compromisso.
+A bolsa varia por empresa e área — o valor consta no termo de compromisso. Faixas de **R$ 800 a R$ 2.500/mês** são comuns em vagas remotas, mas confirme na oferta antes de se candidatar.
 
 ### Freelancer e MEI
 
@@ -129,7 +129,7 @@ Combine atividades leves com uma fonte principal:
 |------------|--------------|--------------|
 | Só apps + pesquisas | 3 – 5h | R$ 50 – 300 |
 | Apps + 1 aluno particular | 6 – 8h | R$ 210 – 700 |
-| Freela leve (2–3 projetos) | 10 – 15h | R$ 800 – 2.000 |
+| Freela leve (volume de textos/peças) | 10 – 15h | R$ 800 – 2.000 |
 | Estágio remoto | até 30h | R$ 800 – 2.500 |
 | Freela + conteúdo/afiliados | 15 – 20h | R$ 1.500 – 3.000+ |
 

@@ -31,8 +31,9 @@ O desafio é o oposto: **tempo limitado** e provas que não esperam. Por isso, a
 Estágio home office é legal e comum, mas segue a [Lei nº 11.788/2008](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm):
 
 - Jornada máxima de **6 horas por dia** e **30 horas por semana**
-- Bolsa-auxílio e seguro contra acidentes pessoais obrigatórios (em estágio não obrigatório)
-- Contrato deve indicar se o trabalho é **presencial, remoto ou híbrido**
+- **Seguro contra acidentes pessoais** obrigatório em **qualquer** estágio (art. 9º, IV)
+- No estágio **não obrigatório**, **bolsa** (ou outra contraprestação) e **auxílio-transporte** também são obrigatórios (art. 12)
+- Tudo é formalizado no **termo de compromisso** entre você, a empresa e a faculdade (art. 3º, II) — a jornada precisa constar dele (art. 10). A lei não trata de remoto ou híbrido; se a vaga for home office, deixe isso combinado por escrito no termo
 - Você precisa manter **matrícula e frequência regular**, atestadas pela faculdade (art. 3º, I)
 
 O percentual mínimo de frequência não está nessa lei. No ensino superior, a [LDB](https://www.planalto.gov.br/ccivil_03/leis/l9394.htm) só diz que a frequência é obrigatória (art. 47, § 3º) — o número exato vem do regimento da sua instituição. Confira no regimento ou na secretaria antes de assumir a jornada.
@@ -139,7 +140,7 @@ Na prática, o que costuma decidir se a conta fecha não é a atividade escolhid
 - **Entre aulas (30–60 min):** pesquisas, responder cliente, microfreelas
 - **Noite (1–2h):** aula particular, projeto com prazo
 - **Fim de semana:** trabalhos maiores, portfólio, divulgação
-- **Semana de prova:** pause freelas e avise clientes com antecedência
+- **Semana de prova:** pause freelas e avise clientes com antecedência. No estágio, se a faculdade fizer avaliações periódicas ou finais, a carga horária cai **pelo menos à metade** nesses períodos, conforme o termo de compromisso ([Lei nº 11.788/2008, art. 10, § 2º](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm))
 
 ### Ferramentas gratuitas
 

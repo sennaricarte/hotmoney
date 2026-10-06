@@ -56,11 +56,14 @@ Plataformas como **99Freelas**, **Workana** e **LinkedIn** concentram projetos r
 
 | Perfil | Faixa praticada no mercado (out/2026) |
 |--------|------------------|
-| Redação / copy | R$ 30 – 150 por texto curto [CONFIRMAR] |
+| Redação / copy | R$ 25 – 120 por texto curto, conforme experiência |
 | Design de post | R$ 50 – 200 por peça [CONFIRMAR] |
-| Tradução EN↔PT | R$ 0,08 – 0,15 por palavra [CONFIRMAR] |
+| Tradução EN↔PT | R$ 0,08 – 0,15 por palavra (iniciantes em plataformas) |
 
 São faixas de mercado, não tabela oficial — variam por plataforma, nicho e experiência. Comece com preço abaixo da média para ganhar avaliações. Com portfólio, o valor sobe.
+
+- **Redação:** em plataformas de freelancer, propostas abaixo de **R$ 0,03 por palavra** são comuns, mas não são recomendadas — o valor mal cobre o tempo de pesquisa e revisão. Checado em 6/10/2026.
+- **Tradução:** R$ 0,08 a R$ 0,15 por palavra é o praticado por tradutores iniciantes em plataformas de freelancer. A [tabela de referência do Sintra](https://sintra.org.br/valores) (Sindicato Nacional dos Tradutores) sugere valores mais altos — **R$ 0,45 por palavra** na tradução para o português e **R$ 0,57** na versão para outro idioma —, mas são valores cobrados do cliente final por profissionais, e é raro conseguir isso sem carteira de clientes e experiência comprovada. Checado em 6/10/2026.
 
 ### 2. Estágio ou trainee remoto
 
